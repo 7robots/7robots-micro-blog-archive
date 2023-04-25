@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/04/25/george-brown-school.html",
+				
+				"content_html": "<p>George Brown School of Engineering at Rice University</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "George Brown School of Engineering at Rice University \n\n<img src=\"uploads/2023/965f8b90a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-25T19:28:33-04:00",
+				"url": "https://www.7robots.org/2023/04/25/george-brown-school.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/04/23/finished-reading-queen.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781497608894\">Queen of Angels</a> by Greg Bear 📚</p>\n",
+				"content_text": "Finished reading: [Queen of Angels](https://micro.blog/books/9781497608894) by Greg Bear 📚\n",
+				"date_published": "2023-04-23T01:29:25-04:00",
+				"url": "https://www.7robots.org/2023/04/23/finished-reading-queen.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/04/22/a-great-tree.html",
+				
+				"content_html": "<p>A great tree on the Rice campus today</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A great tree on the Rice campus today \n\n<img src=\"uploads/2023/d388a30a94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-22T16:46:19-04:00",
+				"url": "https://www.7robots.org/2023/04/22/a-great-tree.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/04/19/currently-reading-antimatter.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250275066\">Antimatter Blues</a> by Edward Ashton 📚</p>\n",
