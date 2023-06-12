@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/06/11/slowness.html",
+				"title": "Slowness",
+				"content_html": "<p>“In existential mathematics, that experience takes the form of two basic equations: the degree of slowness is directly proportional to the intensity of memory; the degree of speed is directly proportional to the intensity of forgetting.”</p>\n<p>Excerpt From Slowness by Milan Kundera 📚 💬</p>\n<p><img src=\"https://i.pinimg.com/originals/6f/ea/76/6fea76a38fee5a966f9c33ad61e4c1af.jpg\" alt=\"Slowness book cover on pinterest\" title=\"Slowness book cover on pinterest\"></p>\n",
+				"content_text": "“In existential mathematics, that experience takes the form of two basic equations: the degree of slowness is directly proportional to the intensity of memory; the degree of speed is directly proportional to the intensity of forgetting.”\r\n\r\nExcerpt From Slowness by Milan Kundera 📚 💬\r\n\r\n![Slowness book cover on pinterest](https://i.pinimg.com/originals/6f/ea/76/6fea76a38fee5a966f9c33ad61e4c1af.jpg \"Slowness book cover on pinterest\")\r\n\r\n",
+				"date_published": "2023-06-11T23:18:25-04:00",
+				"url": "https://www.7robots.org/2023/06/11/slowness.html",
+				"tags": ["Commonplace"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/04/28/currently-reading-twenty.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780198818649\">Twenty Thousand Leagues Under the Seas</a> by Jules Verne 📚</p>\n",
+				"content_text": "Currently reading: [Twenty Thousand Leagues Under the Seas](https://micro.blog/books/9780198818649) by Jules Verne 📚\n",
+				"date_published": "2023-04-28T14:34:58-04:00",
+				"url": "https://www.7robots.org/2023/04/28/currently-reading-twenty.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/04/26/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062224682\">The Art of Communicating</a> by Thich Nhat Hanh 📚</p>\n",
+				"content_text": "Currently reading: [The Art of Communicating](https://micro.blog/books/9780062224682) by Thich Nhat Hanh 📚\n",
+				"date_published": "2023-04-26T17:58:12-04:00",
+				"url": "https://www.7robots.org/2023/04/26/currently-reading-the.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/04/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780374114459\">The Blue Fox</a> by Sjón 📚</p>\n",
+				"content_text": "Finished reading: [The Blue Fox](https://micro.blog/books/9780374114459) by Sjón 📚\n",
+				"date_published": "2023-04-26T17:57:50-04:00",
+				"url": "https://www.7robots.org/2023/04/26/finished-reading-the.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/04/25/george-brown-school.html",
 				
 				"content_html": "<p>George Brown School of Engineering at Rice University</p>\n<!-- raw HTML omitted -->\n",
@@ -205,7 +238,7 @@
 				"id": "http://7robots.micro.blog/2023/02/21/this-mornings-walk.html",
 				
 				"content_html": "<p>This morning’s walk at Holy Hill 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning’s walk at Holy Hill 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/70d0f022b3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This morning’s walk at Holy Hill 📷\n\n<img src=\"uploads/2023/70d0f022b3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-21T15:10:31-04:00",
 				"url": "https://www.7robots.org/2023/02/21/this-mornings-walk.html"
 			},
@@ -222,7 +255,7 @@
 				"id": "http://7robots.micro.blog/2023/02/18/decordova-museum.html",
 				"title": "DeCordova Museum 📷",
 				"content_html": "<p>DeCordova Museum 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DeCordova Museum 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6a3221fa41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "DeCordova Museum 📷\n\n<img src=\"uploads/2023/6a3221fa41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-18T13:25:19-04:00",
 				"url": "https://www.7robots.org/2023/02/18/decordova-museum.html"
 			},
@@ -239,7 +272,7 @@
 				"id": "http://7robots.micro.blog/2023/02/16/backyard-in-winter.html",
 				"title": "Backyard in winter 📷",
 				"content_html": "<p>Backyard in winter</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Backyard in winter\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/70e8b32ccb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Backyard in winter\n\n<img src=\"uploads/2023/70e8b32ccb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-16T23:25:06-04:00",
 				"url": "https://www.7robots.org/2023/02/16/backyard-in-winter.html"
 			},
@@ -282,7 +315,7 @@
 				"id": "http://7robots.micro.blog/2023/02/13/recent-walk-in.html",
 				
 				"content_html": "<p>Recent walk in the moonlight 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Recent walk in the moonlight 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/fbcaca1727.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Recent walk in the moonlight 📷\n\n<img src=\"uploads/2023/fbcaca1727.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-13T16:01:29-04:00",
 				"url": "https://www.7robots.org/2023/02/13/recent-walk-in.html"
 			},
@@ -299,7 +332,7 @@
 				"id": "http://7robots.micro.blog/2023/02/11/171324.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/5895d4be4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"uploads/2023/5895d4be4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-11T18:13:24-04:00",
 				"url": "https://www.7robots.org/2023/02/11/171324.html"
 			},
@@ -333,7 +366,7 @@
 				"id": "http://7robots.micro.blog/2023/02/09/133241.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/e7bd81e044.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"uploads/2023/e7bd81e044.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-09T14:32:41-04:00",
 				"url": "https://www.7robots.org/2023/02/09/133241.html"
 			},
@@ -367,7 +400,7 @@
 				"id": "http://7robots.micro.blog/2023/02/05/bear-hill-pond.html",
 				
 				"content_html": "<p>Bear Hill Pond a day after the polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bear Hill Pond a day after the polar vortex 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/0a543cbc10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Bear Hill Pond a day after the polar vortex 📷\n\n<img src=\"uploads/2023/0a543cbc10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-05T23:22:11-04:00",
 				"url": "https://www.7robots.org/2023/02/05/bear-hill-pond.html"
 			},
@@ -401,7 +434,7 @@
 				"id": "http://7robots.micro.blog/2023/02/04/this-is-how.html",
 				
 				"content_html": "<p>This is how we roll during a polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is how we roll during a polar vortex 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/89aa2b6c20.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "This is how we roll during a polar vortex 📷\n\n<img src=\"uploads/2023/89aa2b6c20.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-04T10:52:55-04:00",
 				"url": "https://www.7robots.org/2023/02/04/this-is-how.html"
 			},
@@ -417,7 +450,7 @@
 				"id": "http://7robots.micro.blog/2023/02/03/boston.html",
 				
 				"content_html": "<p>Boston 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boston 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/5a741c063f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Boston 📷\n\n<img src=\"uploads/2023/5a741c063f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-03T11:10:36-04:00",
 				"url": "https://www.7robots.org/2023/02/03/boston.html"
 			},
@@ -442,7 +475,7 @@
 				"id": "http://7robots.micro.blog/2023/02/02/light-and-shadow.html",
 				
 				"content_html": "<p>Light and shadow 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Light and shadow 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/cccc803615.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Light and shadow 📷\n\n<img src=\"uploads/2023/cccc803615.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T12:38:26-04:00",
 				"url": "https://www.7robots.org/2023/02/02/light-and-shadow.html"
 			},
@@ -459,7 +492,7 @@
 				"id": "http://7robots.micro.blog/2023/02/01/081132.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/f377ef8665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"uploads/2023/f377ef8665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-01T09:11:32-04:00",
 				"url": "https://www.7robots.org/2023/02/01/081132.html"
 			},
@@ -476,7 +509,7 @@
 				"id": "http://7robots.micro.blog/2023/01/31/wachusett-reservoir.html",
 				
 				"content_html": "<p>Wachusett Reservoir 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wachusett Reservoir 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/cde261d5b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Wachusett Reservoir 📷\n\n<img src=\"uploads/2023/cde261d5b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-31T17:52:45-04:00",
 				"url": "https://www.7robots.org/2023/01/31/wachusett-reservoir.html"
 			},
@@ -501,7 +534,7 @@
 				"id": "http://7robots.micro.blog/2023/01/30/first-time-on.html",
 				
 				"content_html": "<p>First time on commuter rail since COVID 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First time on commuter rail since COVID 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2381511406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "First time on commuter rail since COVID 📷\n\n<img src=\"uploads/2023/2381511406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-30T18:52:18-04:00",
 				"url": "https://www.7robots.org/2023/01/30/first-time-on.html"
 			},
@@ -526,7 +559,7 @@
 				"id": "http://7robots.micro.blog/2023/01/29/090225.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/771baf553c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"uploads/2023/771baf553c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-29T10:02:25-04:00",
 				"url": "https://www.7robots.org/2023/01/29/090225.html"
 			},
@@ -579,7 +612,7 @@
 				"id": "http://7robots.micro.blog/2022/10/02/the-flume-at.html",
 				
 				"content_html": "<p>The Flume at Franconia Notch State Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Flume at Franconia Notch State Park\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/7dc1cabe0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The Flume at Franconia Notch State Park\n\n<img src=\"uploads/2023/7dc1cabe0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-02T21:38:00-04:00",
 				"url": "https://www.7robots.org/2022/10/02/the-flume-at.html",
 				"tags": ["pix"]
