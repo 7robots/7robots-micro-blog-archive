@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/09/03/day-precious.html",
+				"title": "Day 3: precious",
+				"content_html": "<p>Day 3: precious</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 3: precious\n\n<img src=\"uploads/2023/2c8e5e6cbdf34664a0c8ba42323ff19e.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-03T08:00:00-04:00",
+				"url": "https://www.7robots.org/2023/09/03/day-precious.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/02/day-abstract.html",
+				
+				"content_html": "<p>Day 1: abstract</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 1: abstract\n\n<img src=\"uploads/2023/e0f56eef37284eaa9d05c2ba4ba79ee4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-02T14:30:27-04:00",
+				"url": "https://www.7robots.org/2023/09/02/day-abstract.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/02/day-buildup.html",
+				
+				"content_html": "<p>Day 2: buildup</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 2: buildup\n\n<img src=\"uploads/2023/0aa85fd632904fb18cea3e6e72da4c10.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-02T14:28:52-04:00",
+				"url": "https://www.7robots.org/2023/09/02/day-buildup.html",
+				"tags": ["pix"]
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/08/28/currently-reading-number.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9783499252389\">Number 9 dream</a> by David Mitchell 📚</p>\n",
