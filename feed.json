@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/09/11/day-retrospect-prague.html",
+				
+				"content_html": "<p>Day 11: Retrospect (Prague 2005)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 11: Retrospect (Prague 2005)\n\n<img src=\"uploads/2023/16e5a12ad54f4c2c9caade80c5994cf5.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-11T10:18:43-04:00",
+				"url": "https://www.7robots.org/2023/09/11/day-retrospect-prague.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/07/day-panorama.html",
+				
+				"content_html": "<p>Day 7: panorama</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 7: panorama\n\n<img src=\"uploads/2023/411835d214434ec4bde2174966f10ec6.jpg\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"date_published": "2023-09-07T10:53:47-04:00",
+				"url": "https://www.7robots.org/2023/09/07/day-panorama.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/06/day-well.html",
+				
+				"content_html": "<p>Day 6: well</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 6: well\n\n<img src=\"uploads/2023/a486c603ad094fc390dc453bbda82699.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-06T12:44:43-04:00",
+				"url": "https://www.7robots.org/2023/09/06/day-well.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/05/day-forest.html",
+				
+				"content_html": "<p>Day 5: Forest</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 5: Forest\n\n<img src=\"uploads/2023/58d60d6a07fc40718299c93f350b6e06.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-05T08:56:07-04:00",
+				"url": "https://www.7robots.org/2023/09/05/day-forest.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/04/day-orange.html",
+				
+				"content_html": "<p>Day 4: Orange</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 4: Orange\n\n<img src=\"uploads/2023/54f4cf810dbf4f81a530386a1569ad97.jpg\" width=\"600\" height=\"482\" alt=\"\">\n",
+				"date_published": "2023-09-04T08:23:24-04:00",
+				"url": "https://www.7robots.org/2023/09/04/day-orange.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/09/03/day-precious.html",
 				"title": "Day 3: precious",
 				"content_html": "<p>Day 3: precious</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 3: precious\n\n<img src=\"uploads/2023/2c8e5e6cbdf34664a0c8ba42323ff19e.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 3: precious\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2c8e5e6cbdf34664a0c8ba42323ff19e.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-03T08:00:00-04:00",
 				"url": "https://www.7robots.org/2023/09/03/day-precious.html",
 				"tags": ["pix"]
@@ -19,7 +59,7 @@
 				"id": "http://7robots.micro.blog/2023/09/02/day-abstract.html",
 				
 				"content_html": "<p>Day 1: abstract</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 1: abstract\n\n<img src=\"uploads/2023/e0f56eef37284eaa9d05c2ba4ba79ee4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 1: abstract\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/e0f56eef37284eaa9d05c2ba4ba79ee4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-02T14:30:27-04:00",
 				"url": "https://www.7robots.org/2023/09/02/day-abstract.html",
 				"tags": ["pix"]
@@ -28,7 +68,7 @@
 				"id": "http://7robots.micro.blog/2023/09/02/day-buildup.html",
 				
 				"content_html": "<p>Day 2: buildup</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: buildup\n\n<img src=\"uploads/2023/0aa85fd632904fb18cea3e6e72da4c10.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 2: buildup\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/0aa85fd632904fb18cea3e6e72da4c10.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-02T14:28:52-04:00",
 				"url": "https://www.7robots.org/2023/09/02/day-buildup.html",
 				"tags": ["pix"]
