@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/09/18/day-fabric.html",
+				
+				"content_html": "<p>Day 18 fabric</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 18 fabric\n\n<img src=\"uploads/2023/085c7ef245a247469b46f01aaa5ae64a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-18T19:20:03-04:00",
+				"url": "https://www.7robots.org/2023/09/18/day-fabric.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/16/currently-reading-artemis.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553448122\">Artemis</a> by Andy Weir 📚</p>\n",
+				"content_text": "Currently reading: [Artemis](https://micro.blog/books/9780553448122) by Andy Weir 📚\n",
+				"date_published": "2023-09-16T06:56:24-04:00",
+				"url": "https://www.7robots.org/2023/09/16/currently-reading-artemis.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/15/day-red.html",
+				
+				"content_html": "<p>Day 15: red</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 15: red\n\n<img src=\"uploads/2023/9ec27875c81a4b318fd01034fc2f117b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-15T19:38:04-04:00",
+				"url": "https://www.7robots.org/2023/09/15/day-red.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/13/day-glowing.html",
+				
+				"content_html": "<p>Day 13 Glowing</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 13 Glowing\n\n<img src=\"uploads/2023/fd2eb6d5f3ab47b889385157f17b3914.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-13T12:26:39-04:00",
+				"url": "https://www.7robots.org/2023/09/13/day-glowing.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/11/162507.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/001b3819c8394c48afeb8e02339200c8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-11T16:25:07-04:00",
+				"url": "https://www.7robots.org/2023/09/11/162507.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/09/11/day-retrospect-prague.html",
 				
 				"content_html": "<p>Day 11: Retrospect (Prague 2005)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 11: Retrospect (Prague 2005)\n\n<img src=\"uploads/2023/16e5a12ad54f4c2c9caade80c5994cf5.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 11: Retrospect (Prague 2005)\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/16e5a12ad54f4c2c9caade80c5994cf5.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-11T10:18:43-04:00",
 				"url": "https://www.7robots.org/2023/09/11/day-retrospect-prague.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://7robots.micro.blog/2023/09/07/day-panorama.html",
 				
 				"content_html": "<p>Day 7: panorama</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 7: panorama\n\n<img src=\"uploads/2023/411835d214434ec4bde2174966f10ec6.jpg\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "Day 7: panorama\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/411835d214434ec4bde2174966f10ec6.jpg\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2023-09-07T10:53:47-04:00",
 				"url": "https://www.7robots.org/2023/09/07/day-panorama.html"
 			},
@@ -26,7 +66,7 @@
 				"id": "http://7robots.micro.blog/2023/09/06/day-well.html",
 				
 				"content_html": "<p>Day 6: well</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 6: well\n\n<img src=\"uploads/2023/a486c603ad094fc390dc453bbda82699.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 6: well\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/a486c603ad094fc390dc453bbda82699.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-06T12:44:43-04:00",
 				"url": "https://www.7robots.org/2023/09/06/day-well.html"
 			},
@@ -34,7 +74,7 @@
 				"id": "http://7robots.micro.blog/2023/09/05/day-forest.html",
 				
 				"content_html": "<p>Day 5: Forest</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 5: Forest\n\n<img src=\"uploads/2023/58d60d6a07fc40718299c93f350b6e06.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 5: Forest\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/58d60d6a07fc40718299c93f350b6e06.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-05T08:56:07-04:00",
 				"url": "https://www.7robots.org/2023/09/05/day-forest.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://7robots.micro.blog/2023/09/04/day-orange.html",
 				
 				"content_html": "<p>Day 4: Orange</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 4: Orange\n\n<img src=\"uploads/2023/54f4cf810dbf4f81a530386a1569ad97.jpg\" width=\"600\" height=\"482\" alt=\"\">\n",
+				"content_text": "Day 4: Orange\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/54f4cf810dbf4f81a530386a1569ad97.jpg\" width=\"600\" height=\"482\" alt=\"\">\n",
 				"date_published": "2023-09-04T08:23:24-04:00",
 				"url": "https://www.7robots.org/2023/09/04/day-orange.html"
 			},
