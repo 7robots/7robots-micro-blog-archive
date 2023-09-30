@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/09/30/day-treasure.html",
+				
+				"content_html": "<p>Day 30 treasure</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 30 treasure\n\n<img src=\"uploads/2023/64b3919f3e4046ff89a999de98cf4364.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-30T09:28:50-04:00",
+				"url": "https://www.7robots.org/2023/09/30/day-treasure.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/28/day-workout.html",
+				
+				"content_html": "<p>Day 28: workout</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 28: workout\n\n<img src=\"uploads/2023/2d140a1b96c84497ae4d73e52ca4c267.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-28T13:06:47-04:00",
+				"url": "https://www.7robots.org/2023/09/28/day-workout.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/27/day-embrace.html",
+				
+				"content_html": "<p>Day 27: embrace</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 27: embrace\n\n<img src=\"uploads/2023/abc71a54bc754b6b90b9b0268ba10869.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-27T09:05:15-04:00",
+				"url": "https://www.7robots.org/2023/09/27/day-embrace.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/26/day-beverage.html",
+				
+				"content_html": "<p>Day 26: beverage</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 26: beverage \n\n<img src=\"uploads/2023/133e37cf7d3d4fc288dd9571b5c24860.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-26T07:50:06-04:00",
+				"url": "https://www.7robots.org/2023/09/26/day-beverage.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/09/25/day-flare.html",
 				
 				"content_html": "<p>Day 25: flare</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +58,7 @@
 				"id": "http://7robots.micro.blog/2023/09/23/day-a-day.html",
 				
 				"content_html": "<p>Day 23: A day in the life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 23: A day in the life\n\n<img src=\"uploads/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 23: A day in the life\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-23T16:11:07-04:00",
 				"url": "https://www.7robots.org/2023/09/23/day-a-day.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://7robots.micro.blog/2023/09/22/day-road.html",
 				
 				"content_html": "<p>Day 22: road</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 22: road\n\n<img src=\"uploads/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 22: road\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-22T09:07:47-04:00",
 				"url": "https://www.7robots.org/2023/09/22/day-road.html"
 			},
