@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/10/07/hades-to-persephone.html",
+				"title": "Hades to Persephone",
+				"content_html": "<p>Go now, Persephone, to your dark-robed mother, go, and feel kindly in your heart towards me: be not so exceedingly cast down; for I shall be no unfitting husband for you among the deathless gods, that am brother to father Zeus. And while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods: those who defraud you and do not appease your power with offerings, reverently performing rites and paying fit gifts, shall be punished for evermore.</p>\n<ul>\n<li>from the Homerica Hymns by Hesiod</li>\n</ul>\n",
+				"content_text": "Go now, Persephone, to your dark-robed mother, go, and feel kindly in your heart towards me: be not so exceedingly cast down; for I shall be no unfitting husband for you among the deathless gods, that am brother to father Zeus. And while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods: those who defraud you and do not appease your power with offerings, reverently performing rites and paying fit gifts, shall be punished for evermore.\r\n\r\n- from the Homerica Hymns by Hesiod\r\n",
+				"date_published": "2023-10-07T22:37:25-04:00",
+				"url": "https://www.7robots.org/2023/10/07/hades-to-persephone.html",
+				"tags": ["Commonplace"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/09/30/day-contrast.html",
+				
+				"content_html": "<p>Day 29: contrast</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 29: contrast\n\n<img src=\"uploads/2023/fe83a92a62574da680aa45e2f6bcfa59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-30T09:31:10-04:00",
+				"url": "https://www.7robots.org/2023/09/30/day-contrast.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/09/30/day-treasure.html",
 				
 				"content_html": "<p>Day 30 treasure</p>\n<!-- raw HTML omitted -->\n",
@@ -58,7 +75,7 @@
 				"id": "http://7robots.micro.blog/2023/09/23/day-a-day.html",
 				
 				"content_html": "<p>Day 23: A day in the life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 23: A day in the life\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 23: A day in the life\n\n<img src=\"uploads/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-23T16:11:07-04:00",
 				"url": "https://www.7robots.org/2023/09/23/day-a-day.html"
 			},
@@ -66,7 +83,7 @@
 				"id": "http://7robots.micro.blog/2023/09/22/day-road.html",
 				
 				"content_html": "<p>Day 22: road</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 22: road\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 22: road\n\n<img src=\"uploads/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-22T09:07:47-04:00",
 				"url": "https://www.7robots.org/2023/09/22/day-road.html"
 			},
