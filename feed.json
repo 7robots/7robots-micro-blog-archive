@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/10/24/currently-reading-women.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780191611032\">Women in Love</a> by D. H. Lawrence 📚</p>\n",
+				"content_text": "Currently reading: [Women in Love](https://micro.blog/books/9780191611032) by D. H. Lawrence 📚\n",
+				"date_published": "2023-10-24T07:43:08-04:00",
+				"url": "https://www.7robots.org/2023/10/24/currently-reading-women.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/10/07/hades-to-persephone.html",
 				"title": "Hades to Persephone",
 				"content_html": "<p>Go now, Persephone, to your dark-robed mother, go, and feel kindly in your heart towards me: be not so exceedingly cast down; for I shall be no unfitting husband for you among the deathless gods, that am brother to father Zeus. And while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods: those who defraud you and do not appease your power with offerings, reverently performing rites and paying fit gifts, shall be punished for evermore.</p>\n<ul>\n<li>from the Homerica Hymns by Hesiod</li>\n</ul>\n",
@@ -43,7 +51,7 @@
 				"id": "http://7robots.micro.blog/2023/09/27/day-embrace.html",
 				
 				"content_html": "<p>Day 27: embrace</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 27: embrace\n\n<img src=\"uploads/2023/abc71a54bc754b6b90b9b0268ba10869.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 27: embrace\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/abc71a54bc754b6b90b9b0268ba10869.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-27T09:05:15-04:00",
 				"url": "https://www.7robots.org/2023/09/27/day-embrace.html"
 			},
@@ -51,7 +59,7 @@
 				"id": "http://7robots.micro.blog/2023/09/26/day-beverage.html",
 				
 				"content_html": "<p>Day 26: beverage</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 26: beverage \n\n<img src=\"uploads/2023/133e37cf7d3d4fc288dd9571b5c24860.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 26: beverage \n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/133e37cf7d3d4fc288dd9571b5c24860.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-26T07:50:06-04:00",
 				"url": "https://www.7robots.org/2023/09/26/day-beverage.html"
 			},
@@ -59,7 +67,7 @@
 				"id": "http://7robots.micro.blog/2023/09/25/day-flare.html",
 				
 				"content_html": "<p>Day 25: flare</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 25: flare\n\n<img src=\"uploads/2023/ccfe8bb598dd489d83c5d1a5acc7c641.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 25: flare\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/ccfe8bb598dd489d83c5d1a5acc7c641.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-25T09:25:36-04:00",
 				"url": "https://www.7robots.org/2023/09/25/day-flare.html"
 			},
@@ -75,7 +83,7 @@
 				"id": "http://7robots.micro.blog/2023/09/23/day-a-day.html",
 				
 				"content_html": "<p>Day 23: A day in the life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 23: A day in the life\n\n<img src=\"uploads/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 23: A day in the life\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-23T16:11:07-04:00",
 				"url": "https://www.7robots.org/2023/09/23/day-a-day.html"
 			},
@@ -83,7 +91,7 @@
 				"id": "http://7robots.micro.blog/2023/09/22/day-road.html",
 				
 				"content_html": "<p>Day 22: road</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 22: road\n\n<img src=\"uploads/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 22: road\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-22T09:07:47-04:00",
 				"url": "https://www.7robots.org/2023/09/22/day-road.html"
 			},
@@ -91,7 +99,7 @@
 				"id": "http://7robots.micro.blog/2023/09/21/day-fall.html",
 				
 				"content_html": "<p>Day 21: fall</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 21: fall\n\n<img src=\"uploads/2023/6aba229d77044d9b863088f14bf92ff8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 21: fall\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6aba229d77044d9b863088f14bf92ff8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-21T12:51:41-04:00",
 				"url": "https://www.7robots.org/2023/09/21/day-fall.html"
 			},
@@ -99,7 +107,7 @@
 				"id": "http://7robots.micro.blog/2023/09/20/day-disruption.html",
 				
 				"content_html": "<p>Day 20: disruption</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 20: disruption\n\n<img src=\"uploads/2023/545982a96dd644eea0c470b638ce4fcf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 20: disruption\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/545982a96dd644eea0c470b638ce4fcf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-20T17:03:27-04:00",
 				"url": "https://www.7robots.org/2023/09/20/day-disruption.html"
 			},
@@ -107,7 +115,7 @@
 				"id": "http://7robots.micro.blog/2023/09/19/day-edge.html",
 				
 				"content_html": "<p>Day 19: edge</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 19: edge\n\n<img src=\"uploads/2023/ef729b8695224c578eea6840c153efed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 19: edge\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/ef729b8695224c578eea6840c153efed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-19T07:38:26-04:00",
 				"url": "https://www.7robots.org/2023/09/19/day-edge.html"
 			},
@@ -115,7 +123,7 @@
 				"id": "http://7robots.micro.blog/2023/09/18/day-fabric.html",
 				
 				"content_html": "<p>Day 18 fabric</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 18 fabric\n\n<img src=\"uploads/2023/085c7ef245a247469b46f01aaa5ae64a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 18 fabric\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/085c7ef245a247469b46f01aaa5ae64a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-18T19:20:03-04:00",
 				"url": "https://www.7robots.org/2023/09/18/day-fabric.html"
 			},
@@ -131,7 +139,7 @@
 				"id": "http://7robots.micro.blog/2023/09/15/day-red.html",
 				
 				"content_html": "<p>Day 15: red</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 15: red\n\n<img src=\"uploads/2023/9ec27875c81a4b318fd01034fc2f117b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 15: red\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/9ec27875c81a4b318fd01034fc2f117b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-15T19:38:04-04:00",
 				"url": "https://www.7robots.org/2023/09/15/day-red.html"
 			},
@@ -139,7 +147,7 @@
 				"id": "http://7robots.micro.blog/2023/09/13/day-glowing.html",
 				
 				"content_html": "<p>Day 13 Glowing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 13 Glowing\n\n<img src=\"uploads/2023/fd2eb6d5f3ab47b889385157f17b3914.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 13 Glowing\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/fd2eb6d5f3ab47b889385157f17b3914.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-13T12:26:39-04:00",
 				"url": "https://www.7robots.org/2023/09/13/day-glowing.html"
 			},
@@ -147,7 +155,7 @@
 				"id": "http://7robots.micro.blog/2023/09/11/162507.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/001b3819c8394c48afeb8e02339200c8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/001b3819c8394c48afeb8e02339200c8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-11T16:25:07-04:00",
 				"url": "https://www.7robots.org/2023/09/11/162507.html"
 			},
@@ -155,7 +163,7 @@
 				"id": "http://7robots.micro.blog/2023/09/11/day-retrospect-prague.html",
 				
 				"content_html": "<p>Day 11: Retrospect (Prague 2005)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 11: Retrospect (Prague 2005)\n\n<img src=\"uploads/2023/16e5a12ad54f4c2c9caade80c5994cf5.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 11: Retrospect (Prague 2005)\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/16e5a12ad54f4c2c9caade80c5994cf5.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-11T10:18:43-04:00",
 				"url": "https://www.7robots.org/2023/09/11/day-retrospect-prague.html"
 			},
@@ -163,7 +171,7 @@
 				"id": "http://7robots.micro.blog/2023/09/07/day-panorama.html",
 				
 				"content_html": "<p>Day 7: panorama</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 7: panorama\n\n<img src=\"uploads/2023/411835d214434ec4bde2174966f10ec6.jpg\" width=\"600\" height=\"204\" alt=\"\">\n",
+				"content_text": "Day 7: panorama\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/411835d214434ec4bde2174966f10ec6.jpg\" width=\"600\" height=\"204\" alt=\"\">\n",
 				"date_published": "2023-09-07T10:53:47-04:00",
 				"url": "https://www.7robots.org/2023/09/07/day-panorama.html"
 			},
@@ -171,7 +179,7 @@
 				"id": "http://7robots.micro.blog/2023/09/06/day-well.html",
 				
 				"content_html": "<p>Day 6: well</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 6: well\n\n<img src=\"uploads/2023/a486c603ad094fc390dc453bbda82699.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 6: well\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/a486c603ad094fc390dc453bbda82699.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-06T12:44:43-04:00",
 				"url": "https://www.7robots.org/2023/09/06/day-well.html"
 			},
@@ -179,7 +187,7 @@
 				"id": "http://7robots.micro.blog/2023/09/05/day-forest.html",
 				
 				"content_html": "<p>Day 5: Forest</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 5: Forest\n\n<img src=\"uploads/2023/58d60d6a07fc40718299c93f350b6e06.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 5: Forest\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/58d60d6a07fc40718299c93f350b6e06.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-09-05T08:56:07-04:00",
 				"url": "https://www.7robots.org/2023/09/05/day-forest.html"
 			},
@@ -187,7 +195,7 @@
 				"id": "http://7robots.micro.blog/2023/09/04/day-orange.html",
 				
 				"content_html": "<p>Day 4: Orange</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 4: Orange\n\n<img src=\"uploads/2023/54f4cf810dbf4f81a530386a1569ad97.jpg\" width=\"600\" height=\"482\" alt=\"\">\n",
+				"content_text": "Day 4: Orange\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/54f4cf810dbf4f81a530386a1569ad97.jpg\" width=\"600\" height=\"482\" alt=\"\">\n",
 				"date_published": "2023-09-04T08:23:24-04:00",
 				"url": "https://www.7robots.org/2023/09/04/day-orange.html"
 			},
@@ -195,7 +203,7 @@
 				"id": "http://7robots.micro.blog/2023/09/03/day-precious.html",
 				"title": "Day 3: precious",
 				"content_html": "<p>Day 3: precious</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 3: precious\n\n<img src=\"uploads/2023/2c8e5e6cbdf34664a0c8ba42323ff19e.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 3: precious\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2c8e5e6cbdf34664a0c8ba42323ff19e.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-03T08:00:00-04:00",
 				"url": "https://www.7robots.org/2023/09/03/day-precious.html",
 				"tags": ["pix"]
@@ -204,7 +212,7 @@
 				"id": "http://7robots.micro.blog/2023/09/02/day-abstract.html",
 				
 				"content_html": "<p>Day 1: abstract</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 1: abstract\n\n<img src=\"uploads/2023/e0f56eef37284eaa9d05c2ba4ba79ee4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 1: abstract\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/e0f56eef37284eaa9d05c2ba4ba79ee4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-02T14:30:27-04:00",
 				"url": "https://www.7robots.org/2023/09/02/day-abstract.html",
 				"tags": ["pix"]
@@ -213,7 +221,7 @@
 				"id": "http://7robots.micro.blog/2023/09/02/day-buildup.html",
 				
 				"content_html": "<p>Day 2: buildup</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: buildup\n\n<img src=\"uploads/2023/0aa85fd632904fb18cea3e6e72da4c10.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 2: buildup\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/0aa85fd632904fb18cea3e6e72da4c10.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-02T14:28:52-04:00",
 				"url": "https://www.7robots.org/2023/09/02/day-buildup.html",
 				"tags": ["pix"]
@@ -266,7 +274,7 @@
 				"id": "http://7robots.micro.blog/2023/06/11/holy-hill.html",
 				
 				"content_html": "<p>Holy Hill</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Holy Hill\n\n<img src=\"uploads/2023/6fd7dfa938.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/c4bf2ddced.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Holy Hill\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6fd7dfa938.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/98443/2023/c4bf2ddced.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-06-11T23:46:58-04:00",
 				"url": "https://www.7robots.org/2023/06/11/holy-hill.html"
 			},
@@ -342,7 +350,7 @@
 				"id": "http://7robots.micro.blog/2023/04/25/george-brown-school.html",
 				
 				"content_html": "<p>George Brown School of Engineering at Rice University</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "George Brown School of Engineering at Rice University \n\n<img src=\"uploads/2023/965f8b90a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "George Brown School of Engineering at Rice University \n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/965f8b90a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-25T19:28:33-04:00",
 				"url": "https://www.7robots.org/2023/04/25/george-brown-school.html"
 			},
@@ -358,7 +366,7 @@
 				"id": "http://7robots.micro.blog/2023/04/22/a-great-tree.html",
 				
 				"content_html": "<p>A great tree on the Rice campus today</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A great tree on the Rice campus today \n\n<img src=\"uploads/2023/d388a30a94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "A great tree on the Rice campus today \n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/d388a30a94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-22T16:46:19-04:00",
 				"url": "https://www.7robots.org/2023/04/22/a-great-tree.html"
 			},
@@ -537,7 +545,7 @@
 				"id": "http://7robots.micro.blog/2023/02/21/this-mornings-walk.html",
 				
 				"content_html": "<p>This morning’s walk at Holy Hill 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning’s walk at Holy Hill 📷\n\n<img src=\"uploads/2023/70d0f022b3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This morning’s walk at Holy Hill 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/70d0f022b3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-21T15:10:31-04:00",
 				"url": "https://www.7robots.org/2023/02/21/this-mornings-walk.html"
 			},
@@ -554,7 +562,7 @@
 				"id": "http://7robots.micro.blog/2023/02/18/decordova-museum.html",
 				"title": "DeCordova Museum 📷",
 				"content_html": "<p>DeCordova Museum 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DeCordova Museum 📷\n\n<img src=\"uploads/2023/6a3221fa41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "DeCordova Museum 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6a3221fa41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-18T13:25:19-04:00",
 				"url": "https://www.7robots.org/2023/02/18/decordova-museum.html"
 			},
@@ -571,7 +579,7 @@
 				"id": "http://7robots.micro.blog/2023/02/16/backyard-in-winter.html",
 				"title": "Backyard in winter 📷",
 				"content_html": "<p>Backyard in winter</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Backyard in winter\n\n<img src=\"uploads/2023/70e8b32ccb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Backyard in winter\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/70e8b32ccb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-16T23:25:06-04:00",
 				"url": "https://www.7robots.org/2023/02/16/backyard-in-winter.html"
 			},
@@ -614,7 +622,7 @@
 				"id": "http://7robots.micro.blog/2023/02/13/recent-walk-in.html",
 				
 				"content_html": "<p>Recent walk in the moonlight 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Recent walk in the moonlight 📷\n\n<img src=\"uploads/2023/fbcaca1727.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Recent walk in the moonlight 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/fbcaca1727.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-13T16:01:29-04:00",
 				"url": "https://www.7robots.org/2023/02/13/recent-walk-in.html"
 			},
@@ -631,7 +639,7 @@
 				"id": "http://7robots.micro.blog/2023/02/11/171324.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/5895d4be4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/5895d4be4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-11T18:13:24-04:00",
 				"url": "https://www.7robots.org/2023/02/11/171324.html"
 			},
@@ -665,7 +673,7 @@
 				"id": "http://7robots.micro.blog/2023/02/09/133241.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/e7bd81e044.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/e7bd81e044.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-09T14:32:41-04:00",
 				"url": "https://www.7robots.org/2023/02/09/133241.html"
 			},
@@ -699,7 +707,7 @@
 				"id": "http://7robots.micro.blog/2023/02/05/bear-hill-pond.html",
 				
 				"content_html": "<p>Bear Hill Pond a day after the polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bear Hill Pond a day after the polar vortex 📷\n\n<img src=\"uploads/2023/0a543cbc10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Bear Hill Pond a day after the polar vortex 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/0a543cbc10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-05T23:22:11-04:00",
 				"url": "https://www.7robots.org/2023/02/05/bear-hill-pond.html"
 			},
@@ -733,7 +741,7 @@
 				"id": "http://7robots.micro.blog/2023/02/04/this-is-how.html",
 				
 				"content_html": "<p>This is how we roll during a polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is how we roll during a polar vortex 📷\n\n<img src=\"uploads/2023/89aa2b6c20.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "This is how we roll during a polar vortex 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/89aa2b6c20.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-04T10:52:55-04:00",
 				"url": "https://www.7robots.org/2023/02/04/this-is-how.html"
 			},
@@ -749,7 +757,7 @@
 				"id": "http://7robots.micro.blog/2023/02/03/boston.html",
 				
 				"content_html": "<p>Boston 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boston 📷\n\n<img src=\"uploads/2023/5a741c063f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Boston 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/5a741c063f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-03T11:10:36-04:00",
 				"url": "https://www.7robots.org/2023/02/03/boston.html"
 			},
@@ -774,7 +782,7 @@
 				"id": "http://7robots.micro.blog/2023/02/02/light-and-shadow.html",
 				
 				"content_html": "<p>Light and shadow 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Light and shadow 📷\n\n<img src=\"uploads/2023/cccc803615.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Light and shadow 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/cccc803615.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T12:38:26-04:00",
 				"url": "https://www.7robots.org/2023/02/02/light-and-shadow.html"
 			},
@@ -791,7 +799,7 @@
 				"id": "http://7robots.micro.blog/2023/02/01/081132.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/f377ef8665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/f377ef8665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-01T09:11:32-04:00",
 				"url": "https://www.7robots.org/2023/02/01/081132.html"
 			},
@@ -808,7 +816,7 @@
 				"id": "http://7robots.micro.blog/2023/01/31/wachusett-reservoir.html",
 				
 				"content_html": "<p>Wachusett Reservoir 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wachusett Reservoir 📷\n\n<img src=\"uploads/2023/cde261d5b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Wachusett Reservoir 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/cde261d5b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-31T17:52:45-04:00",
 				"url": "https://www.7robots.org/2023/01/31/wachusett-reservoir.html"
 			},
@@ -833,7 +841,7 @@
 				"id": "http://7robots.micro.blog/2023/01/30/first-time-on.html",
 				
 				"content_html": "<p>First time on commuter rail since COVID 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First time on commuter rail since COVID 📷\n\n<img src=\"uploads/2023/2381511406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "First time on commuter rail since COVID 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2381511406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-30T18:52:18-04:00",
 				"url": "https://www.7robots.org/2023/01/30/first-time-on.html"
 			},
@@ -858,7 +866,7 @@
 				"id": "http://7robots.micro.blog/2023/01/29/090225.html",
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/771baf553c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/771baf553c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-29T10:02:25-04:00",
 				"url": "https://www.7robots.org/2023/01/29/090225.html"
 			},
@@ -911,7 +919,7 @@
 				"id": "http://7robots.micro.blog/2022/10/02/the-flume-at.html",
 				
 				"content_html": "<p>The Flume at Franconia Notch State Park</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Flume at Franconia Notch State Park\n\n<img src=\"uploads/2023/7dc1cabe0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The Flume at Franconia Notch State Park\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/7dc1cabe0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-02T21:38:00-04:00",
 				"url": "https://www.7robots.org/2022/10/02/the-flume-at.html",
 				"tags": ["pix"]
