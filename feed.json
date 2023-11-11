@@ -7,11 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/11/10/fermat.html",
+				"title": "Fermat",
+				"content_html": "<p>So I pay close attention, and note every detail.</p>\n<p>From the beginning I knew my destination, and I chose my route accordingly. But am I working toward an extreme of joy, or of pain? Will I achieve a minimum, or a maximum?</p>\n<p>These questions are in my mind when your father asks me, “Do you want to make a baby?” And I smile and answer, “Yes,” and I unwrap his arms from around me, and we hold hands as we walk inside to make love, to make you.</p>\n<p>excerpt from “Story of Your Life” by Ted Chiang 📚 💬</p>\n<p><img src=\"https://i.pinimg.com/originals/3a/93/5d/3a935df68996192ec4f0325008cdf5f2.jpg\" alt=\"pinterest image of movie Arrival\" title=\"Arrival\"></p>\n",
+				"content_text": "So I pay close attention, and note every detail.\r\n\r\nFrom the beginning I knew my destination, and I chose my route accordingly. But am I working toward an extreme of joy, or of pain? Will I achieve a minimum, or a maximum?\r\n\r\nThese questions are in my mind when your father asks me, “Do you want to make a baby?” And I smile and answer, “Yes,” and I unwrap his arms from around me, and we hold hands as we walk inside to make love, to make you.\r\n\r\nexcerpt from “Story of Your Life” by Ted Chiang 📚 💬\r\n\r\n![pinterest image of movie Arrival](https://i.pinimg.com/originals/3a/93/5d/3a935df68996192ec4f0325008cdf5f2.jpg \"Arrival\")\r\n\r\n\r\n",
+				"date_published": "2023-11-10T20:11:22-05:00",
+				"url": "https://www.7robots.org/2023/11/10/fermat.html",
+				"tags": ["Commonplace"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/10/28/finished-reading-women.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780191611032\">Women in Love</a> by D. H. Lawrence 📚</p>\n",
+				"content_text": "Finished reading: [Women in Love](https://micro.blog/books/9780191611032) by D. H. Lawrence 📚\n",
+				"date_published": "2023-10-28T08:07:16-05:00",
+				"url": "https://www.7robots.org/2023/10/28/finished-reading-women.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/10/28/currently-reading-beacon.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780544839632\">Beacon 23</a> by Hugh Howey 📚</p>\n",
+				"content_text": "Currently reading: [Beacon 23](https://micro.blog/books/9780544839632) by Hugh Howey 📚\n",
+				"date_published": "2023-10-28T08:01:59-05:00",
+				"url": "https://www.7robots.org/2023/10/28/currently-reading-beacon.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/10/24/i-recently-rediscovered.html",
+				
+				"content_html": "<p>I recently re-discovered a John Denver tribute album that was compiled by Mark Kozalek (of the Red House Painters). 🎵</p>\n<p><a href=\"https://music.apple.com/us/album/take-me-home-a-tribute-to-john-denver/270086884\">music.apple.com/us/album/&hellip;</a></p>\n<p>It&rsquo;s been really enjoyable listening to and the collection has aged well.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I recently re-discovered a John Denver tribute album that was compiled by Mark Kozalek (of the Red House Painters). 🎵\r\n\r\n[music.apple.com/us/album/...](https://music.apple.com/us/album/take-me-home-a-tribute-to-john-denver/270086884)\r\n\r\nIt's been really enjoyable listening to and the collection has aged well.\r\n\r\n\r\n\n\n<img src=\"uploads/2023/johndenvertribute.jpg\" width=\"450\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-24T08:32:47-05:00",
+				"url": "https://www.7robots.org/2023/10/24/i-recently-rediscovered.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/10/24/finished-reading-artemis.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780553448122\">Artemis</a> by Andy Weir 📚</p>\n",
+				"content_text": "Finished reading: [Artemis](https://micro.blog/books/9780553448122) by Andy Weir 📚\n",
+				"date_published": "2023-10-24T06:43:30-05:00",
+				"url": "https://www.7robots.org/2023/10/24/finished-reading-artemis.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/10/24/finished-reading-under.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780393867312\">Under Alien Skies: A Sightseer&rsquo;s Guide to the Universe</a> by Philip Plait 📚</p>\n",
+				"content_text": "Finished reading: [Under Alien Skies: A Sightseer's Guide to the Universe](https://micro.blog/books/9780393867312) by Philip Plait 📚\n",
+				"date_published": "2023-10-24T06:43:22-05:00",
+				"url": "https://www.7robots.org/2023/10/24/finished-reading-under.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/10/24/currently-reading-women.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780191611032\">Women in Love</a> by D. H. Lawrence 📚</p>\n",
 				"content_text": "Currently reading: [Women in Love](https://micro.blog/books/9780191611032) by D. H. Lawrence 📚\n",
-				"date_published": "2023-10-24T07:43:08-04:00",
+				"date_published": "2023-10-24T06:43:08-05:00",
 				"url": "https://www.7robots.org/2023/10/24/currently-reading-women.html"
 			},
 			{
@@ -19,7 +68,7 @@
 				"title": "Hades to Persephone",
 				"content_html": "<p>Go now, Persephone, to your dark-robed mother, go, and feel kindly in your heart towards me: be not so exceedingly cast down; for I shall be no unfitting husband for you among the deathless gods, that am brother to father Zeus. And while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods: those who defraud you and do not appease your power with offerings, reverently performing rites and paying fit gifts, shall be punished for evermore.</p>\n<ul>\n<li>from the Homerica Hymns by Hesiod</li>\n</ul>\n",
 				"content_text": "Go now, Persephone, to your dark-robed mother, go, and feel kindly in your heart towards me: be not so exceedingly cast down; for I shall be no unfitting husband for you among the deathless gods, that am brother to father Zeus. And while you are here, you shall rule all that lives and moves and shall have the greatest rights among the deathless gods: those who defraud you and do not appease your power with offerings, reverently performing rites and paying fit gifts, shall be punished for evermore.\r\n\r\n- from the Homerica Hymns by Hesiod\r\n",
-				"date_published": "2023-10-07T22:37:25-04:00",
+				"date_published": "2023-10-07T21:37:25-05:00",
 				"url": "https://www.7robots.org/2023/10/07/hades-to-persephone.html",
 				"tags": ["Commonplace"]
 			},
@@ -27,24 +76,24 @@
 				"id": "http://7robots.micro.blog/2023/09/30/day-contrast.html",
 				
 				"content_html": "<p>Day 29: contrast</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 29: contrast\n\n<img src=\"uploads/2023/fe83a92a62574da680aa45e2f6bcfa59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-30T09:31:10-04:00",
+				"content_text": "Day 29: contrast\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/fe83a92a62574da680aa45e2f6bcfa59.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-30T08:31:10-05:00",
 				"url": "https://www.7robots.org/2023/09/30/day-contrast.html"
 			},
 			{
 				"id": "http://7robots.micro.blog/2023/09/30/day-treasure.html",
 				
 				"content_html": "<p>Day 30 treasure</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 30 treasure\n\n<img src=\"uploads/2023/64b3919f3e4046ff89a999de98cf4364.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-30T09:28:50-04:00",
+				"content_text": "Day 30 treasure\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/64b3919f3e4046ff89a999de98cf4364.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-30T08:28:50-05:00",
 				"url": "https://www.7robots.org/2023/09/30/day-treasure.html"
 			},
 			{
 				"id": "http://7robots.micro.blog/2023/09/28/day-workout.html",
 				
 				"content_html": "<p>Day 28: workout</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 28: workout\n\n<img src=\"uploads/2023/2d140a1b96c84497ae4d73e52ca4c267.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-28T13:06:47-04:00",
+				"content_text": "Day 28: workout\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2d140a1b96c84497ae4d73e52ca4c267.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-09-28T12:06:47-05:00",
 				"url": "https://www.7robots.org/2023/09/28/day-workout.html"
 			},
 			{
@@ -52,7 +101,7 @@
 				
 				"content_html": "<p>Day 27: embrace</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 27: embrace\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/abc71a54bc754b6b90b9b0268ba10869.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-27T09:05:15-04:00",
+				"date_published": "2023-09-27T08:05:15-05:00",
 				"url": "https://www.7robots.org/2023/09/27/day-embrace.html"
 			},
 			{
@@ -60,7 +109,7 @@
 				
 				"content_html": "<p>Day 26: beverage</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 26: beverage \n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/133e37cf7d3d4fc288dd9571b5c24860.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-26T07:50:06-04:00",
+				"date_published": "2023-09-26T06:50:06-05:00",
 				"url": "https://www.7robots.org/2023/09/26/day-beverage.html"
 			},
 			{
@@ -68,7 +117,7 @@
 				
 				"content_html": "<p>Day 25: flare</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 25: flare\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/ccfe8bb598dd489d83c5d1a5acc7c641.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-25T09:25:36-04:00",
+				"date_published": "2023-09-25T08:25:36-05:00",
 				"url": "https://www.7robots.org/2023/09/25/day-flare.html"
 			},
 			{
@@ -76,7 +125,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780393867312\">Under Alien Skies: A Sightseer&rsquo;s Guide to the Universe</a> by Philip Plait 📚</p>\n",
 				"content_text": "Currently reading: [Under Alien Skies: A Sightseer's Guide to the Universe](https://micro.blog/books/9780393867312) by Philip Plait 📚\n",
-				"date_published": "2023-09-23T18:26:50-04:00",
+				"date_published": "2023-09-23T17:26:50-05:00",
 				"url": "https://www.7robots.org/2023/09/23/currently-reading-under.html"
 			},
 			{
@@ -84,7 +133,7 @@
 				
 				"content_html": "<p>Day 23: A day in the life</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 23: A day in the life\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/df02fa64fbd24536a9d7cd5d348e3122.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-23T16:11:07-04:00",
+				"date_published": "2023-09-23T15:11:07-05:00",
 				"url": "https://www.7robots.org/2023/09/23/day-a-day.html"
 			},
 			{
@@ -92,7 +141,7 @@
 				
 				"content_html": "<p>Day 22: road</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 22: road\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/432c9ba4047c434593731f342cb806d2.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-22T09:07:47-04:00",
+				"date_published": "2023-09-22T08:07:47-05:00",
 				"url": "https://www.7robots.org/2023/09/22/day-road.html"
 			},
 			{
@@ -100,7 +149,7 @@
 				
 				"content_html": "<p>Day 21: fall</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 21: fall\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6aba229d77044d9b863088f14bf92ff8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-21T12:51:41-04:00",
+				"date_published": "2023-09-21T11:51:41-05:00",
 				"url": "https://www.7robots.org/2023/09/21/day-fall.html"
 			},
 			{
@@ -108,7 +157,7 @@
 				
 				"content_html": "<p>Day 20: disruption</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 20: disruption\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/545982a96dd644eea0c470b638ce4fcf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-20T17:03:27-04:00",
+				"date_published": "2023-09-20T16:03:27-05:00",
 				"url": "https://www.7robots.org/2023/09/20/day-disruption.html"
 			},
 			{
@@ -116,7 +165,7 @@
 				
 				"content_html": "<p>Day 19: edge</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 19: edge\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/ef729b8695224c578eea6840c153efed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-19T07:38:26-04:00",
+				"date_published": "2023-09-19T06:38:26-05:00",
 				"url": "https://www.7robots.org/2023/09/19/day-edge.html"
 			},
 			{
@@ -124,7 +173,7 @@
 				
 				"content_html": "<p>Day 18 fabric</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 18 fabric\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/085c7ef245a247469b46f01aaa5ae64a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-18T19:20:03-04:00",
+				"date_published": "2023-09-18T18:20:03-05:00",
 				"url": "https://www.7robots.org/2023/09/18/day-fabric.html"
 			},
 			{
@@ -132,7 +181,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553448122\">Artemis</a> by Andy Weir 📚</p>\n",
 				"content_text": "Currently reading: [Artemis](https://micro.blog/books/9780553448122) by Andy Weir 📚\n",
-				"date_published": "2023-09-16T06:56:24-04:00",
+				"date_published": "2023-09-16T05:56:24-05:00",
 				"url": "https://www.7robots.org/2023/09/16/currently-reading-artemis.html"
 			},
 			{
@@ -140,7 +189,7 @@
 				
 				"content_html": "<p>Day 15: red</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 15: red\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/9ec27875c81a4b318fd01034fc2f117b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-15T19:38:04-04:00",
+				"date_published": "2023-09-15T18:38:04-05:00",
 				"url": "https://www.7robots.org/2023/09/15/day-red.html"
 			},
 			{
@@ -148,7 +197,7 @@
 				
 				"content_html": "<p>Day 13 Glowing</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 13 Glowing\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/fd2eb6d5f3ab47b889385157f17b3914.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-13T12:26:39-04:00",
+				"date_published": "2023-09-13T11:26:39-05:00",
 				"url": "https://www.7robots.org/2023/09/13/day-glowing.html"
 			},
 			{
@@ -156,7 +205,7 @@
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/001b3819c8394c48afeb8e02339200c8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-11T16:25:07-04:00",
+				"date_published": "2023-09-11T15:25:07-05:00",
 				"url": "https://www.7robots.org/2023/09/11/162507.html"
 			},
 			{
@@ -164,7 +213,7 @@
 				
 				"content_html": "<p>Day 11: Retrospect (Prague 2005)</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 11: Retrospect (Prague 2005)\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/16e5a12ad54f4c2c9caade80c5994cf5.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-11T10:18:43-04:00",
+				"date_published": "2023-09-11T09:18:43-05:00",
 				"url": "https://www.7robots.org/2023/09/11/day-retrospect-prague.html"
 			},
 			{
@@ -172,7 +221,7 @@
 				
 				"content_html": "<p>Day 7: panorama</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 7: panorama\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/411835d214434ec4bde2174966f10ec6.jpg\" width=\"600\" height=\"204\" alt=\"\">\n",
-				"date_published": "2023-09-07T10:53:47-04:00",
+				"date_published": "2023-09-07T09:53:47-05:00",
 				"url": "https://www.7robots.org/2023/09/07/day-panorama.html"
 			},
 			{
@@ -180,7 +229,7 @@
 				
 				"content_html": "<p>Day 6: well</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 6: well\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/a486c603ad094fc390dc453bbda82699.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-06T12:44:43-04:00",
+				"date_published": "2023-09-06T11:44:43-05:00",
 				"url": "https://www.7robots.org/2023/09/06/day-well.html"
 			},
 			{
@@ -188,7 +237,7 @@
 				
 				"content_html": "<p>Day 5: Forest</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 5: Forest\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/58d60d6a07fc40718299c93f350b6e06.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-09-05T08:56:07-04:00",
+				"date_published": "2023-09-05T07:56:07-05:00",
 				"url": "https://www.7robots.org/2023/09/05/day-forest.html"
 			},
 			{
@@ -196,7 +245,7 @@
 				
 				"content_html": "<p>Day 4: Orange</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 4: Orange\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/54f4cf810dbf4f81a530386a1569ad97.jpg\" width=\"600\" height=\"482\" alt=\"\">\n",
-				"date_published": "2023-09-04T08:23:24-04:00",
+				"date_published": "2023-09-04T07:23:24-05:00",
 				"url": "https://www.7robots.org/2023/09/04/day-orange.html"
 			},
 			{
@@ -204,7 +253,7 @@
 				"title": "Day 3: precious",
 				"content_html": "<p>Day 3: precious</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 3: precious\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2c8e5e6cbdf34664a0c8ba42323ff19e.jpg\" width=\"532\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-03T08:00:00-04:00",
+				"date_published": "2023-09-03T07:00:00-05:00",
 				"url": "https://www.7robots.org/2023/09/03/day-precious.html",
 				"tags": ["pix"]
 			},
@@ -213,7 +262,7 @@
 				
 				"content_html": "<p>Day 1: abstract</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 1: abstract\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/e0f56eef37284eaa9d05c2ba4ba79ee4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-02T14:30:27-04:00",
+				"date_published": "2023-09-02T13:30:27-05:00",
 				"url": "https://www.7robots.org/2023/09/02/day-abstract.html",
 				"tags": ["pix"]
 			},
@@ -222,7 +271,7 @@
 				
 				"content_html": "<p>Day 2: buildup</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Day 2: buildup\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/0aa85fd632904fb18cea3e6e72da4c10.jpg\" width=\"596\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-02T14:28:52-04:00",
+				"date_published": "2023-09-02T13:28:52-05:00",
 				"url": "https://www.7robots.org/2023/09/02/day-buildup.html",
 				"tags": ["pix"]
 			},
@@ -231,7 +280,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9783499252389\">Number 9 dream</a> by David Mitchell 📚</p>\n",
 				"content_text": "Currently reading: [Number 9 dream](https://micro.blog/books/9783499252389) by David Mitchell 📚\n",
-				"date_published": "2023-08-28T20:34:22-04:00",
+				"date_published": "2023-08-28T19:34:22-05:00",
 				"url": "https://www.7robots.org/2023/08/28/currently-reading-number.html"
 			},
 			{
@@ -239,7 +288,7 @@
 				"title": "The Wave Returns to the Ocean",
 				"content_html": "<p>Picture a wave in the ocean.</p>\n<p>You can see it, measure it, its height, the way the sunlight refracts when it passes through, and it’s there, and you can see it, you know what it is.</p>\n<p>It’s a wave.</p>\n<p>And then it crashes on the shore and it’s gone.</p>\n<p>But the water is still there.</p>\n<p>The wave was just a different way for the water to be for a little while.</p>\n<p>That’s one conception of death for a Buddhist.</p>\n<p>The wave returns to the ocean, where it came from, and where it’s supposed to be.</p>\n<ul>\n<li>Chidi, The Good Place  💬</li>\n</ul>\n<p><img src=\"https://www.tvinsider.com/wp-content/uploads/2020/02/chidi-eleanor-good-place-finale-1014x570.jpg\" alt=\"The Good Place\" title=\"The Good Place\"></p>\n",
 				"content_text": "Picture a wave in the ocean.\r\n\r\nYou can see it, measure it, its height, the way the sunlight refracts when it passes through, and it’s there, and you can see it, you know what it is.\r\n\r\nIt’s a wave.\r\n\r\nAnd then it crashes on the shore and it’s gone.\r\n\r\nBut the water is still there.\r\n\r\nThe wave was just a different way for the water to be for a little while.\r\n\r\nThat’s one conception of death for a Buddhist.\r\n\r\nThe wave returns to the ocean, where it came from, and where it’s supposed to be.\r\n\r\n- Chidi, The Good Place  💬\r\n\r\n![The Good Place](https://www.tvinsider.com/wp-content/uploads/2020/02/chidi-eleanor-good-place-finale-1014x570.jpg \"The Good Place\")\r\n\r\n",
-				"date_published": "2023-08-01T12:26:36-04:00",
+				"date_published": "2023-08-01T11:26:36-05:00",
 				"url": "https://www.7robots.org/2023/08/01/the-wave-returns.html",
 				"tags": ["Commonplace"]
 			},
@@ -248,7 +297,7 @@
 				"title": "Self, which sometimes calls itself Perception",
 				"content_html": "<p>Rain hisses like swinging snakes and gutters gurgle. Orito watches a vein pulsating in Yayoi’s throat. The belly craves food, she thinks, the tongue craves water, the heart craves love, and the mind craves stories. It is stories, she believes, that make life in the House of Sisters tolerable, stories in all their forms: the gifts’ letters, tittle-tattle, recollections, and tall tales like Hatsune’s singing skull. She thinks of myths of gods, of Izanami and Izanagi, of Buddha and Jesus, and perhaps the Goddess of Mount Shiranui, and wonders whether the same principle is not at work. Orito pictures the human mind as a loom that weaves disparate threads of belief, memory, and narrative into an entity whose common name is Self, and which sometimes calls itself Perception.</p>\n<ul>\n<li>from The Ten Thousand Autumns of Jacob de Zoet by David Mitchell 📚 💬</li>\n</ul>\n<p><img src=\"https://img1.od-cdn.com/ImageType-400/7723-1/9C3/69C/0B/%7B9C369C0B-B2B2-4427-898C-E74D9E7CCE85%7DImg400.jpg\" alt=\"Ten Thousand book cover on Overdrive\" title=\"Ten Thousand book cover on Overdrive\"></p>\n",
 				"content_text": "Rain hisses like swinging snakes and gutters gurgle. Orito watches a vein pulsating in Yayoi’s throat. The belly craves food, she thinks, the tongue craves water, the heart craves love, and the mind craves stories. It is stories, she believes, that make life in the House of Sisters tolerable, stories in all their forms: the gifts’ letters, tittle-tattle, recollections, and tall tales like Hatsune’s singing skull. She thinks of myths of gods, of Izanami and Izanagi, of Buddha and Jesus, and perhaps the Goddess of Mount Shiranui, and wonders whether the same principle is not at work. Orito pictures the human mind as a loom that weaves disparate threads of belief, memory, and narrative into an entity whose common name is Self, and which sometimes calls itself Perception.\r\n\r\n- from The Ten Thousand Autumns of Jacob de Zoet by David Mitchell 📚 💬\r\n\r\n![Ten Thousand book cover on Overdrive](https://img1.od-cdn.com/ImageType-400/7723-1/9C3/69C/0B/%7B9C369C0B-B2B2-4427-898C-E74D9E7CCE85%7DImg400.jpg \"Ten Thousand book cover on Overdrive\")\r\n\r\n",
-				"date_published": "2023-06-21T15:30:54-04:00",
+				"date_published": "2023-06-21T14:30:54-05:00",
 				"url": "https://www.7robots.org/2023/06/21/self-which-sometimes.html",
 				"tags": ["Commonplace"]
 			},
@@ -257,7 +306,7 @@
 				"title": "Francis of Assisi - All Creatures of our God and King",
 				"content_html": "<p>All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! Thou burning sun with golden beam, Thou silver moon with softer gleam! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<p>Thou rushing wind that art so strong Ye clouds that sail in Heaven along, O praise Him! Alleluia! Thou rising moon, in praise rejoice, Ye lights of evening, find a voice! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<p>Thou flowing water, pure and clear, Make music for thy Lord to hear, O praise Him! Alleluia! Thou fire so masterful and bright, That givest man both warmth and light. Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<p>Dear mother earth, who day by day Unfoldest blessings on our way, O praise Him! Alleluia! The flowers and fruits that in thee grow, Let them His glory also show. Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<p>And all ye men of tender heart, Forgiving others, take your part, O sing ye! Alleluia! Ye who long pain and sorrow bear, Praise God and on Him cast your care! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<p>And thou most kind and gentle Death, Waiting to hush our latest breath, O praise Him! Alleluia! Thou leadest home the child of God, And Christ our Lord the way hath trod. Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<p>Let all things their Creator bless, And worship Him in humbleness, O praise Him! Alleluia! Praise, praise the Father, praise the Son, And praise the Spirit, Three in One! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!</p>\n<ul>\n<li>by St. Francis of Assisi 📚 💬</li>\n</ul>\n<p><img src=\"https://media.mutualart.com/Images/2020_11/29/21/214751561/638f3f94-7be0-4e9b-94fa-694984e894d6.Jpeg\" alt=\"St Francis - El Greco\" title=\"St Francis - El Greco\"></p>\n",
 				"content_text": "All creatures of our God and King Lift up your voice and with us sing, Alleluia! Alleluia! Thou burning sun with golden beam, Thou silver moon with softer gleam! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\nThou rushing wind that art so strong Ye clouds that sail in Heaven along, O praise Him! Alleluia! Thou rising moon, in praise rejoice, Ye lights of evening, find a voice! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\nThou flowing water, pure and clear, Make music for thy Lord to hear, O praise Him! Alleluia! Thou fire so masterful and bright, That givest man both warmth and light. Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\nDear mother earth, who day by day Unfoldest blessings on our way, O praise Him! Alleluia! The flowers and fruits that in thee grow, Let them His glory also show. Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\nAnd all ye men of tender heart, Forgiving others, take your part, O sing ye! Alleluia! Ye who long pain and sorrow bear, Praise God and on Him cast your care! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\nAnd thou most kind and gentle Death, Waiting to hush our latest breath, O praise Him! Alleluia! Thou leadest home the child of God, And Christ our Lord the way hath trod. Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\nLet all things their Creator bless, And worship Him in humbleness, O praise Him! Alleluia! Praise, praise the Father, praise the Son, And praise the Spirit, Three in One! Alleluia! Alleluia! Alleluia! O praise Him! Alleluia!\r\n\r\n- by St. Francis of Assisi 📚 💬\r\n\r\n![St Francis - El Greco](https://media.mutualart.com/Images/2020_11/29/21/214751561/638f3f94-7be0-4e9b-94fa-694984e894d6.Jpeg \"St Francis - El Greco\")\r\n\r\n",
-				"date_published": "2023-06-21T15:23:58-04:00",
+				"date_published": "2023-06-21T14:23:58-05:00",
 				"url": "https://www.7robots.org/2023/06/21/francis-of-assisi.html",
 				"tags": ["Commonplace"]
 			},
@@ -266,7 +315,7 @@
 				"title": "The Aleph",
 				"content_html": "<p>I saw the Aleph from every point and angle, and in the Aleph I saw the earth and in the earth the Aleph and in the Aleph the earth; I saw my own face and my own bowels; I saw your face; and I felt dizzy and wept, for my eyes had seen that secret and conjectured object whose name is common to all men but which no man has looked upon – the unimaginable universe.</p>\n<p>I felt infinite wonder, infinite pity.</p>\n<ul>\n<li>From The Aleph by Jorge Luis Borges 📚 💬</li>\n</ul>\n<p><img src=\"https://www.historytoday.com/sites/default/files/articles/borges.jpg\" alt=\"Borges historytoday.com\" title=\"Borges historytoday.com\"></p>\n",
 				"content_text": "I saw the Aleph from every point and angle, and in the Aleph I saw the earth and in the earth the Aleph and in the Aleph the earth; I saw my own face and my own bowels; I saw your face; and I felt dizzy and wept, for my eyes had seen that secret and conjectured object whose name is common to all men but which no man has looked upon – the unimaginable universe.\n\nI felt infinite wonder, infinite pity.\n\n- From The Aleph by Jorge Luis Borges 📚 💬\n\n![Borges historytoday.com](https://www.historytoday.com/sites/default/files/articles/borges.jpg \"Borges historytoday.com\")\n",
-				"date_published": "2023-06-12T19:03:27-04:00",
+				"date_published": "2023-06-12T18:03:27-05:00",
 				"url": "https://www.7robots.org/2023/06/12/the-aleph.html",
 				"tags": ["Commonplace"]
 			},
@@ -275,7 +324,7 @@
 				
 				"content_html": "<p>Holy Hill</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Holy Hill\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6fd7dfa938.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/98443/2023/c4bf2ddced.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-06-11T23:46:58-04:00",
+				"date_published": "2023-06-11T22:46:58-05:00",
 				"url": "https://www.7robots.org/2023/06/11/holy-hill.html"
 			},
 			{
@@ -283,7 +332,7 @@
 				"title": "Slowness",
 				"content_html": "<p>“In existential mathematics, that experience takes the form of two basic equations: the degree of slowness is directly proportional to the intensity of memory; the degree of speed is directly proportional to the intensity of forgetting.”</p>\n<p>Excerpt From Slowness by Milan Kundera 📚 💬</p>\n<p><img src=\"https://i.pinimg.com/originals/6f/ea/76/6fea76a38fee5a966f9c33ad61e4c1af.jpg\" alt=\"Slowness book cover on pinterest\" title=\"Slowness book cover on pinterest\"></p>\n",
 				"content_text": "“In existential mathematics, that experience takes the form of two basic equations: the degree of slowness is directly proportional to the intensity of memory; the degree of speed is directly proportional to the intensity of forgetting.”\r\n\r\nExcerpt From Slowness by Milan Kundera 📚 💬\r\n\r\n![Slowness book cover on pinterest](https://i.pinimg.com/originals/6f/ea/76/6fea76a38fee5a966f9c33ad61e4c1af.jpg \"Slowness book cover on pinterest\")\r\n\r\n",
-				"date_published": "2023-06-11T23:18:25-04:00",
+				"date_published": "2023-06-11T22:18:25-05:00",
 				"url": "https://www.7robots.org/2023/06/11/slowness.html",
 				"tags": ["Commonplace"]
 			},
@@ -292,7 +341,7 @@
 				"title": "Maps and Mazes",
 				"content_html": "<p>Once there were brook trout in the streams of the mountains. You could see them standing in the amber current where the white edges of their fins wimpled softly in the flow. They smelled of moss in your hand. Polished and muscular and torsional. On their backs were vermiculate patterns that were maps of the world in its becoming. Maps and mazes. Of a thing which could not be put back. Not be made right again. In the deep glens where they lived all things were older than man and they hummed of mystery.</p>\n<p>excerpt from The Road by Cormac McCarthy 📚 💬</p>\n<p><img src=\"http://ecx.images-amazon.com/images/I/51i6dx2ReuL.jpg\" alt=\"The Road book cover on Amazon\" title=\"The Road book cover on Amazon\"></p>\n",
 				"content_text": "Once there were brook trout in the streams of the mountains. You could see them standing in the amber current where the white edges of their fins wimpled softly in the flow. They smelled of moss in your hand. Polished and muscular and torsional. On their backs were vermiculate patterns that were maps of the world in its becoming. Maps and mazes. Of a thing which could not be put back. Not be made right again. In the deep glens where they lived all things were older than man and they hummed of mystery.\n\nexcerpt from The Road by Cormac McCarthy 📚 💬\n\n![The Road book cover on Amazon](http://ecx.images-amazon.com/images/I/51i6dx2ReuL.jpg \"The Road book cover on Amazon\")\n\n",
-				"date_published": "2023-05-13T00:00:00-04:00",
+				"date_published": "2023-05-12T23:00:00-05:00",
 				"url": "https://www.7robots.org/2023/05/13/maps-and-mazes.html"
 			},
 			{
@@ -300,7 +349,7 @@
 				"title": "The Breath of God",
 				"content_html": "<p>The woman when she saw him put her arms around him and held him. Oh, she said, I am so glad to see you. She would talk to him sometimes about God. He tried to talk to God but the best thing was to talk to his father and he did talk to him and he didn’t forget. The woman said that was all right. She said that the breath of God was his breath yet though it pass from man to man through all of time.</p>\n<p>excerpt from The Road by Cormac McCarthy 📚 💬</p>\n<p><img src=\"http://ecx.images-amazon.com/images/I/51i6dx2ReuL.jpg\" alt=\"The Road book cover on amazon\" title=\"The Road book cover on amazon\"></p>\n",
 				"content_text": "The woman when she saw him put her arms around him and held him. Oh, she said, I am so glad to see you. She would talk to him sometimes about God. He tried to talk to God but the best thing was to talk to his father and he did talk to him and he didn’t forget. The woman said that was all right. She said that the breath of God was his breath yet though it pass from man to man through all of time.\n\nexcerpt from The Road by Cormac McCarthy 📚 💬\n\n![The Road book cover on amazon](http://ecx.images-amazon.com/images/I/51i6dx2ReuL.jpg \"The Road book cover on amazon\")\n\n",
-				"date_published": "2023-05-12T00:00:00-04:00",
+				"date_published": "2023-05-11T23:00:00-05:00",
 				"url": "https://www.7robots.org/2023/05/12/the-breath-of.html",
 				"tags": ["Commonplace"]
 			},
@@ -309,7 +358,7 @@
 				"title": "Be with those who help your being",
 				"content_html": "<p>Be with those who help your being.\nDon&rsquo;t sit with indifferent people, whose breath\ncomes cold out of their mouths.\nNot these visible forms, your work is deeper.</p>\n<ul>\n<li>Rumi 📚 💬</li>\n</ul>\n<p><img src=\"https://ychef.files.bbci.co.uk/624x351/p01xcznd.jpg\" alt=\"Rumi image at BBC\" title=\"Rumi image at BBC\"></p>\n",
 				"content_text": "Be with those who help your being.\nDon't sit with indifferent people, whose breath\ncomes cold out of their mouths.\nNot these visible forms, your work is deeper.\n\n- Rumi 📚 💬\n\n![Rumi image at BBC](https://ychef.files.bbci.co.uk/624x351/p01xcznd.jpg \"Rumi image at BBC\")\n\n",
-				"date_published": "2023-05-11T00:00:00-04:00",
+				"date_published": "2023-05-10T23:00:00-05:00",
 				"url": "https://www.7robots.org/2023/05/11/be-with-those.html",
 				"tags": ["Commonplace"]
 			},
@@ -318,7 +367,7 @@
 				"title": "A House Made of Time",
 				"content_html": "<p>That there was such a house in the world, lit and open and empty, became a story in those days; there were other stories, people were in motion, stories were all they cared to hear, stories were all they believed in, life had got that hard. The story of the house all lit, the house of four floors, seven chimneys, three hundred and sixty five stairs, fifty-two doors, traveled far; they were all travelers then. It met another story, a story about a world elsewhere, and a family whose names many knew, whose house had been large, and populous with griefs and happinesses that had once seemed endless, but had ended, or had stopped; and to those many who still dreamed of that family as often as their own, the two stories seemed one. The house could be found. In spring the basement lights went out, and one in the music room.</p>\n<p>People in motion; stories starting in a dream, and spoken by unwise actors into wanting ears, then ceasing; the story turning back to dream, and then haunting the day, told and retold. People knew there was a house made of time, and many set out to find it.</p>\n<ul>\n<li>from Little, Big by John Crowley 📚 💬</li>\n</ul>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg\" alt=\"Little, Big book cover on Barnes and Noble\" title=\"Little, Big book cover on Barnes and Noble\"></p>\n",
 				"content_text": "That there was such a house in the world, lit and open and empty, became a story in those days; there were other stories, people were in motion, stories were all they cared to hear, stories were all they believed in, life had got that hard. The story of the house all lit, the house of four floors, seven chimneys, three hundred and sixty five stairs, fifty-two doors, traveled far; they were all travelers then. It met another story, a story about a world elsewhere, and a family whose names many knew, whose house had been large, and populous with griefs and happinesses that had once seemed endless, but had ended, or had stopped; and to those many who still dreamed of that family as often as their own, the two stories seemed one. The house could be found. In spring the basement lights went out, and one in the music room.\n\nPeople in motion; stories starting in a dream, and spoken by unwise actors into wanting ears, then ceasing; the story turning back to dream, and then haunting the day, told and retold. People knew there was a house made of time, and many set out to find it.\n\n- from Little, Big by John Crowley 📚 💬\n\n![Little, Big book cover on Barnes and Noble](http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg \"Little, Big book cover on Barnes and Noble\")\n\n",
-				"date_published": "2023-05-01T00:00:00-04:00",
+				"date_published": "2023-04-30T23:00:00-05:00",
 				"url": "https://www.7robots.org/2023/05/01/a-house-made.html",
 				"tags": ["Commonplace"]
 			},
@@ -327,7 +376,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780198818649\">Twenty Thousand Leagues Under the Seas</a> by Jules Verne 📚</p>\n",
 				"content_text": "Currently reading: [Twenty Thousand Leagues Under the Seas](https://micro.blog/books/9780198818649) by Jules Verne 📚\n",
-				"date_published": "2023-04-28T14:34:58-04:00",
+				"date_published": "2023-04-28T13:34:58-05:00",
 				"url": "https://www.7robots.org/2023/04/28/currently-reading-twenty.html"
 			},
 			{
@@ -335,7 +384,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062224682\">The Art of Communicating</a> by Thich Nhat Hanh 📚</p>\n",
 				"content_text": "Currently reading: [The Art of Communicating](https://micro.blog/books/9780062224682) by Thich Nhat Hanh 📚\n",
-				"date_published": "2023-04-26T17:58:12-04:00",
+				"date_published": "2023-04-26T16:58:12-05:00",
 				"url": "https://www.7robots.org/2023/04/26/currently-reading-the.html"
 			},
 			{
@@ -343,7 +392,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780374114459\">The Blue Fox</a> by Sjón 📚</p>\n",
 				"content_text": "Finished reading: [The Blue Fox](https://micro.blog/books/9780374114459) by Sjón 📚\n",
-				"date_published": "2023-04-26T17:57:50-04:00",
+				"date_published": "2023-04-26T16:57:50-05:00",
 				"url": "https://www.7robots.org/2023/04/26/finished-reading-the.html"
 			},
 			{
@@ -351,7 +400,7 @@
 				
 				"content_html": "<p>George Brown School of Engineering at Rice University</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "George Brown School of Engineering at Rice University \n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/965f8b90a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-04-25T19:28:33-04:00",
+				"date_published": "2023-04-25T18:28:33-05:00",
 				"url": "https://www.7robots.org/2023/04/25/george-brown-school.html"
 			},
 			{
@@ -359,7 +408,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781497608894\">Queen of Angels</a> by Greg Bear 📚</p>\n",
 				"content_text": "Finished reading: [Queen of Angels](https://micro.blog/books/9781497608894) by Greg Bear 📚\n",
-				"date_published": "2023-04-23T01:29:25-04:00",
+				"date_published": "2023-04-23T00:29:25-05:00",
 				"url": "https://www.7robots.org/2023/04/23/finished-reading-queen.html"
 			},
 			{
@@ -367,7 +416,7 @@
 				
 				"content_html": "<p>A great tree on the Rice campus today</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A great tree on the Rice campus today \n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/d388a30a94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-04-22T16:46:19-04:00",
+				"date_published": "2023-04-22T15:46:19-05:00",
 				"url": "https://www.7robots.org/2023/04/22/a-great-tree.html"
 			},
 			{
@@ -375,7 +424,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250275066\">Antimatter Blues</a> by Edward Ashton 📚</p>\n",
 				"content_text": "Currently reading: [Antimatter Blues](https://micro.blog/books/9781250275066) by Edward Ashton 📚\n",
-				"date_published": "2023-04-19T23:26:21-04:00",
+				"date_published": "2023-04-19T22:26:21-05:00",
 				"url": "https://www.7robots.org/2023/04/19/currently-reading-antimatter.html"
 			},
 			{
@@ -383,7 +432,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781497608894\">Queen of Angels</a> by Greg Bear 📚</p>\n",
 				"content_text": "Currently reading: [Queen of Angels](https://micro.blog/books/9781497608894) by Greg Bear 📚\n",
-				"date_published": "2023-04-11T19:11:26-04:00",
+				"date_published": "2023-04-11T18:11:26-05:00",
 				"url": "https://www.7robots.org/2023/04/11/currently-reading-queen.html"
 			},
 			{
@@ -391,7 +440,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765389138\">The Kaiju Preservation Society</a> by John Scalzi 📚</p>\n",
 				"content_text": "Finished reading: [The Kaiju Preservation Society](https://micro.blog/books/9780765389138) by John Scalzi 📚\n",
-				"date_published": "2023-03-29T23:10:19-04:00",
+				"date_published": "2023-03-29T22:10:19-05:00",
 				"url": "https://www.7robots.org/2023/03/29/finished-reading-the.html"
 			},
 			{
@@ -399,7 +448,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781982168452\">Cloud Cuckoo Land</a> by Anthony Doerr 📚</p>\n",
 				"content_text": "Currently reading: [Cloud Cuckoo Land](https://micro.blog/books/9781982168452) by Anthony Doerr 📚\n",
-				"date_published": "2023-03-28T17:12:56-04:00",
+				"date_published": "2023-03-28T16:12:56-05:00",
 				"url": "https://www.7robots.org/2023/03/28/currently-reading-cloud.html"
 			},
 			{
@@ -407,7 +456,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101911815\">The Memory Police</a> by Yoko Ogawa 📚</p>\n",
 				"content_text": "Finished reading: [The Memory Police](https://micro.blog/books/9781101911815) by Yoko Ogawa 📚\n",
-				"date_published": "2023-03-28T17:12:36-04:00",
+				"date_published": "2023-03-28T16:12:36-05:00",
 				"url": "https://www.7robots.org/2023/03/28/finished-reading-the.html"
 			},
 			{
@@ -415,7 +464,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781541675803\">A Thousand Brains</a> by Jeff Hawkins 📚</p>\n",
 				"content_text": "Finished reading: [A Thousand Brains](https://micro.blog/books/9781541675803) by Jeff Hawkins 📚\n",
-				"date_published": "2023-03-22T10:29:00-04:00",
+				"date_published": "2023-03-22T09:29:00-05:00",
 				"url": "https://www.7robots.org/2023/03/22/finished-reading-a.html"
 			},
 			{
@@ -423,7 +472,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781101911815\">The Memory Police</a> by Yoko Ogawa 📚</p>\n",
 				"content_text": "Currently reading: [The Memory Police](https://micro.blog/books/9781101911815) by Yoko Ogawa 📚\n",
-				"date_published": "2023-03-22T10:28:51-04:00",
+				"date_published": "2023-03-22T09:28:51-05:00",
 				"url": "https://www.7robots.org/2023/03/22/currently-reading-the.html"
 			},
 			{
@@ -431,7 +480,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780765389138\">The Kaiju Preservation Society</a> by John Scalzi 📚</p>\n",
 				"content_text": "Currently reading: [The Kaiju Preservation Society](https://micro.blog/books/9780765389138) by John Scalzi 📚\n",
-				"date_published": "2023-03-21T16:51:04-04:00",
+				"date_published": "2023-03-21T15:51:04-05:00",
 				"url": "https://www.7robots.org/2023/03/21/currently-reading-the.html"
 			},
 			{
@@ -439,7 +488,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789403126326\">Mickey7</a> by Edward Ashton 📚</p>\n",
 				"content_text": "Finished reading: [Mickey7](https://micro.blog/books/9789403126326) by Edward Ashton 📚\n",
-				"date_published": "2023-03-21T16:50:38-04:00",
+				"date_published": "2023-03-21T15:50:38-05:00",
 				"url": "https://www.7robots.org/2023/03/21/finished-reading-mickey.html"
 			},
 			{
@@ -447,7 +496,7 @@
 				"title": "Daily Alice",
 				"content_html": "<p>Come from his burial, none knew where but she, Daily Alice came among them like daybreak, her tears like day-odorous dew. They swallowed tears and wonder before her presence, and made to leave; but no one would say later that she hadn&rsquo;t smiled for them, and made them glad with her blessing, as they parted. They sighed, some yawned, they took hands; they took themselves by twos and threes away to where she sent them, to rocks, fields, streams and woods, to the four corners of the earth, their kingdom new-made.</p>\n<p>Then Alice walked alone there, by where the moist ground was marked with the dark circle of their dance, her skirts trailing damp in the sparkling grasses. She thought that if she could she might take away this summer day, this one day, for him; but he wouldn&rsquo;t have liked her to do that and she could not do it anyway. So instead she would make it, which she could do, this her anniversary day, a day of such perfect brilliance, a morning so new, an afternoon so endless, that the whole world would remember it ever after.</p>\n<ul>\n<li>excerpt from Little, Big by John Crowley 📚 💬</li>\n</ul>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg\" alt=\"Little Big book cover Barnes and Noble\" title=\"Little Big book cover Barnes and Noble\"></p>\n",
 				"content_text": "Come from his burial, none knew where but she, Daily Alice came among them like daybreak, her tears like day-odorous dew. They swallowed tears and wonder before her presence, and made to leave; but no one would say later that she hadn't smiled for them, and made them glad with her blessing, as they parted. They sighed, some yawned, they took hands; they took themselves by twos and threes away to where she sent them, to rocks, fields, streams and woods, to the four corners of the earth, their kingdom new-made.\r\n\r\nThen Alice walked alone there, by where the moist ground was marked with the dark circle of their dance, her skirts trailing damp in the sparkling grasses. She thought that if she could she might take away this summer day, this one day, for him; but he wouldn't have liked her to do that and she could not do it anyway. So instead she would make it, which she could do, this her anniversary day, a day of such perfect brilliance, a morning so new, an afternoon so endless, that the whole world would remember it ever after.\r\n\r\n- excerpt from Little, Big by John Crowley 📚 💬\r\n\r\n![Little Big book cover Barnes and Noble](http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg \"Little Big book cover Barnes and Noble\")\n",
-				"date_published": "2023-03-21T16:48:43-04:00",
+				"date_published": "2023-03-21T15:48:43-05:00",
 				"url": "https://www.7robots.org/2023/03/21/daily-alice.html",
 				"tags": ["Commonplace"]
 			},
@@ -456,7 +505,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780747598626\">The Graveyard Book</a> by Neil Gaiman 📚</p>\n",
 				"content_text": "Finished reading: [The Graveyard Book](https://micro.blog/books/9780747598626) by Neil Gaiman 📚\n",
-				"date_published": "2023-03-17T21:28:20-04:00",
+				"date_published": "2023-03-17T20:28:20-05:00",
 				"url": "https://www.7robots.org/2023/03/17/finished-reading-the.html"
 			},
 			{
@@ -464,7 +513,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789403126326\">Mickey7</a> by Edward Ashton 📚</p>\n",
 				"content_text": "Currently reading: [Mickey7](https://micro.blog/books/9789403126326) by Edward Ashton 📚\n",
-				"date_published": "2023-03-15T17:02:40-04:00",
+				"date_published": "2023-03-15T16:02:40-05:00",
 				"url": "https://www.7robots.org/2023/03/15/currently-reading-mickey.html"
 			},
 			{
@@ -472,7 +521,7 @@
 				"title": "Thank you",
 				"content_html": "<p>On his wedding day, he and Daily Alice had gone among the guests seated on the grass, and many of them had given gifts, and all of them had said “Thank you.” Thank you: because Smoky was willing, willing to take on this task, to take exception to none of it, to live his life for the convenience of others in whom he had never even quite believed, and spend his substance bringing about the end of a Tale in which he did not figure. And so he had; and he was still willing: but there had never been a reason to thank him. Because whether they knew it or not, he knew that Alice would have stood beside him on that day and wed him whether they had chosen him for her or not, would have defied them to have him. He was sure of it.</p>\n<ul>\n<li>excerpt from Little, Big by John Crowley 📚 💬</li>\n</ul>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg\" alt=\"Little Big book cover Barnes and Noble\" title=\"Little Big book cover Barnes and Noble\"></p>\n",
 				"content_text": "On his wedding day, he and Daily Alice had gone among the guests seated on the grass, and many of them had given gifts, and all of them had said “Thank you.” Thank you: because Smoky was willing, willing to take on this task, to take exception to none of it, to live his life for the convenience of others in whom he had never even quite believed, and spend his substance bringing about the end of a Tale in which he did not figure. And so he had; and he was still willing: but there had never been a reason to thank him. Because whether they knew it or not, he knew that Alice would have stood beside him on that day and wed him whether they had chosen him for her or not, would have defied them to have him. He was sure of it.\n\n- excerpt from Little, Big by John Crowley 📚 💬\r\n\r\n![Little Big book cover Barnes and Noble](http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg \"Little Big book cover Barnes and Noble\")\n\n",
-				"date_published": "2023-03-15T16:03:51-04:00",
+				"date_published": "2023-03-15T15:03:51-05:00",
 				"url": "https://www.7robots.org/2023/03/15/thank-you.html"
 			},
 			{
@@ -480,7 +529,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781541675803\">A Thousand Brains</a> by Jeff Hawkins 📚</p>\n",
 				"content_text": "Currently reading: [A Thousand Brains](https://micro.blog/books/9781541675803) by Jeff Hawkins 📚\n",
-				"date_published": "2023-03-14T15:46:36-04:00",
+				"date_published": "2023-03-14T14:46:36-05:00",
 				"url": "https://www.7robots.org/2023/03/14/currently-reading-a.html"
 			},
 			{
@@ -488,7 +537,7 @@
 				"title": "One Step",
 				"content_html": "<p>The morning was huge, and went on in all directions before her, and blew coldly past her into the house. She stood a long time in the open doorway, thinking: one step. One step, which will seem to be a step away, but which will not be; one step into the rainbow, a step she had long ago taken, and which could not be untaken, every other step was only further. She took one step. Out on the lawn, amid the rags of mist, a little dog ran toward her, leaping and barking excitedly.</p>\n<p>– excerpt from Little, Big by John Crowley 📚 💬</p>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg\" alt=\"Little Big book cover Barnes and Noble\" title=\"Little Big book cover Barnes and Noble\"></p>\n",
 				"content_text": "\r\nThe morning was huge, and went on in all directions before her, and blew coldly past her into the house. She stood a long time in the open doorway, thinking: one step. One step, which will seem to be a step away, but which will not be; one step into the rainbow, a step she had long ago taken, and which could not be untaken, every other step was only further. She took one step. Out on the lawn, amid the rags of mist, a little dog ran toward her, leaping and barking excitedly.\r\n\r\n– excerpt from Little, Big by John Crowley 📚 💬\r\n\r\n![Little Big book cover Barnes and Noble](http://prodimage.images-bn.com/pimages/9780062124043_p0_v3_s1200x630.jpg \"Little Big book cover Barnes and Noble\")\r\n\r\n",
-				"date_published": "2023-03-14T15:19:39-04:00",
+				"date_published": "2023-03-14T14:19:39-05:00",
 				"url": "https://www.7robots.org/2023/03/14/one-step.html",
 				"tags": ["Commonplace"]
 			},
@@ -497,7 +546,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062124043\">Little, Big</a> by John Crowley 📚</p>\n",
 				"content_text": "Finished reading: [Little, Big](https://micro.blog/books/9780062124043) by John Crowley 📚\n",
-				"date_published": "2023-03-14T15:14:38-04:00",
+				"date_published": "2023-03-14T14:14:38-05:00",
 				"url": "https://www.7robots.org/2023/03/14/finished-reading-little.html"
 			},
 			{
@@ -505,7 +554,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780061751851\">Signs and Wonders</a> by Philip Gulley 📚</p>\n",
 				"content_text": "Currently reading: [Signs and Wonders](https://micro.blog/books/9780061751851) by Philip Gulley 📚\n",
-				"date_published": "2023-03-10T00:23:19-04:00",
+				"date_published": "2023-03-09T23:23:19-05:00",
 				"url": "https://www.7robots.org/2023/03/09/currently-reading-signs.html"
 			},
 			{
@@ -513,7 +562,7 @@
 				"title": "\u0026",
 				"content_html": "<p>There was a time when we did not form all words as now we do, in writing on a page. There was a time when the word “&amp;” was written with several distinct &amp; separate letters. It seems madness now. But there it is, &amp; there is nothing we can do about it.\nHumanity learnt to ride the rails, &amp; that motion made us what we are, a ferromaritime people. The lines of the rail sea go everywhere but from one place straight to another. It is always switchback, junction, coils, around &amp; over our own train-trails.\nWhat word better could there be to symbolize the rail sea that connects &amp; separates all lands, than “&amp;” itself? Where else does the rail sea take us but to this place &amp; that one &amp; that one &amp; that one, &amp; so on? &amp; what better embodies, in the sweep of the pen, the recurved motion of trains, than “&amp;”?\nAn efficient route from where we start to where we end would make the word the tiniest line. But it takes a veering route, up &amp; backwards, overshooting &amp; correcting, back down again south &amp; west, crossing its own earlier path, changing direction, another overlap, to stop, finally, a few hairs’ widths from where we began.\n&amp; tacks &amp; yaws, switches on its way to where it’s going, as we all must do.</p>\n<ul>\n<li>excerpt from China Mieville’s Railsea 📚 💬</li>\n</ul>\n<p><img src=\"https://media.npr.org/assets/bakertaylor/covers/r/railsea/9780345524522_custom-fba49cd682c189976f5d8fdeef0af4bc456dd551-s6-c30.jpg\" alt=\"Railsea book cover npr\" title=\"Railsea book cover npr\"></p>\n",
 				"content_text": "\nThere was a time when we did not form all words as now we do, in writing on a page. There was a time when the word “&” was written with several distinct & separate letters. It seems madness now. But there it is, & there is nothing we can do about it.\nHumanity learnt to ride the rails, & that motion made us what we are, a ferromaritime people. The lines of the rail sea go everywhere but from one place straight to another. It is always switchback, junction, coils, around & over our own train-trails.\nWhat word better could there be to symbolize the rail sea that connects & separates all lands, than “&” itself? Where else does the rail sea take us but to this place & that one & that one & that one, & so on? & what better embodies, in the sweep of the pen, the recurved motion of trains, than “&”?\nAn efficient route from where we start to where we end would make the word the tiniest line. But it takes a veering route, up & backwards, overshooting & correcting, back down again south & west, crossing its own earlier path, changing direction, another overlap, to stop, finally, a few hairs’ widths from where we began.\n& tacks & yaws, switches on its way to where it’s going, as we all must do.\n\n- excerpt from China Mieville’s Railsea 📚 💬\n\n![Railsea book cover npr](https://media.npr.org/assets/bakertaylor/covers/r/railsea/9780345524522_custom-fba49cd682c189976f5d8fdeef0af4bc456dd551-s6-c30.jpg \"Railsea book cover npr\")\n\n\n",
-				"date_published": "2023-03-04T18:43:00-04:00",
+				"date_published": "2023-03-04T17:43:00-05:00",
 				"url": "https://www.7robots.org/2023/03/04/174300.html"
 			},
 			{
@@ -521,7 +570,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780747598626\">The Graveyard Book</a> by Neil Gaiman 📚</p>\n",
 				"content_text": "Currently reading: [The Graveyard Book](https://micro.blog/books/9780747598626) by Neil Gaiman 📚\n",
-				"date_published": "2023-03-03T08:14:03-04:00",
+				"date_published": "2023-03-03T07:14:03-05:00",
 				"url": "https://www.7robots.org/2023/03/03/currently-reading-the.html"
 			},
 			{
@@ -529,7 +578,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593160084\">Pebble in the Sky</a> by Isaac Asimov 📚</p>\n",
 				"content_text": "Currently reading: [Pebble in the Sky](https://micro.blog/books/9780593160084) by Isaac Asimov 📚\n",
-				"date_published": "2023-03-02T00:21:12-04:00",
+				"date_published": "2023-03-01T23:21:12-05:00",
 				"url": "https://www.7robots.org/2023/03/01/currently-reading-pebble.html"
 			},
 			{
@@ -537,7 +586,7 @@
 				"title": "Dream",
 				"content_html": "<p>“I dream everyone in the world is asleep, dreaming. I dream frost patterns on a temple bell. I dream bright water dripping from the spear of Izanagi, and the alchemy that transforms these drips into the land we call Japan. I dream the Pleiades, and flying fish, and speckled eggs in nests. I dream of skin flakes in keyboard gullies. I dream cities and the ovaries they issue from. I dream lovers who glimpse each other long before they become lovers, and I dream the songs they fall in love to, and I dream the songwriters who find the songs. I dream a mind in eight parts, and a compass rose. I dream of a girl, drowning, resigned to her fate now that she knows that there is no possibility of being saved by her brother. Her willowy body is passed from current to current, tide to tide, until it has dissolved into pure blue; and I am sorry, but she knows I am sorry, and she wants me to let her go because she does not want me to drown too, which I will, if I spend the rest of my life looking for her. I dream of a stone whale, of barnacles on the whale, watching it all. When my dream falters, all the world questions its own substance, so it is no surprise that I also dream the message bubbling from the stone whale’s blowhole.”This is the National Seismology Bureau, interrupring this program to bring you an emergency news flash … ”</p>\n<p>― Number Nine Dream by David Mitchell  📚 💬</p>\n<p><img src=\"https://img1.od-cdn.com/ImageType-400/8815-1/F89/B52/58/%7BF89B5258-5CB5-49B7-80E8-0808BDD41A84%7DImg400.jpg\" alt=\"book cover Number 9 Dream from overdrive\" title=\"book cover Number 9 Dream from overdrive\"></p>\n",
 				"content_text": "“I dream everyone in the world is asleep, dreaming. I dream frost patterns on a temple bell. I dream bright water dripping from the spear of Izanagi, and the alchemy that transforms these drips into the land we call Japan. I dream the Pleiades, and flying fish, and speckled eggs in nests. I dream of skin flakes in keyboard gullies. I dream cities and the ovaries they issue from. I dream lovers who glimpse each other long before they become lovers, and I dream the songs they fall in love to, and I dream the songwriters who find the songs. I dream a mind in eight parts, and a compass rose. I dream of a girl, drowning, resigned to her fate now that she knows that there is no possibility of being saved by her brother. Her willowy body is passed from current to current, tide to tide, until it has dissolved into pure blue; and I am sorry, but she knows I am sorry, and she wants me to let her go because she does not want me to drown too, which I will, if I spend the rest of my life looking for her. I dream of a stone whale, of barnacles on the whale, watching it all. When my dream falters, all the world questions its own substance, so it is no surprise that I also dream the message bubbling from the stone whale’s blowhole.”This is the National Seismology Bureau, interrupring this program to bring you an emergency news flash … ”\r\n\r\n― Number Nine Dream by David Mitchell  📚 💬\r\n\r\n![book cover Number 9 Dream from overdrive](https://img1.od-cdn.com/ImageType-400/8815-1/F89/B52/58/%7BF89B5258-5CB5-49B7-80E8-0808BDD41A84%7DImg400.jpg \"book cover Number 9 Dream from overdrive\")\r\n\r\n\r\n",
-				"date_published": "2023-02-22T09:41:56-04:00",
+				"date_published": "2023-02-22T08:41:56-05:00",
 				"url": "https://www.7robots.org/2023/02/22/dream.html",
 				"tags": ["Commonplace"]
 			},
@@ -546,7 +595,7 @@
 				
 				"content_html": "<p>This morning’s walk at Holy Hill 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This morning’s walk at Holy Hill 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/70d0f022b3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-21T15:10:31-04:00",
+				"date_published": "2023-02-21T14:10:31-05:00",
 				"url": "https://www.7robots.org/2023/02/21/this-mornings-walk.html"
 			},
 			{
@@ -554,7 +603,7 @@
 				"title": "water",
 				"content_html": "<p>“I keep thinking about this river somewhere, with the water moving really fast. And these two people in the water, trying to hold onto each other, holding on as hard as they can, but in the end it’s just too much. The current’s too strong. They’ve got to let go, drift apart. That’s how it is with us. It’s a shame, Kath, because we’ve loved each other all our lives. But in the end, we can’t stay together forever.”</p>\n<p>― Never Let Me Go by Kazuo Ishiguro  📚 💬</p>\n<p><img src=\"https://thefilmstage.com/wp-content/uploads/2010/07/neverletmegoposter-590x871.jpg\" alt=\"filmstage.com Never Let Me Go poster\" title=\"filmstage.com Never Let Me Go poster\"></p>\n",
 				"content_text": "“I keep thinking about this river somewhere, with the water moving really fast. And these two people in the water, trying to hold onto each other, holding on as hard as they can, but in the end it’s just too much. The current’s too strong. They’ve got to let go, drift apart. That’s how it is with us. It’s a shame, Kath, because we’ve loved each other all our lives. But in the end, we can’t stay together forever.”\n\n― Never Let Me Go by Kazuo Ishiguro  📚 💬\n\n![filmstage.com Never Let Me Go poster](https://thefilmstage.com/wp-content/uploads/2010/07/neverletmegoposter-590x871.jpg \"filmstage.com Never Let Me Go poster\")\n",
-				"date_published": "2023-02-21T15:07:00-04:00",
+				"date_published": "2023-02-21T14:07:00-05:00",
 				"url": "https://www.7robots.org/2023/02/21/water.html",
 				"tags": ["Commonplace"]
 			},
@@ -563,7 +612,7 @@
 				"title": "DeCordova Museum 📷",
 				"content_html": "<p>DeCordova Museum 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "DeCordova Museum 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/6a3221fa41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-18T13:25:19-04:00",
+				"date_published": "2023-02-18T12:25:19-05:00",
 				"url": "https://www.7robots.org/2023/02/18/decordova-museum.html"
 			},
 			{
@@ -571,7 +620,7 @@
 				"title": "How sad the evening earth",
 				"content_html": "<p>“How sad the evening earth! How mysterious the mists over the swamps! He who has wandered in these mists, he who has suffered much before death, he who has flown over this earth bearing on himself too heavy a burden, knows it. The weary man knows it. And without regret he leaves the mists of the earth, its swamps and rivers, with a light heart he gives himself into the hands of death, knowing that she alone can bring him peace.”</p>\n<p>From Mikhail Bulgakov. “THE MASTER AND MARGARITA” 📚 💬</p>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780802130112_p0_v1_s1200x630.jpg\" alt=\"Master and Margarita book cover Barnes Noble\" title=\"Master and Margarita book cover Barnes Noble\"></p>\n",
 				"content_text": "“How sad the evening earth! How mysterious the mists over the swamps! He who has wandered in these mists, he who has suffered much before death, he who has flown over this earth bearing on himself too heavy a burden, knows it. The weary man knows it. And without regret he leaves the mists of the earth, its swamps and rivers, with a light heart he gives himself into the hands of death, knowing that she alone can bring him peace.”\r\n\r\nFrom Mikhail Bulgakov. “THE MASTER AND MARGARITA” 📚 💬\r\n\r\n![Master and Margarita book cover Barnes Noble](http://prodimage.images-bn.com/pimages/9780802130112_p0_v1_s1200x630.jpg \"Master and Margarita book cover Barnes Noble\")\r\n\r\n\r\n",
-				"date_published": "2023-02-18T13:20:53-04:00",
+				"date_published": "2023-02-18T12:20:53-05:00",
 				"url": "https://www.7robots.org/2023/02/18/how-sad-the.html",
 				"tags": ["Commonplace"]
 			},
@@ -580,7 +629,7 @@
 				"title": "Backyard in winter 📷",
 				"content_html": "<p>Backyard in winter</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Backyard in winter\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/70e8b32ccb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-16T23:25:06-04:00",
+				"date_published": "2023-02-16T22:25:06-05:00",
 				"url": "https://www.7robots.org/2023/02/16/backyard-in-winter.html"
 			},
 			{
@@ -588,7 +637,7 @@
 				"title": "Cool Showers",
 				"content_html": "<p>Landsman, of course, is sorry, too. He has already apologized to her several times, alone and in the presence of others, orally and in writing, formally in measured phrases and in untrammeled spasms: Sorry I’m sorry I’m so, so sorry. He has apologized for his craziness, his erratic behavior, his glooms and jags, for the years of round-robin exaltation and despair. He has apologized for leaving her, and for begging her to take him back again, and for breaking down the door to their old apartment when she declined to do so. He has abased himself, and rent his garments, and groveled at her shoes. Most of the time Bina has, good and caring woman that she is, offered Landsman the words he wanted to hear. He has prayed to her for rain, and she has sent cool showers. But what he really requires is a flood to wash his wickedness from the face of the earth. That or the blessing of a yid who will never bless anyone again.</p>\n<ul>\n<li>excerpt from Michael Chabon. “The Yiddish Policemen’s Union”. 📚 💬</li>\n</ul>\n<p><img src=\"https://i.harperapps.com/covers/9780062640864/y648.jpg\" alt=\"Yiddish Policemen&rsquo;s Union book cover Harper Collins\" title=\"Yiddish Policemen's Union book cover Harper Collins\"></p>\n",
 				"content_text": "Landsman, of course, is sorry, too. He has already apologized to her several times, alone and in the presence of others, orally and in writing, formally in measured phrases and in untrammeled spasms: Sorry I’m sorry I’m so, so sorry. He has apologized for his craziness, his erratic behavior, his glooms and jags, for the years of round-robin exaltation and despair. He has apologized for leaving her, and for begging her to take him back again, and for breaking down the door to their old apartment when she declined to do so. He has abased himself, and rent his garments, and groveled at her shoes. Most of the time Bina has, good and caring woman that she is, offered Landsman the words he wanted to hear. He has prayed to her for rain, and she has sent cool showers. But what he really requires is a flood to wash his wickedness from the face of the earth. That or the blessing of a yid who will never bless anyone again.\r\n\r\n\r\n- excerpt from Michael Chabon. “The Yiddish Policemen’s Union”. 📚 💬\r\n\r\n![Yiddish Policemen's Union book cover Harper Collins]( https://i.harperapps.com/covers/9780062640864/y648.jpg \"Yiddish Policemen's Union book cover Harper Collins\")\r\n\r\n\r\n",
-				"date_published": "2023-02-16T12:36:22-04:00",
+				"date_published": "2023-02-16T11:36:22-05:00",
 				"url": "https://www.7robots.org/2023/02/16/cool-showers.html",
 				"tags": ["Commonplace"]
 			},
@@ -597,7 +646,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062124043\">Little, Big</a> by John Crowley 📚</p>\n",
 				"content_text": "Currently reading: [Little, Big](https://micro.blog/books/9780062124043) by John Crowley 📚\n",
-				"date_published": "2023-02-16T00:55:29-04:00",
+				"date_published": "2023-02-15T23:55:29-05:00",
 				"url": "https://www.7robots.org/2023/02/15/currently-reading-little.html"
 			},
 			{
@@ -605,7 +654,7 @@
 				"title": "This is a Possible Letter",
 				"content_html": "<p>But this is a new chapter. The city is going back in time, readying itself to start again with its simple piracy in the rich shores near my home. Everything has changed, and I find myself trembling, excited, biding my time, eager to finish this letter.</p>\n<p>It does not embarrass me. I am opened up by it.</p>\n<p>This is a Possible Letter. Until the last second, when I write your name beside that word “Dear,” all those sheets and months ago, this is a Possible Letter, pregnant with potentiality. I am very powerful right now. I am all ready to mine the possibilities, make one of them fact.</p>\n<p>I have not been the best friend to you, and I need you to forgive me that. I think back to my friends in New Crobuzon, and I wonder which of them you are to be.</p>\n<p>And if I want this letter to be a remembrance, to be something with which to say goodbye instead of hello again, then you will be Carrianne. You are my dear friend, if that is so, and the fact that I did not know you when I started to write you this letter means nothing. This is a Possible Letter, after all.</p>\n<p>Whoever you are, I have not been the best friend to you, and I am sorry.</p>\n<ul>\n<li>excerpt from China Mieville. “The Scar”. 📚 💬</li>\n</ul>\n<p><img src=\"https://i.pinimg.com/originals/8d/23/87/8d23875b103e1d421eb7373c0b108dce.jpg\" alt=\"The Scar book cover pinterest\" title=\"The Scar book cover pinterest\"></p>\n",
 				"content_text": "But this is a new chapter. The city is going back in time, readying itself to start again with its simple piracy in the rich shores near my home. Everything has changed, and I find myself trembling, excited, biding my time, eager to finish this letter.\r\n\r\nIt does not embarrass me. I am opened up by it.\r\n\r\nThis is a Possible Letter. Until the last second, when I write your name beside that word “Dear,” all those sheets and months ago, this is a Possible Letter, pregnant with potentiality. I am very powerful right now. I am all ready to mine the possibilities, make one of them fact.\r\n\r\nI have not been the best friend to you, and I need you to forgive me that. I think back to my friends in New Crobuzon, and I wonder which of them you are to be.\r\n\r\nAnd if I want this letter to be a remembrance, to be something with which to say goodbye instead of hello again, then you will be Carrianne. You are my dear friend, if that is so, and the fact that I did not know you when I started to write you this letter means nothing. This is a Possible Letter, after all.\r\n\r\nWhoever you are, I have not been the best friend to you, and I am sorry.\r\n\r\n\r\n- excerpt from China Mieville. “The Scar”. 📚 💬\r\n\r\n![The Scar book cover pinterest](https://i.pinimg.com/originals/8d/23/87/8d23875b103e1d421eb7373c0b108dce.jpg \"The Scar book cover pinterest\")\r\n\r\n",
-				"date_published": "2023-02-15T09:16:27-04:00",
+				"date_published": "2023-02-15T08:16:27-05:00",
 				"url": "https://www.7robots.org/2023/02/15/this-is-a.html",
 				"tags": ["Commonplace"]
 			},
@@ -614,7 +663,7 @@
 				"title": "Exhalation",
 				"content_html": "<p>I hope that you were motivated by a desire for knowledge, a yearning to see what can arise from a universe’s exhalation. Because even if a universe’s life span is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable. Our universe might have slid into equilibrium emitting nothing more than a quiet hiss. The fact that it spawned such plenitude is a miracle, one that is matched only by your universe giving rise to you.</p>\n<p>Though I am long dead as you read this, explorer, I offer to you a valediction. Contemplate the marvel that is existence, and rejoice that you are able to do so. I feel I have the right to tell you this because, as I am inscribing these words, I am doing the same.</p>\n<p>exceprt from Ted Chiang&rsquo;s Exhalation. 📚 💬</p>\n<p><img src=\"https://img1.od-cdn.com/ImageType-100/2283-1/%7B3C41EA71-CA45-4236-8834-E09833BF5418%7DImg100.jpg\" alt=\"Exhalation book cover overdrive\" title=\"Exhalation book cover overdrive\"></p>\n",
 				"content_text": "I hope that you were motivated by a desire for knowledge, a yearning to see what can arise from a universe’s exhalation. Because even if a universe’s life span is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable. Our universe might have slid into equilibrium emitting nothing more than a quiet hiss. The fact that it spawned such plenitude is a miracle, one that is matched only by your universe giving rise to you.\r\n\r\nThough I am long dead as you read this, explorer, I offer to you a valediction. Contemplate the marvel that is existence, and rejoice that you are able to do so. I feel I have the right to tell you this because, as I am inscribing these words, I am doing the same.\r\n\r\nexceprt from Ted Chiang's Exhalation. 📚 💬\r\n\r\n![Exhalation book cover overdrive](https://img1.od-cdn.com/ImageType-100/2283-1/%7B3C41EA71-CA45-4236-8834-E09833BF5418%7DImg100.jpg \"Exhalation book cover overdrive\")\r\n\r\n",
-				"date_published": "2023-02-15T00:27:35-04:00",
+				"date_published": "2023-02-14T23:27:35-05:00",
 				"url": "https://www.7robots.org/2023/02/14/exhalation.html",
 				"tags": ["Commonplace"]
 			},
@@ -623,7 +672,7 @@
 				
 				"content_html": "<p>Recent walk in the moonlight 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Recent walk in the moonlight 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/fbcaca1727.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-13T16:01:29-04:00",
+				"date_published": "2023-02-13T15:01:29-05:00",
 				"url": "https://www.7robots.org/2023/02/13/recent-walk-in.html"
 			},
 			{
@@ -631,7 +680,7 @@
 				"title": "Cloudberry Jam",
 				"content_html": "<p>“Where did I come from?” you asked. “Where’s my father?”</p>\n<p>“You don’t have one,” I said. “I made you myself.”</p>\n<p>“Everyone has a father.”</p>\n<p>“Not everyone.”</p>\n<p>“Why did you make me?” you said.</p>\n<p>“I made you so that I could love you,” I said.</p>\n<ul>\n<li>from “Cloudberry Jam” by Karin Tidbeck (from the short story collection Jagannath)  📚 💬</li>\n</ul>\n<p><img src=\"https://i.pinimg.com/originals/d2/93/4a/d2934a6e92041b7325d9e6bb34466cb9.jpg\" alt=\"Karin Tidbeck pinterest.com\" title=\"Karin Tidbeck pinterest.com\"></p>\n",
 				"content_text": "“Where did I come from?” you asked. “Where’s my father?”\r\n\r\n“You don’t have one,” I said. “I made you myself.”\r\n\r\n“Everyone has a father.”\r\n\r\n“Not everyone.”\r\n\r\n“Why did you make me?” you said.\r\n\r\n“I made you so that I could love you,” I said.\r\n\r\n\r\n- from “Cloudberry Jam” by Karin Tidbeck (from the short story collection Jagannath)  📚 💬\r\n\r\n![Karin Tidbeck pinterest.com](https://i.pinimg.com/originals/d2/93/4a/d2934a6e92041b7325d9e6bb34466cb9.jpg \"Karin Tidbeck pinterest.com\")\r\n\r\n \r\n",
-				"date_published": "2023-02-13T13:52:25-04:00",
+				"date_published": "2023-02-13T12:52:25-05:00",
 				"url": "https://www.7robots.org/2023/02/13/cloudberry-jam.html",
 				"tags": ["Commonplace"]
 			},
@@ -640,7 +689,7 @@
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/5895d4be4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-11T18:13:24-04:00",
+				"date_published": "2023-02-11T17:13:24-05:00",
 				"url": "https://www.7robots.org/2023/02/11/171324.html"
 			},
 			{
@@ -648,7 +697,7 @@
 				"title": "Two Moons",
 				"content_html": "<p>No doubt about it: there were two moons.</p>\n<p>One was the moon that had always been there, and the other was a far smaller, greenish moon, somewhat lopsided in shape, and much less bright. It looked like a poor, ugly, distantly related child that had been foisted on the family by unfortunate events and was welcomed by no one. But it was undeniably there, neither a phantom nor an optical illusion, hanging in space like other heavenly bodies, a solid mass with a clear-cut outline. Not a plane, not a blimp, not an artificial satellite, not a papier-mache moon that someone made for fun. It was without a doubt a chunk of rock, having quietly, stubbornly settled on a position in the night sky, like a punctuation mark placed only after long deliberation or a mole bestowed by destiny.</p>\n<ul>\n<li>from 1Q84 by Haruki Murakami. 📚 💬</li>\n</ul>\n<p><img src=\"https://i.pinimg.com/originals/88/53/db/8853db02df922701754a2b0999c9d2cb.jpg\" alt=\"Pinterest 1q84 book cover\" title=\"Pinterest 1q84 book cover\"></p>\n",
 				"content_text": "No doubt about it: there were two moons.\r\n\r\nOne was the moon that had always been there, and the other was a far smaller, greenish moon, somewhat lopsided in shape, and much less bright. It looked like a poor, ugly, distantly related child that had been foisted on the family by unfortunate events and was welcomed by no one. But it was undeniably there, neither a phantom nor an optical illusion, hanging in space like other heavenly bodies, a solid mass with a clear-cut outline. Not a plane, not a blimp, not an artificial satellite, not a papier-mache moon that someone made for fun. It was without a doubt a chunk of rock, having quietly, stubbornly settled on a position in the night sky, like a punctuation mark placed only after long deliberation or a mole bestowed by destiny.\r\n\r\n\r\n- from 1Q84 by Haruki Murakami. 📚 💬\r\n\r\n![Pinterest 1q84 book cover](https://i.pinimg.com/originals/88/53/db/8853db02df922701754a2b0999c9d2cb.jpg \"Pinterest 1q84 book cover\")\r\n\r\n",
-				"date_published": "2023-02-11T18:05:09-04:00",
+				"date_published": "2023-02-11T17:05:09-05:00",
 				"url": "https://www.7robots.org/2023/02/11/two-moons.html",
 				"tags": ["Commonplace"]
 			},
@@ -657,7 +706,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780393609103\">Norse Mythology</a> by Neil Gaiman 📚</p>\n",
 				"content_text": "Currently reading: [Norse Mythology](https://micro.blog/books/9780393609103) by Neil Gaiman 📚\n",
-				"date_published": "2023-02-09T16:07:18-04:00",
+				"date_published": "2023-02-09T15:07:18-05:00",
 				"url": "https://www.7robots.org/2023/02/09/currently-reading-norse.html"
 			},
 			{
@@ -665,7 +714,7 @@
 				"title": "Never to let her go",
 				"content_html": "<p>I saw a new world coming rapidly. More scientific, efficient, yes. More cures for the old sicknesses. Very good. But a harsh, cruel, world. And I saw a little girl, her eyes tightly closed, holding to her breast the old kind world, one that she knew in her heart could not remain, and she was holding it and pleading, never to let her go.</p>\n<p>― Never Let Me Go by Kazuo Ishiguro  📚 💬</p>\n<p><img src=\"https://thefilmstage.com/wp-content/uploads/2010/07/neverletmegoposter-590x871.jpg\" alt=\"filmstage.com Never Let Me Go poster\" title=\"filmstage.com Never Let Me Go poster\"></p>\n",
 				"content_text": "I saw a new world coming rapidly. More scientific, efficient, yes. More cures for the old sicknesses. Very good. But a harsh, cruel, world. And I saw a little girl, her eyes tightly closed, holding to her breast the old kind world, one that she knew in her heart could not remain, and she was holding it and pleading, never to let her go.\r\n\r\n― Never Let Me Go by Kazuo Ishiguro  📚 💬\r\n\r\n![filmstage.com Never Let Me Go poster](https://thefilmstage.com/wp-content/uploads/2010/07/neverletmegoposter-590x871.jpg \"filmstage.com Never Let Me Go poster\")\r\n\r\n",
-				"date_published": "2023-02-09T14:54:11-04:00",
+				"date_published": "2023-02-09T13:54:11-05:00",
 				"url": "https://www.7robots.org/2023/02/09/never-to-let.html",
 				"tags": ["Commonplace"]
 			},
@@ -674,7 +723,7 @@
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/e7bd81e044.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-09T14:32:41-04:00",
+				"date_published": "2023-02-09T13:32:41-05:00",
 				"url": "https://www.7robots.org/2023/02/09/133241.html"
 			},
 			{
@@ -682,7 +731,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781039000568\">Victory City</a> by Salman Rushdie 📚</p>\n",
 				"content_text": "Currently reading: [Victory City](https://micro.blog/books/9781039000568) by Salman Rushdie 📚\n",
-				"date_published": "2023-02-08T18:03:35-04:00",
+				"date_published": "2023-02-08T17:03:35-05:00",
 				"url": "https://www.7robots.org/2023/02/08/currently-reading-victory.html"
 			},
 			{
@@ -690,7 +739,7 @@
 				"title": "Argumentum Ornithologicum",
 				"content_html": "<p>I close my eyes and see a flock of birds. The vision lasts a second, or perhaps less; I am not sure how many birds I saw. Was the number of birds definite or indefinite? The problem involves the existence of God. If God exists, the number is definite, because God knows how many birds I saw. If God does not exist, the number is indefinite, because no one can have counted. In this case I saw fewer than ten birds (let us say) and more than one, but did not see nine, eight, seven, six, four, three, or two birds. I saw a number between ten and one, which was not nine, eight, seven, six, five, etc. That integer — not-nine, not-eight, not-seven, not-six, not-five, etc. — is inconceivable. Ergo, God exists.</p>\n<ul>\n<li>excerpt from Jorge Luis Borges, “The Aleph and Other Stories”  📚 💬</li>\n</ul>\n<p><img src=\"https://www.thefamouspeople.com/profiles/images/jorge-luis-borges-2.jpg\" alt=\"Borges thefamouspeople.com\" title=\"Borges thefamouspeople.com\"></p>\n",
 				"content_text": "I close my eyes and see a flock of birds. The vision lasts a second, or perhaps less; I am not sure how many birds I saw. Was the number of birds definite or indefinite? The problem involves the existence of God. If God exists, the number is definite, because God knows how many birds I saw. If God does not exist, the number is indefinite, because no one can have counted. In this case I saw fewer than ten birds (let us say) and more than one, but did not see nine, eight, seven, six, four, three, or two birds. I saw a number between ten and one, which was not nine, eight, seven, six, five, etc. That integer — not-nine, not-eight, not-seven, not-six, not-five, etc. — is inconceivable. Ergo, God exists.\r\n\r\n- excerpt from Jorge Luis Borges, “The Aleph and Other Stories”  📚 💬\r\n\r\n![Borges thefamouspeople.com](https://www.thefamouspeople.com/profiles/images/jorge-luis-borges-2.jpg \"Borges thefamouspeople.com\")\r\n\r\n",
-				"date_published": "2023-02-08T11:48:45-04:00",
+				"date_published": "2023-02-08T10:48:45-05:00",
 				"url": "https://www.7robots.org/2023/02/08/argumentum-ornithologicum.html",
 				"tags": ["Commonplace"]
 			},
@@ -699,7 +748,7 @@
 				"title": "Slant",
 				"content_html": "<p>Tell all the truth, but tell it slant.</p>\n<p>Emily Dickinson  📚 💬</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/5/56/Black-white_photograph_of_Emily_Dickinson2.png\" alt=\"Emily Dickinson wikipedia\" title=\"Emily Dickinson wikipedia\"></p>\n",
 				"content_text": "Tell all the truth, but tell it slant.\n\nEmily Dickinson  📚 💬\n\n![Emily Dickinson wikipedia](https://upload.wikimedia.org/wikipedia/commons/5/56/Black-white_photograph_of_Emily_Dickinson2.png \"Emily Dickinson wikipedia\")\n\n\n",
-				"date_published": "2023-02-06T11:54:10-04:00",
+				"date_published": "2023-02-06T10:54:10-05:00",
 				"url": "https://www.7robots.org/2023/02/06/tell-all-the.html",
 				"tags": ["Commonplace"]
 			},
@@ -708,7 +757,7 @@
 				
 				"content_html": "<p>Bear Hill Pond a day after the polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Bear Hill Pond a day after the polar vortex 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/0a543cbc10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-05T23:22:11-04:00",
+				"date_published": "2023-02-05T22:22:11-05:00",
 				"url": "https://www.7robots.org/2023/02/05/bear-hill-pond.html"
 			},
 			{
@@ -716,7 +765,7 @@
 				"title": "Yggdrasil",
 				"content_html": "<p>“I know an ash, it is called Yggdrasil\nA hairy tree, moistened by a brilliant cloud.</p>\n<p>In the beginning was the tree. The stone ball rushed through emptiness. Under the crust was fire. Rocks boiled, gases seethed. Blebs burst through the crust. Dense salt water clung to the rolling ball. Slime slid on it and in the slime shapes shifted. Any point on a ball is the centre and the tree was at the centre. It held the world together, in the air, in the earth, in the light, in the dark, in the mind.”</p>\n<p>Excerpt From Ragnarok by A.S. Byatt  📚 💬</p>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780802194879_p0_v3_s1200x630.jpg\" alt=\"Barnes and Noble image Ragnarok AS Byatt\" title=\"Barnes and Noble image Ragnarok AS Byatt\"></p>\n",
 				"content_text": "“I know an ash, it is called Yggdrasil\nA hairy tree, moistened by a brilliant cloud.\n\nIn the beginning was the tree. The stone ball rushed through emptiness. Under the crust was fire. Rocks boiled, gases seethed. Blebs burst through the crust. Dense salt water clung to the rolling ball. Slime slid on it and in the slime shapes shifted. Any point on a ball is the centre and the tree was at the centre. It held the world together, in the air, in the earth, in the light, in the dark, in the mind.”\n\nExcerpt From Ragnarok by A.S. Byatt  📚 💬\n\n![Barnes and Noble image Ragnarok AS Byatt](http://prodimage.images-bn.com/pimages/9780802194879_p0_v3_s1200x630.jpg \"Barnes and Noble image Ragnarok AS Byatt\")\n\n",
-				"date_published": "2023-02-05T23:15:03-04:00",
+				"date_published": "2023-02-05T22:15:03-05:00",
 				"url": "https://www.7robots.org/2023/02/05/yggdrasil.html",
 				"tags": ["Commonplace"]
 			},
@@ -725,7 +774,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781970125214\">Icelandic Folk Legends</a> by Alda Sigmundsdóttir 📚</p>\n",
 				"content_text": "Currently reading: [Icelandic Folk Legends](https://micro.blog/books/9781970125214) by Alda Sigmundsdóttir 📚\n",
-				"date_published": "2023-02-05T01:09:32-04:00",
+				"date_published": "2023-02-05T00:09:32-05:00",
 				"url": "https://www.7robots.org/2023/02/05/currently-reading-icelandic.html"
 			},
 			{
@@ -733,7 +782,7 @@
 				
 				"content_html": "<p>“Where were you when I laid the foundations of the earth? … When the morning stars sang together, and all the sons of God shouted for joy?”</p>\n<ul>\n<li>Job 38:4,7 📚 💬</li>\n<li>Also beautifully quoted in Terence Malick’s “The Tree of Life”</li>\n</ul>\n<p><img src=\"https://thefilmstage.com/wp-content/uploads/2011/04/tree_of_life_universe_1-650x333.png\" alt=\"screenshot Tree of Life filmstage.com\" title=\"screenshot Tree of Life filmstage.com\"></p>\n",
 				"content_text": "“Where were you when I laid the foundations of the earth? … When the morning stars sang together, and all the sons of God shouted for joy?”\r\n\r\n- Job 38:4,7 📚 💬\r\n- Also beautifully quoted in Terence Malick’s “The Tree of Life”\r\n  \r\n\r\n\r\n![screenshot Tree of Life filmstage.com](https://thefilmstage.com/wp-content/uploads/2011/04/tree_of_life_universe_1-650x333.png \"screenshot Tree of Life filmstage.com\")\r\n\r\n",
-				"date_published": "2023-02-04T10:58:32-04:00",
+				"date_published": "2023-02-04T09:58:32-05:00",
 				"url": "https://www.7robots.org/2023/02/04/where-were-you.html",
 				"tags": ["Commonplace"]
 			},
@@ -742,7 +791,7 @@
 				
 				"content_html": "<p>This is how we roll during a polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "This is how we roll during a polar vortex 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/89aa2b6c20.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-04T10:52:55-04:00",
+				"date_published": "2023-02-04T09:52:55-05:00",
 				"url": "https://www.7robots.org/2023/02/04/this-is-how.html"
 			},
 			{
@@ -750,7 +799,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781328528520\">Surrender</a> by Ray Loriga 📚</p>\n",
 				"content_text": "Currently reading: [Surrender](https://micro.blog/books/9781328528520) by Ray Loriga 📚\n",
-				"date_published": "2023-02-03T11:14:47-04:00",
+				"date_published": "2023-02-03T10:14:47-05:00",
 				"url": "https://www.7robots.org/2023/02/03/currently-reading-surrender.html"
 			},
 			{
@@ -758,7 +807,7 @@
 				
 				"content_html": "<p>Boston 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Boston 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/5a741c063f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-03T11:10:36-04:00",
+				"date_published": "2023-02-03T10:10:36-05:00",
 				"url": "https://www.7robots.org/2023/02/03/boston.html"
 			},
 			{
@@ -766,7 +815,7 @@
 				"title": "The Story of Your Life",
 				"content_html": "<p>I would have liked to experience more of the heptapods’ worldview, to feel the way they feel. Then, perhaps I could immerse myself fully in the necessity of events, as they must, instead of merely wading in its surf for the rest of my life.</p>\n<p>from “Story of Your Life” by Ted Chiang 📚 💬</p>\n<p><img src=\"https://i.pinimg.com/736x/15/fb/19/15fb19db0bbe137b2096a66c1e1853be.jpg\" alt=\"Pinterest image movie Arrival\" title=\"Pinterest image movie Arrival\"></p>\n",
 				"content_text": "I would have liked to experience more of the heptapods’ worldview, to feel the way they feel. Then, perhaps I could immerse myself fully in the necessity of events, as they must, instead of merely wading in its surf for the rest of my life.\r\n\r\nfrom “Story of Your Life” by Ted Chiang 📚 💬\r\n\r\n![Pinterest image movie Arrival](https://i.pinimg.com/736x/15/fb/19/15fb19db0bbe137b2096a66c1e1853be.jpg \"Pinterest image movie Arrival\")\r\n\r\n",
-				"date_published": "2023-02-03T11:06:03-04:00",
+				"date_published": "2023-02-03T10:06:03-05:00",
 				"url": "https://www.7robots.org/2023/02/03/the-story-of.html",
 				"tags": ["Commonplace"]
 			},
@@ -775,7 +824,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781329671317\">Journey to the Centre of the Earth</a> by Jules Verne 📚</p>\n",
 				"content_text": "Currently reading: [Journey to the Centre of the Earth](https://micro.blog/books/9781329671317) by Jules Verne 📚\n",
-				"date_published": "2023-02-02T19:06:55-04:00",
+				"date_published": "2023-02-02T18:06:55-05:00",
 				"url": "https://www.7robots.org/2023/02/02/currently-reading-journey.html"
 			},
 			{
@@ -783,7 +832,7 @@
 				
 				"content_html": "<p>Light and shadow 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Light and shadow 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/cccc803615.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-02T12:38:26-04:00",
+				"date_published": "2023-02-02T11:38:26-05:00",
 				"url": "https://www.7robots.org/2023/02/02/light-and-shadow.html"
 			},
 			{
@@ -791,7 +840,7 @@
 				"title": "Let us dare …",
 				"content_html": "<p>The source of our suffering has been our timidity. We have been afraid to think….Let us dare to read, think, speak, write.” - John Adams</p>\n<p>from John Adams by David McCullough  📚 💬</p>\n<p><img src=\"https://imgv2-2-f.scribdassets.com/img/word_document/224419023/original/66591ee876/1584541095?v=1\" alt=\"Scribd image of McCullough book cover\" title=\"Scribd image of McCullough book cover\"></p>\n",
 				"content_text": "The source of our suffering has been our timidity. We have been afraid to think….Let us dare to read, think, speak, write.” - John Adams\n\nfrom John Adams by David McCullough  📚 💬\n\n![Scribd image of McCullough book cover](https://imgv2-2-f.scribdassets.com/img/word_document/224419023/original/66591ee876/1584541095?v=1 \"Scribd image of McCullough book cover\")\n\n\n\n",
-				"date_published": "2023-02-02T11:47:34-04:00",
+				"date_published": "2023-02-02T10:47:34-05:00",
 				"url": "https://www.7robots.org/2023/02/02/the-source-of.html",
 				"tags": ["Commonplace"]
 			},
@@ -800,7 +849,7 @@
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/f377ef8665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-01T09:11:32-04:00",
+				"date_published": "2023-02-01T08:11:32-05:00",
 				"url": "https://www.7robots.org/2023/02/01/081132.html"
 			},
 			{
@@ -808,7 +857,7 @@
 				"title": "How do you aim a volcano?",
 				"content_html": "<p>“The population of Iceland is 1,000 times smaller than that of the United States. We do not hide behind our apparent lack of superpower status. What we lack in manpower, we make up in volcanoes. But we are still figuring out how to aim them.&quot;</p>\n<p>—Prime Minister Sigurdur Ingi Johannsson, speaking at a White House dinner for Nordic leaders in May 2016.</p>\n<p>From How Iceland Changed the World by Egill Bjarnason 📚 💬</p>\n<p><img src=\"https://www.tripsavvy.com/thmb/MkCvH1DTl34MppwgS1bDcM7Z-8g=/2121x1414/filters:fill(auto,1)/GettyImages-115183082-59de6ff0af5d3a0010396501.jpg\" alt=\"Getty image Iceland Volcano\" title=\"Getty image Iceland volcano\"></p>\n",
 				"content_text": "“The population of Iceland is 1,000 times smaller than that of the United States. We do not hide behind our apparent lack of superpower status. What we lack in manpower, we make up in volcanoes. But we are still figuring out how to aim them.\" \n\n—Prime Minister Sigurdur Ingi Johannsson, speaking at a White House dinner for Nordic leaders in May 2016.\n\nFrom How Iceland Changed the World by Egill Bjarnason 📚 💬\n\n![Getty image Iceland Volcano](https://www.tripsavvy.com/thmb/MkCvH1DTl34MppwgS1bDcM7Z-8g=/2121x1414/filters:fill(auto,1)/GettyImages-115183082-59de6ff0af5d3a0010396501.jpg \"Getty image Iceland volcano\")\n\n",
-				"date_published": "2023-02-01T09:05:53-04:00",
+				"date_published": "2023-02-01T08:05:53-05:00",
 				"url": "https://www.7robots.org/2023/02/01/how-do-you.html",
 				"tags": ["Commonplace"]
 			},
@@ -817,7 +866,7 @@
 				
 				"content_html": "<p>Wachusett Reservoir 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Wachusett Reservoir 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/cde261d5b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-01-31T17:52:45-04:00",
+				"date_published": "2023-01-31T16:52:45-05:00",
 				"url": "https://www.7robots.org/2023/01/31/wachusett-reservoir.html"
 			},
 			{
@@ -825,7 +874,7 @@
 				"title": "This is how it was",
 				"content_html": "<p>There are things that happen and leave no discernible trace, are not spoken or written of, though it would be very wrong to say that subsequent events go on indifferently, all the same, as though such things had never been.</p>\n<p>Two people met, on a hot May Day, and never later mentioned their meeting. This is how it was.</p>\n<ul>\n<li>from A.S. Byatt, Possession  📚 💬</li>\n</ul>\n<p><img src=\"http://3.bp.blogspot.com/-2Pi9Vj_31e0/TezqlLgvUjI/AAAAAAAADDc/9sYMzToNFmk/w1200-h630-p-k-no-nu/possession.jpg\" alt=\"Possession book cover from blog spot\" title=\"Possession book cover from blogspot\"></p>\n",
 				"content_text": "There are things that happen and leave no discernible trace, are not spoken or written of, though it would be very wrong to say that subsequent events go on indifferently, all the same, as though such things had never been.\r\n\r\nTwo people met, on a hot May Day, and never later mentioned their meeting. This is how it was.\r\n\r\n- from A.S. Byatt, Possession  📚 💬\r\n\r\n![Possession book cover from blog spot]( http://3.bp.blogspot.com/-2Pi9Vj_31e0/TezqlLgvUjI/AAAAAAAADDc/9sYMzToNFmk/w1200-h630-p-k-no-nu/possession.jpg \"Possession book cover from blogspot\")\r\n\r\n",
-				"date_published": "2023-01-31T09:17:25-04:00",
+				"date_published": "2023-01-31T08:17:25-05:00",
 				"url": "https://www.7robots.org/2023/01/31/this-is-how.html",
 				"tags": ["Commonplace"]
 			},
@@ -834,7 +883,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781970125047\">The Little Book of the Hidden People</a> by Alda Sigmundsdottir 📚</p>\n",
 				"content_text": "Currently reading: [The Little Book of the Hidden People](https://micro.blog/books/9781970125047) by Alda Sigmundsdottir 📚\n",
-				"date_published": "2023-01-30T23:40:17-04:00",
+				"date_published": "2023-01-30T22:40:17-05:00",
 				"url": "https://www.7robots.org/2023/01/30/currently-reading-the.html"
 			},
 			{
@@ -842,7 +891,7 @@
 				
 				"content_html": "<p>First time on commuter rail since COVID 📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "First time on commuter rail since COVID 📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/2381511406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-01-30T18:52:18-04:00",
+				"date_published": "2023-01-30T17:52:18-05:00",
 				"url": "https://www.7robots.org/2023/01/30/first-time-on.html"
 			},
 			{
@@ -850,7 +899,7 @@
 				"title": "All the trees of the field shall clap their hands",
 				"content_html": "<p>&ldquo;For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.&rdquo;</p>\n<ul>\n<li>Isaiah 55:12  📚 💬</li>\n</ul>\n<p><img src=\"https://i.pinimg.com/736x/07/0b/48/070b485f7282245ba6105204833ac895.jpg\" alt=\"pinterest photo\" title=\"All the trees of the field\"></p>\n",
 				"content_text": "\"For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.\"\n\n- Isaiah 55:12  📚 💬\n\n![pinterest photo](https://i.pinimg.com/736x/07/0b/48/070b485f7282245ba6105204833ac895.jpg \"All the trees of the field\")\n\n",
-				"date_published": "2023-01-30T12:20:53-04:00",
+				"date_published": "2023-01-30T11:20:53-05:00",
 				"url": "https://www.7robots.org/2023/01/30/for-ye-shall.html",
 				"tags": ["Commonplace"]
 			},
@@ -859,7 +908,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780385669443\">1Q84</a> by Haruki Murakami 📚</p>\n",
 				"content_text": "Currently reading: [1Q84](https://micro.blog/books/9780385669443) by Haruki Murakami 📚\n",
-				"date_published": "2023-01-29T10:11:50-04:00",
+				"date_published": "2023-01-29T09:11:50-05:00",
 				"url": "https://www.7robots.org/2023/01/29/currently-reading-q.html"
 			},
 			{
@@ -867,7 +916,7 @@
 				
 				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "📷\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/771baf553c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-01-29T10:02:25-04:00",
+				"date_published": "2023-01-29T09:02:25-05:00",
 				"url": "https://www.7robots.org/2023/01/29/090225.html"
 			},
 			{
@@ -875,7 +924,7 @@
 				"title": "The Waves",
 				"content_html": "<p>Yes, but suddenly one hears a clock tick, We who had been immersed in this world became aware of another. It is pain- ful. It was Neville who changed our time. He who had been thinking with the unlimited time of the mind, which stretches in a flash from Shakespeare to ourselves, poked the fire and began to live by that other clock which marks the approach of a particular person. The wide and dignified sweep of his mind contracted. He became on the alert… . I noted how he touched a cushion. From the myriads of mankind and all time past, he had chosen one person one moment in particular.</p>\n<ul>\n<li>from The Waves by Virginia Woolf 📚💬</li>\n</ul>\n<p><img src=\"https://d.gr-assets.com/books/1358323101l/863767.jpg\" alt=\"The Waves - goodreads\"></p>\n",
 				"content_text": "Yes, but suddenly one hears a clock tick, We who had been immersed in this world became aware of another. It is pain- ful. It was Neville who changed our time. He who had been thinking with the unlimited time of the mind, which stretches in a flash from Shakespeare to ourselves, poked the fire and began to live by that other clock which marks the approach of a particular person. The wide and dignified sweep of his mind contracted. He became on the alert… . I noted how he touched a cushion. From the myriads of mankind and all time past, he had chosen one person one moment in particular.\n\n- from The Waves by Virginia Woolf 📚💬\n\n![The Waves - goodreads](https://d.gr-assets.com/books/1358323101l/863767.jpg)\n",
-				"date_published": "2023-01-29T01:43:26-04:00",
+				"date_published": "2023-01-29T00:43:26-05:00",
 				"url": "https://www.7robots.org/2023/01/29/the-waves.html",
 				"tags": ["Commonplace"]
 			},
@@ -884,7 +933,7 @@
 				"title": "These things are there",
 				"content_html": "<p>These things are there. The garden and the tree</p>\n<p>The serpent at its root, the fruit of gold</p>\n<p>The woman in the shadow of the boughs</p>\n<p>The running water and the grassy space.</p>\n<p>They are and were there.</p>\n<ul>\n<li>from A.S. Byatt, Possession 📚 💬</li>\n</ul>\n<p><img src=\"http://3.bp.blogspot.com/-2Pi9Vj_31e0/TezqlLgvUjI/AAAAAAAADDc/9sYMzToNFmk/w1200-h630-p-k-no-nu/possession.jpg\" alt=\"Possession book cover from blog spot\" title=\"Possession book cover from blogspot\"></p>\n",
 				"content_text": "These things are there. The garden and the tree\n\nThe serpent at its root, the fruit of gold\n\nThe woman in the shadow of the boughs\n\nThe running water and the grassy space.\n\nThey are and were there.\n\n- from A.S. Byatt, Possession 📚 💬\n\n![Possession book cover from blog spot]( http://3.bp.blogspot.com/-2Pi9Vj_31e0/TezqlLgvUjI/AAAAAAAADDc/9sYMzToNFmk/w1200-h630-p-k-no-nu/possession.jpg \"Possession book cover from blogspot\")\n",
-				"date_published": "2023-01-28T20:38:04-04:00",
+				"date_published": "2023-01-28T19:38:04-05:00",
 				"url": "https://www.7robots.org/2023/01/28/these-things-are.html",
 				"tags": ["Commonplace"]
 			},
@@ -893,7 +942,7 @@
 				"title": "The smell of the aftermath",
 				"content_html": "<p>In the morning, the whole world had a strange new smell. It was the smell of the aftermath, a green smell, a smell of shredded leaves and oozing resin, of crushed wood and splashed sap, a tart smell, which bore some relation to the smell of bitten apples. It was the smell of death and destruction and it smelled fresh and lively and hopeful.</p>\n<ul>\n<li>from A.S. Byatt, Possession 📚 💬</li>\n</ul>\n<p><img src=\"http://3.bp.blogspot.com/-2Pi9Vj_31e0/TezqlLgvUjI/AAAAAAAADDc/9sYMzToNFmk/w1200-h630-p-k-no-nu/possession.jpg\" alt=\"Possession book cover from blog spot\" title=\"Possession book cover from blogspot\"></p>\n",
 				"content_text": "In the morning, the whole world had a strange new smell. It was the smell of the aftermath, a green smell, a smell of shredded leaves and oozing resin, of crushed wood and splashed sap, a tart smell, which bore some relation to the smell of bitten apples. It was the smell of death and destruction and it smelled fresh and lively and hopeful.\n\n- from A.S. Byatt, Possession 📚 💬\n\n ![Possession book cover from blog spot]( http://3.bp.blogspot.com/-2Pi9Vj_31e0/TezqlLgvUjI/AAAAAAAADDc/9sYMzToNFmk/w1200-h630-p-k-no-nu/possession.jpg \"Possession book cover from blogspot\")\n",
-				"date_published": "2023-01-28T00:42:00-04:00",
+				"date_published": "2023-01-27T23:42:00-05:00",
 				"url": "https://www.7robots.org/2023/01/27/the-smell-of.html",
 				"tags": ["Commonplace"]
 			},
@@ -902,7 +951,7 @@
 				"title": "1Q84",
 				"content_html": "<p>He was suddenly aware of someone sitting beside him, holding his right hand. LIke a small creature seeking warmth, a hand slipped inside the pocket of his leather jacket and clasped his large hand. By the time he became fully aware, it had already happened. Without any preface, the situation had jumped to the next stage. How strange, Tengo thought, his eyes still closed. How did this happen? At one point time was flowing along so slowly that he could barely stand it. Then suddenly it had leapt ahead, skipping whatever lay between.</p>\n<p>This person help his big hand even tighter, as if to make sure he was really there. Long smooth fingers, with an underlying strength.</p>\n<p>Aomame. But he didn’t say it aloud. He didn’t open his eyes. He just squeezed her hand in return. He remembered this hand. Never once in twenty years had he forgotten the feeling. Of course, it was no longer the tiny hand of a ten-year-old girl. Over the past twenty years her hand touched many things. It had clasped untold numbers of objects in every possible shape. And the strength within it had grown. Yet Tengo knew right away: this was the very same hand. The way it squeezed his own hand and the feeling it was trying to convey were exactly the same.</p>\n<p>an excerpt from 1Q84 by Haruki Murakami 📚 💬</p>\n<p><img src=\"http://prodimage.images-bn.com/pimages/9780307476463_p0_v1_s1200x630.jpg\" alt=\"1Q84\" title=\"1Q84\"></p>\n",
 				"content_text": "He was suddenly aware of someone sitting beside him, holding his right hand. LIke a small creature seeking warmth, a hand slipped inside the pocket of his leather jacket and clasped his large hand. By the time he became fully aware, it had already happened. Without any preface, the situation had jumped to the next stage. How strange, Tengo thought, his eyes still closed. How did this happen? At one point time was flowing along so slowly that he could barely stand it. Then suddenly it had leapt ahead, skipping whatever lay between.\n\nThis person help his big hand even tighter, as if to make sure he was really there. Long smooth fingers, with an underlying strength.\n\nAomame. But he didn’t say it aloud. He didn’t open his eyes. He just squeezed her hand in return. He remembered this hand. Never once in twenty years had he forgotten the feeling. Of course, it was no longer the tiny hand of a ten-year-old girl. Over the past twenty years her hand touched many things. It had clasped untold numbers of objects in every possible shape. And the strength within it had grown. Yet Tengo knew right away: this was the very same hand. The way it squeezed his own hand and the feeling it was trying to convey were exactly the same.\n\nan excerpt from 1Q84 by Haruki Murakami 📚 💬\n\n\n\n![1Q84](http://prodimage.images-bn.com/pimages/9780307476463_p0_v1_s1200x630.jpg \"1Q84\")\n",
-				"date_published": "2023-01-26T14:43:10-04:00",
+				"date_published": "2023-01-26T13:43:10-05:00",
 				"url": "https://www.7robots.org/2023/01/26/q.html",
 				"tags": ["Commonplace"]
 			},
@@ -911,7 +960,7 @@
 				"title": "I've made my mind a sunless space",
 				"content_html": "<p>Lonni:</p>\n<p>And what do you sacrifice?</p>\n<p>Luthen:</p>\n<p>Calm. Kindness, kinship. Love. I’ve given up all chance at inner peace, I’ve made my mind a sunless space. I share my dreams with ghosts. I wake up every day to an equation I wrote 15 years ago from which there’s only one conclusion: I’m damned for what I do. My anger, my ego, my unwillingness to yield, my eagerness to fight, they’ve set me on a path from which there is no escape. I yearned to be a savior against injustice without contemplating the cost, and by the time I looked down, there was no longer any ground beneath my feet.</p>\n<p>What is&hellip; what is my sacrifice? I’m condemned to use the tools of my enemy to defeat them. I burn my decency for someone else’s future. I burn my life, to make a sunrise that I know I’ll never see. No, the ego that started this fight will never have a mirror, or an audience, or the light of gratitude. So what do I sacrifice?</p>\n<p>Everything!  💬</p>\n<p><img src=\"https://images.immediate.co.uk/production/volatile/sites/3/2022/11/stellan-skarsgard-andor-luthen-rael-6f24ae5.jpg?quality=90&amp;fit=700,466\" alt=\"Luthen Rael\" title=\"Luthen Rael\"></p>\n",
 				"content_text": "Lonni: \n\nAnd what do you sacrifice?\n\nLuthen:\n\nCalm. Kindness, kinship. Love. I’ve given up all chance at inner peace, I’ve made my mind a sunless space. I share my dreams with ghosts. I wake up every day to an equation I wrote 15 years ago from which there’s only one conclusion: I’m damned for what I do. My anger, my ego, my unwillingness to yield, my eagerness to fight, they’ve set me on a path from which there is no escape. I yearned to be a savior against injustice without contemplating the cost, and by the time I looked down, there was no longer any ground beneath my feet.\n\nWhat is... what is my sacrifice? I’m condemned to use the tools of my enemy to defeat them. I burn my decency for someone else’s future. I burn my life, to make a sunrise that I know I’ll never see. No, the ego that started this fight will never have a mirror, or an audience, or the light of gratitude. So what do I sacrifice?\n\nEverything!  💬\n\n![Luthen Rael](https://images.immediate.co.uk/production/volatile/sites/3/2022/11/stellan-skarsgard-andor-luthen-rael-6f24ae5.jpg?quality=90&fit=700,466 \"Luthen Rael\")\n",
-				"date_published": "2022-11-09T01:30:00-04:00",
+				"date_published": "2022-11-09T00:30:00-05:00",
 				"url": "https://www.7robots.org/2022/11/09/ive-made-my.html",
 				"tags": ["Commonplace"]
 			},
@@ -920,7 +969,7 @@
 				
 				"content_html": "<p>The Flume at Franconia Notch State Park</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The Flume at Franconia Notch State Park\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/7dc1cabe0e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2022-10-02T21:38:00-04:00",
+				"date_published": "2022-10-02T20:38:00-05:00",
 				"url": "https://www.7robots.org/2022/10/02/the-flume-at.html",
 				"tags": ["pix"]
 			}
