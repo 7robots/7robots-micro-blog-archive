@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2023/11/11/finished-reading-rubicon.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307427519\">Rubicon</a> by Tom Holland 📚</p>\n",
+				"content_text": "Finished reading: [Rubicon](https://micro.blog/books/9780307427519) by Tom Holland 📚\n",
+				"date_published": "2023-11-11T05:49:49-05:00",
+				"url": "https://www.7robots.org/2023/11/11/finished-reading-rubicon.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2023/11/11/currently-reading-far.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781853260674\">Far from the Madding Crowd</a> by Thomas Hardy 📚</p>\n",
+				"content_text": "Currently reading: [Far from the Madding Crowd](https://micro.blog/books/9781853260674) by Thomas Hardy 📚\n",
+				"date_published": "2023-11-11T05:49:22-05:00",
+				"url": "https://www.7robots.org/2023/11/11/currently-reading-far.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2023/11/10/fermat.html",
 				"title": "Fermat",
 				"content_html": "<p>So I pay close attention, and note every detail.</p>\n<p>From the beginning I knew my destination, and I chose my route accordingly. But am I working toward an extreme of joy, or of pain? Will I achieve a minimum, or a maximum?</p>\n<p>These questions are in my mind when your father asks me, “Do you want to make a baby?” And I smile and answer, “Yes,” and I unwrap his arms from around me, and we hold hands as we walk inside to make love, to make you.</p>\n<p>excerpt from “Story of Your Life” by Ted Chiang 📚 💬</p>\n<p><img src=\"https://i.pinimg.com/originals/3a/93/5d/3a935df68996192ec4f0325008cdf5f2.jpg\" alt=\"pinterest image of movie Arrival\" title=\"Arrival\"></p>\n",
@@ -35,7 +51,7 @@
 				"id": "http://7robots.micro.blog/2023/10/24/i-recently-rediscovered.html",
 				
 				"content_html": "<p>I recently re-discovered a John Denver tribute album that was compiled by Mark Kozalek (of the Red House Painters). 🎵</p>\n<p><a href=\"https://music.apple.com/us/album/take-me-home-a-tribute-to-john-denver/270086884\">music.apple.com/us/album/&hellip;</a></p>\n<p>It&rsquo;s been really enjoyable listening to and the collection has aged well.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I recently re-discovered a John Denver tribute album that was compiled by Mark Kozalek (of the Red House Painters). 🎵\r\n\r\n[music.apple.com/us/album/...](https://music.apple.com/us/album/take-me-home-a-tribute-to-john-denver/270086884)\r\n\r\nIt's been really enjoyable listening to and the collection has aged well.\r\n\r\n\r\n\n\n<img src=\"uploads/2023/johndenvertribute.jpg\" width=\"450\" height=\"450\" alt=\"\">\n",
+				"content_text": "I recently re-discovered a John Denver tribute album that was compiled by Mark Kozalek (of the Red House Painters). 🎵\r\n\r\n[music.apple.com/us/album/...](https://music.apple.com/us/album/take-me-home-a-tribute-to-john-denver/270086884)\r\n\r\nIt's been really enjoyable listening to and the collection has aged well.\r\n\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/98443/2023/johndenvertribute.jpg\" width=\"450\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-10-24T08:32:47-05:00",
 				"url": "https://www.7robots.org/2023/10/24/i-recently-rediscovered.html"
 			},
