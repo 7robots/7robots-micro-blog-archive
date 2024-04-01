@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/04/01/day-toy.html",
+				
+				"content_html": "<p>Day 1: toy</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 1: toy\n\n<img src=\"uploads/2024/b4f43eab137a466ebbaf438f50dd1b3b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-01T12:07:36-04:00",
+				"url": "https://www.7robots.org/2024/04/01/day-toy.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/03/26/q-found-this.html",
+				
+				"content_html": "<p>Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-03-26T20:28:38-04:00",
+				"url": "https://www.7robots.org/2024/03/26/q-found-this.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/03/26/finished-reading-all.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765397522\">All Systems Red</a> by Martha Wells 📚</p>\n",
+				"content_text": "Finished reading: [All Systems Red](https://micro.blog/books/9780765397522) by Martha Wells 📚\n",
+				"date_published": "2024-03-26T12:28:11-04:00",
+				"url": "https://www.7robots.org/2024/03/26/finished-reading-all.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/03/25/finished-reading-lessons.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385547376\">Lessons in Chemistry</a> by Bonnie Garmus 📚</p>\n",
