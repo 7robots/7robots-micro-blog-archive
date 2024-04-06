@@ -7,18 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/04/06/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 6: windy</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 6: windy\n\n<img src=\"uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-06T15:05:50-04:00",
+				"url": "https://www.7robots.org/2024/04/06/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/05/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 5: serene</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 5: serene\n\n<img src=\"uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-05T15:31:12-04:00",
+				"url": "https://www.7robots.org/2024/04/05/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/04/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 4: foliage</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-04T13:24:25-04:00",
+				"url": "https://www.7robots.org/2024/04/04/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/04/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781536435078\">The Wild Robot</a> by Peter Brown 📚</p>\n",
+				"content_text": "Finished reading: [The Wild Robot](https://micro.blog/books/9781536435078) by Peter Brown 📚\n",
+				"date_published": "2024-04-04T08:40:40-04:00",
+				"url": "https://www.7robots.org/2024/04/04/finished-reading-the.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/03/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 3: card</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 3: card\n\n<img src=\"uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-03T11:46:15-04:00",
+				"url": "https://www.7robots.org/2024/04/03/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/02/day-flowers.html",
+				
+				"content_html": "<p>Day 2: flowers</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Day 2: flowers\n\n<img src=\"https://www.7robots.org/uploads/2024/589f5ae7cd974e07abb709b851747d50.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-02T06:50:10-04:00",
+				"url": "https://www.7robots.org/2024/04/02/day-flowers.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/04/01/day-toy.html",
 				
 				"content_html": "<p>Day 1: toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 1: toy\n\n<img src=\"uploads/2024/b4f43eab137a466ebbaf438f50dd1b3b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-04-01T12:07:36-04:00",
+				"content_text": "Day 1: toy\n\n<img src=\"https://www.7robots.org/uploads/2024/e4c8a34ba56244b7a4c760fa5a08773b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-01T12:21:50-04:00",
 				"url": "https://www.7robots.org/2024/04/01/day-toy.html"
 			},
 			{
 				"id": "http://7robots.micro.blog/2024/03/26/q-found-this.html",
 				
 				"content_html": "<p>Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"https://www.7robots.org/uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-03-26T20:28:38-04:00",
 				"url": "https://www.7robots.org/2024/03/26/q-found-this.html"
 			},
