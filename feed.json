@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/04/12/photo-challenge-day.html",
+				
+				"content_html": "<p>photo challenge day 12: magic</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "photo challenge day 12: magic\n\n<img src=\"uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-12T11:53:29-04:00",
+				"url": "https://www.7robots.org/2024/04/12/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/11/photo-challenge-day.html",
+				
+				"content_html": "<p>photo challenge day 11: sky</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "photo challenge day 11: sky\n\n<img src=\"uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-11T11:21:28-04:00",
+				"url": "https://www.7robots.org/2024/04/11/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/10/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 10: train</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 10: train\n\n<img src=\"uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"date_published": "2024-04-10T07:25:24-04:00",
+				"url": "https://www.7robots.org/2024/04/10/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/09/finished-reading-bewilderment.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780393881158\">Bewilderment: A Novel</a> by Richard Powers 📚</p>\n",
+				"content_text": "Finished reading: [Bewilderment: A Novel](https://micro.blog/books/9780393881158) by Richard Powers 📚\n",
+				"date_published": "2024-04-09T08:04:32-04:00",
+				"url": "https://www.7robots.org/2024/04/09/finished-reading-bewilderment.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/07/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 7: well-being</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-07T15:20:13-04:00",
+				"url": "https://www.7robots.org/2024/04/07/photo-challenge-day.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/04/06/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 6: windy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 6: windy\n\n<img src=\"uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 6: windy\n\n<img src=\"https://www.7robots.org/uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-06T15:05:50-04:00",
 				"url": "https://www.7robots.org/2024/04/06/photo-challenge-day.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://7robots.micro.blog/2024/04/05/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 5: serene</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 5: serene\n\n<img src=\"uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 5: serene\n\n<img src=\"https://www.7robots.org/uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-05T15:31:12-04:00",
 				"url": "https://www.7robots.org/2024/04/05/photo-challenge-day.html"
 			},
@@ -26,7 +66,7 @@
 				"id": "http://7robots.micro.blog/2024/04/04/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 4: foliage</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"https://www.7robots.org/uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-04T13:24:25-04:00",
 				"url": "https://www.7robots.org/2024/04/04/photo-challenge-day.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://7robots.micro.blog/2024/04/03/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 3: card</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 3: card\n\n<img src=\"uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 3: card\n\n<img src=\"https://www.7robots.org/uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-03T11:46:15-04:00",
 				"url": "https://www.7robots.org/2024/04/03/photo-challenge-day.html"
 			},
