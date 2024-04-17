@@ -7,10 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/04/17/photo-challenge-day.html",
+				
+				"content_html": "<p>photo challenge day 17: transcendence</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "photo challenge day 17: transcendence \r\n\r\n\n\n<img src=\"uploads/2024/img-3634.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-17T17:37:39-04:00",
+				"url": "https://www.7robots.org/2024/04/17/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/16/finished-reading-village.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781668004302\">Village in the Sky</a> by Jack McDevitt 📚</p>\n",
+				"content_text": "Finished reading: [Village in the Sky](https://micro.blog/books/9781668004302) by Jack McDevitt 📚\n",
+				"date_published": "2024-04-16T14:56:33-04:00",
+				"url": "https://www.7robots.org/2024/04/16/finished-reading-village.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/16/photo-challenge-day.html",
+				
+				"content_html": "<p>photo challenge day 16: flâneur</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "photo challenge day 16: flâneur\n\n<img src=\"uploads/2024/4ba0500e94.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-16T13:43:57-04:00",
+				"url": "https://www.7robots.org/2024/04/16/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/15/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 15: small</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 15: small\n\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-15T08:10:28-04:00",
+				"url": "https://www.7robots.org/2024/04/15/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/14/finished-reading-exhalation.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781760786335\">Exhalation</a> by Ted Chiang 📚</p>\n",
+				"content_text": "Finished reading: [Exhalation](https://micro.blog/books/9781760786335) by Ted Chiang 📚\n",
+				"date_published": "2024-04-14T23:18:13-04:00",
+				"url": "https://www.7robots.org/2024/04/14/finished-reading-exhalation.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/14/photo-challenge-day.html",
+				
+				"content_html": "<p>Photo challenge day 14: cactus</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Photo challenge day 14: cactus\n\n<img src=\"https://www.7robots.org/uploads/2024/64d011af4bd34cb89ee504ac80091463.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2024-04-14T13:19:36-04:00",
+				"url": "https://www.7robots.org/2024/04/14/photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/04/13/photo-challenge-day.html",
+				
+				"content_html": "<p>photo challenge day 13: page</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "photo challenge day 13: page\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0828.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-04-13T13:43:20-04:00",
+				"url": "https://www.7robots.org/2024/04/13/photo-challenge-day.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/04/12/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 12: magic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 12: magic\n\n<img src=\"uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 12: magic\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-12T11:53:29-04:00",
 				"url": "https://www.7robots.org/2024/04/12/photo-challenge-day.html"
 			},
@@ -18,7 +74,7 @@
 				"id": "http://7robots.micro.blog/2024/04/11/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 11: sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 11: sky\n\n<img src=\"uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 11: sky\n\n<img src=\"https://www.7robots.org/uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-11T11:21:28-04:00",
 				"url": "https://www.7robots.org/2024/04/11/photo-challenge-day.html"
 			},
@@ -26,7 +82,7 @@
 				"id": "http://7robots.micro.blog/2024/04/10/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 10: train</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 10: train\n\n<img src=\"uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "Photo challenge day 10: train\n\n<img src=\"https://www.7robots.org/uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-04-10T07:25:24-04:00",
 				"url": "https://www.7robots.org/2024/04/10/photo-challenge-day.html"
 			},
@@ -42,7 +98,7 @@
 				"id": "http://7robots.micro.blog/2024/04/07/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 7: well-being</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"https://www.7robots.org/uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-07T15:20:13-04:00",
 				"url": "https://www.7robots.org/2024/04/07/photo-challenge-day.html"
 			},
