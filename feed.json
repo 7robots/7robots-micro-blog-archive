@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/10/10/tonights-aurora-as.html",
+				
+				"content_html": "<p>Tonight’s aurora as seen from central MA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Tonight’s aurora as seen from central MA\n\n<img src=\"uploads/2024/2537a6245a9c446cbdfae8ec560647d3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/5bd999cd8de7488eb66c47a2eb7b0996.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/21a5271f09624393abd77e1562aaaa35.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/ea5dc15d371f42989b7077ce87557078.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/70be47ac7a3d45b4852fc19d34e62f5c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-10-10T21:44:14-04:00",
+				"url": "https://www.7robots.org/2024/10/10/tonights-aurora-as.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/10/02/gideon-the-ninth.html",
+				"title": "Gideon the Ninth",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>&lt;img src=https://media.npr.org/assets/bakertaylor/covers/g/gideon-the-ninth/9781250313195_custom-7a85725408a1f9b4abf7fd9ca69694b2c12d702b.jpg?s=600&amp;c=85&amp;f=webp&gt;</p>\n",
+				"content_text": "<h1>Gideon the Ninth</h1>\n\n<p>In the myriadic year of our lord — the ten thousandth year of the King Undying, the kindly Prince of Death! — Gideon Nav packed her sword, her shoes and her dirty magazines, and she escaped from the House of the Ninth.</p>\n\n<ul>\n<li>excerpt from Gideon the Ninth by Tamsin Muir</li>\n</ul>\n\n<p>📚 💬</p>\n\n<img src=https://media.npr.org/assets/bakertaylor/covers/g/gideon-the-ninth/9781250313195_custom-7a85725408a1f9b4abf7fd9ca69694b2c12d702b.jpg?s=600&c=85&f=webp>\n\n",
+				"date_published": "2024-10-02T17:29:11-04:00",
+				"url": "https://www.7robots.org/2024/10/02/gideon-the-ninth.html",
+				"tags": ["Commonplace"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/10/02/forevernotes.html",
+				"title": "ForeverNotes",
+				"content_html": "<h1 id=\"forevernotes\">ForeverNotes</h1>\n<p>This is a fairly cool/clever framework for working with Apple Notes:</p>\n<p><a href=\"https://www.myforevernotes.com\">https://www.myforevernotes.com</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "# ForeverNotes\r\n\r\nThis is a fairly cool/clever framework for working with Apple Notes:\r\n\r\n[https://www.myforevernotes.com](https://www.myforevernotes.com)\r\n\r\n<img src=\"https://cdn.prod.website-files.com/66d94b8cef94f6af748a1af1/66f01e17293b8fdb7e3fb8a7_66f01dcc293b8fdb7e3f6609_home.jpeg\" alt=\"ForeverNotes home page\" width=\"300\">\r\n\r\n\r\n",
+				"date_published": "2024-10-02T17:19:54-04:00",
+				"url": "https://www.7robots.org/2024/10/02/forevernotes.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/10/01/finished-reading-acceptance.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780374710798\">Acceptance</a> by Jeff VanderMeer 📚\n3 stars</p>\n",
