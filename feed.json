@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/10/18/world-line.html",
+				"title": "World Line",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<h1>World Line</h1>\n\n<p>Events are the atoms of experience.</p>\n\n<ul>\n<li>from Black Holes: The Key to Understanding the Universe by Brian Cox and Jeff Forshaw</li>\n</ul>\n\n<p>📚 💬</p>\n\n\n<img src=\"https://i.harperapps.com/covers/9780062936721/y450-274.jpg\">\n",
+				"date_published": "2024-10-18T11:45:07-04:00",
+				"url": "https://www.7robots.org/2024/10/18/world-line.html",
+				"tags": ["Commonplace"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/10/15/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781573221115\">The Art of Happiness</a> by Dalai Lama XIV Bstan-ʼdzin-rgya-mtsho 📚</p>\n",
+				"content_text": "Finished reading: [The Art of Happiness](https://micro.blog/books/9781573221115) by Dalai Lama XIV Bstan-ʼdzin-rgya-mtsho 📚\n",
+				"date_published": "2024-10-15T07:16:07-04:00",
+				"url": "https://www.7robots.org/2024/10/15/finished-reading-the.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/10/14/finished-reading-gideon.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250313171\">Gideon the Ninth</a> by Tamsyn Muir 📚</p>\n",
+				"content_text": "Finished reading: [Gideon the Ninth](https://micro.blog/books/9781250313171) by Tamsyn Muir 📚\n",
+				"date_published": "2024-10-14T10:02:06-04:00",
+				"url": "https://www.7robots.org/2024/10/14/finished-reading-gideon.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/10/10/tonights-aurora-as.html",
 				
 				"content_html": "<p>Tonight’s aurora as seen from central MA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
