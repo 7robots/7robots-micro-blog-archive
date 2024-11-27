@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2024/11/26/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781481414777\">The White Mountains</a> by John Christopher 📚</p>\n",
+				"content_text": "Finished reading: [The White Mountains](https://micro.blog/books/9781481414777) by John Christopher 📚\n",
+				"date_published": "2024-11-26T23:40:31-05:00",
+				"url": "https://www.7robots.org/2024/11/26/finished-reading-the.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2024/11/24/someone-elses-house.html",
+				"title": "Someone else’s house",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I live as if in someone else’s house\nA house that comes in dreams\nAnd in which I have died perhaps\nWhere there is something strange\nIn the weariness of evening\nSomething the mirrors save for themselves—</p>\n\n<p>—from “Dull Knife,” Anna Akhmatova, trans. D. M. Thomas”</p>\n\n<p>(excerpted From Rose/House by Arkady Martine)</p>\n\n<p>📚 💬</p>\n\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/e/e6/Kuzma_petrov-vodkin%2C_ritratto_di_anna_akhmatova%2C_1922.JPG\" width=\"400\">\n",
+				"date_published": "2024-11-24T19:49:18-05:00",
+				"url": "https://www.7robots.org/2024/11/24/someone-elses-house.html",
+				"tags": ["Commonplace"]
+			},
+			{
 				"id": "http://7robots.micro.blog/2024/11/20/finished-reading-rosehouse.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250387516\">Rose/House</a> by Arkady Martine 📚</p>\n<p>Three stars</p>\n",
@@ -109,7 +126,7 @@
 				"id": "http://7robots.micro.blog/2024/10/20/autumn-scenes-in.html",
 				"title": "Autumn scenes in Harvard, MA",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2024/b9d4505e-2de5-45c0-84e7-b39e9a7a35d3.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Bright autumn foliage in a forest under a clear blue sky.\">\r\n\r\n<img src=\"uploads/2024/a6a159a4-bba4-4794-8aa9-9efb986ccb2c.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A red apple covered with water droplets hangs from a tree surrounded by green leaves.\">\r\n\r\n<img src=\"uploads/2024/2a14d9d8-b7df-4071-9dd0-175fc9cc8d77.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A lush apple orchard with trees bearing ripe red apples stands under a clear sky, surrounded by vibrant autumn foliage.\">\r\n\r\n<img src=\"uploads/2024/264a6f02-f4cd-4006-9ce1-6f5a6f61ceaa.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A rural scene featuring a couple of houses surrounded by trees with autumn foliage, a grassy field, and a wooden fence under a clear blue sky.\">\r\n\r\n<img src=\"uploads/2024/cf4548f7-e68b-4105-8ede-7ed7a3321b5e.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A forest path is surrounded by trees with vibrant yellow leaves under a clear blue sky.\">\r\n\r\n<img src=\"uploads/2024/9691c69e-77f0-4cb3-af62-013d65cec1bf.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A serene forest pathway is surrounded by trees with vibrant yellow and orange autumn leaves under a clear blue sky.\">\n",
+				"content_text": "<img src=\"https://www.7robots.org/uploads/2024/b9d4505e-2de5-45c0-84e7-b39e9a7a35d3.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Bright autumn foliage in a forest under a clear blue sky.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/a6a159a4-bba4-4794-8aa9-9efb986ccb2c.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A red apple covered with water droplets hangs from a tree surrounded by green leaves.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/2a14d9d8-b7df-4071-9dd0-175fc9cc8d77.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A lush apple orchard with trees bearing ripe red apples stands under a clear sky, surrounded by vibrant autumn foliage.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/264a6f02-f4cd-4006-9ce1-6f5a6f61ceaa.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A rural scene featuring a couple of houses surrounded by trees with autumn foliage, a grassy field, and a wooden fence under a clear blue sky.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/cf4548f7-e68b-4105-8ede-7ed7a3321b5e.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A forest path is surrounded by trees with vibrant yellow leaves under a clear blue sky.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/9691c69e-77f0-4cb3-af62-013d65cec1bf.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A serene forest pathway is surrounded by trees with vibrant yellow and orange autumn leaves under a clear blue sky.\">\n",
 				"date_published": "2024-10-20T13:59:24-05:00",
 				"url": "https://www.7robots.org/2024/10/20/autumn-scenes-in.html",
 				"tags": ["pix"]
@@ -151,7 +168,7 @@
 				"id": "http://7robots.micro.blog/2024/10/10/tonights-aurora-as.html",
 				
 				"content_html": "<p>Tonight’s aurora as seen from central MA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tonight’s aurora as seen from central MA\n\n<img src=\"uploads/2024/2537a6245a9c446cbdfae8ec560647d3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/5bd999cd8de7488eb66c47a2eb7b0996.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/21a5271f09624393abd77e1562aaaa35.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/ea5dc15d371f42989b7077ce87557078.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/70be47ac7a3d45b4852fc19d34e62f5c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tonight’s aurora as seen from central MA\n\n<img src=\"https://www.7robots.org/uploads/2024/2537a6245a9c446cbdfae8ec560647d3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/5bd999cd8de7488eb66c47a2eb7b0996.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/21a5271f09624393abd77e1562aaaa35.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/ea5dc15d371f42989b7077ce87557078.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/70be47ac7a3d45b4852fc19d34e62f5c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-10T20:44:14-05:00",
 				"url": "https://www.7robots.org/2024/10/10/tonights-aurora-as.html"
 			},
@@ -253,7 +270,7 @@
 				"id": "http://7robots.micro.blog/2024/08/17/lots-of-mushrooms.html",
 				
 				"content_html": "<p>Lots of mushrooms on the trails this morning</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lots of mushrooms on the trails this morning \n\n<img src=\"uploads/2024/28f877fe08714702a78aed9a93e686d5.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/b631e704013942f383582499fd00a455.jpg\" width=\"600\" height=\"531\" alt=\"\"><img src=\"uploads/2024/da52ff3753844646ae034d18e0a97233.jpg\" width=\"600\" height=\"438\" alt=\"\"><img src=\"uploads/2024/46b46571599b446db62cd6a765b6e347.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/f7699a26ad2f45ca9acb1034ef36ec4d.jpg\" width=\"600\" height=\"483\" alt=\"\"><img src=\"uploads/2024/fd51f9401a3d465c92edc375e7884949.jpg\" width=\"600\" height=\"590\" alt=\"\"><img src=\"uploads/2024/ec3acc7aa31b4f8b9958129ecf05f0c0.jpg\" width=\"600\" height=\"564\" alt=\"\">\n",
+				"content_text": "Lots of mushrooms on the trails this morning \n\n<img src=\"https://www.7robots.org/uploads/2024/28f877fe08714702a78aed9a93e686d5.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/b631e704013942f383582499fd00a455.jpg\" width=\"600\" height=\"531\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/da52ff3753844646ae034d18e0a97233.jpg\" width=\"600\" height=\"438\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/46b46571599b446db62cd6a765b6e347.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/f7699a26ad2f45ca9acb1034ef36ec4d.jpg\" width=\"600\" height=\"483\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/fd51f9401a3d465c92edc375e7884949.jpg\" width=\"600\" height=\"590\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/ec3acc7aa31b4f8b9958129ecf05f0c0.jpg\" width=\"600\" height=\"564\" alt=\"\">\n",
 				"date_published": "2024-08-17T15:46:13-05:00",
 				"url": "https://www.7robots.org/2024/08/17/lots-of-mushrooms.html",
 				"tags": ["pix"]
@@ -321,7 +338,7 @@
 				"id": "http://7robots.micro.blog/2024/07/27/our-time-is.html",
 				"title": "Our time is up",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<h1>Our time is up</h1>\n\n<p>I think our time is up.</p>\n\n<p>I know. Hold my hand.</p>\n\n<p>Hold your hand?</p>\n\n<p>Yes. I want you to.</p>\n\n<p>All right. Why?</p>\n\n<p>Because that’s what people do when they’re waiting for the end of something.</p>\n\n<p>Excerpt from Stella Maris by Cormac McCarthy</p>\n📚 💬\n\n\n\n\n\n<img src=\"uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "<h1>Our time is up</h1>\n\n<p>I think our time is up.</p>\n\n<p>I know. Hold my hand.</p>\n\n<p>Hold your hand?</p>\n\n<p>Yes. I want you to.</p>\n\n<p>All right. Why?</p>\n\n<p>Because that’s what people do when they’re waiting for the end of something.</p>\n\n<p>Excerpt from Stella Maris by Cormac McCarthy</p>\n📚 💬\n\n\n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-27T06:00:00-05:00",
 				"url": "https://www.7robots.org/2024/07/27/our-time-is.html",
 				"tags": ["Commonplace"]
@@ -348,7 +365,7 @@
 				"id": "http://7robots.micro.blog/2024/07/22/astronomy-photo-the.html",
 				"title": "Astronomy Photo: The Sun",
 				"content_html": "<h1 id=\"sun\">Sun</h1>\n<h2 id=\"my-observations\">My Observations:</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Taken: 21 July 2024 at 6:07 PM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<p>From our perspective on Earth, the Sun may seem like a constant, unchanging source of light and warmth in the sky. However, the Sun is actually a dynamic and ever-evolving star, continually emitting energy into space. The scientific study of the Sun and its impact on the solar system is known as heliophysics.</p>\n<p>As the largest object in our solar system, the Sun boasts a diameter of approximately 865,000 miles (1.4 million kilometers). Its immense gravity is what binds the solar system together, maintaining the orbits of everything from the largest planets to the tiniest pieces of debris.</p>\n<p>Despite being the focal point of our solar system and crucial for our existence, the Sun is merely an average star in terms of size. There are stars that are up to 100 times larger, and many other solar systems host multiple stars. By examining our Sun, scientists gain valuable insights into the functioning of distant stars.</p>\n<p>The Sun’s core is its hottest region, with temperatures soaring above 27 million °F (15 million °C). The surface, known as the photosphere, is cooler in comparison, with temperatures around 10,000 °F (5,500 °C). Interestingly, one of the Sun’s great mysteries is its outer atmosphere, the corona, which becomes hotter with distance from the surface. The corona can reach temperatures up to 3.5 million °F (2 million °C), significantly hotter than the photosphere.[^ChatGPT summary of NASA Facts page]</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/sun\">The Sun - NASA Science</a></p>\n<h2 id=\"nasa-image-gallery-of-sun\">NASA Image Gallery of Sun:</h2>\n<p><a href=\"https://science.nasa.gov/gallery/the-sun/\">NASA Image Gallery of Sun</a></p>\n",
-				"content_text": "# Sun\n\n## My Observations:\n\n<img src=\"uploads/2024/equinox2-20240721-220721.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"uploads/2024/equinox2-20240721-220801.jpeg\" width=\"600\" height=\"322\" alt=\"\">\n\nTaken: 21 July 2024 at 6:07 PM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\nFrom our perspective on Earth, the Sun may seem like a constant, unchanging source of light and warmth in the sky. However, the Sun is actually a dynamic and ever-evolving star, continually emitting energy into space. The scientific study of the Sun and its impact on the solar system is known as heliophysics.\n\nAs the largest object in our solar system, the Sun boasts a diameter of approximately 865,000 miles (1.4 million kilometers). Its immense gravity is what binds the solar system together, maintaining the orbits of everything from the largest planets to the tiniest pieces of debris.\n\nDespite being the focal point of our solar system and crucial for our existence, the Sun is merely an average star in terms of size. There are stars that are up to 100 times larger, and many other solar systems host multiple stars. By examining our Sun, scientists gain valuable insights into the functioning of distant stars.\n\nThe Sun’s core is its hottest region, with temperatures soaring above 27 million °F (15 million °C). The surface, known as the photosphere, is cooler in comparison, with temperatures around 10,000 °F (5,500 °C). Interestingly, one of the Sun’s great mysteries is its outer atmosphere, the corona, which becomes hotter with distance from the surface. The corona can reach temperatures up to 3.5 million °F (2 million °C), significantly hotter than the photosphere.[^ChatGPT summary of NASA Facts page]\n\n\n## Additional Details from NASA:\n\n[The Sun - NASA Science](https://science.nasa.gov/sun)\n\n## NASA Image Gallery of Sun:\n\n[NASA Image Gallery of Sun](https://science.nasa.gov/gallery/the-sun/)\n",
+				"content_text": "# Sun\n\n## My Observations:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240721-220721.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240721-220801.jpeg\" width=\"600\" height=\"322\" alt=\"\">\n\nTaken: 21 July 2024 at 6:07 PM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\nFrom our perspective on Earth, the Sun may seem like a constant, unchanging source of light and warmth in the sky. However, the Sun is actually a dynamic and ever-evolving star, continually emitting energy into space. The scientific study of the Sun and its impact on the solar system is known as heliophysics.\n\nAs the largest object in our solar system, the Sun boasts a diameter of approximately 865,000 miles (1.4 million kilometers). Its immense gravity is what binds the solar system together, maintaining the orbits of everything from the largest planets to the tiniest pieces of debris.\n\nDespite being the focal point of our solar system and crucial for our existence, the Sun is merely an average star in terms of size. There are stars that are up to 100 times larger, and many other solar systems host multiple stars. By examining our Sun, scientists gain valuable insights into the functioning of distant stars.\n\nThe Sun’s core is its hottest region, with temperatures soaring above 27 million °F (15 million °C). The surface, known as the photosphere, is cooler in comparison, with temperatures around 10,000 °F (5,500 °C). Interestingly, one of the Sun’s great mysteries is its outer atmosphere, the corona, which becomes hotter with distance from the surface. The corona can reach temperatures up to 3.5 million °F (2 million °C), significantly hotter than the photosphere.[^ChatGPT summary of NASA Facts page]\n\n\n## Additional Details from NASA:\n\n[The Sun - NASA Science](https://science.nasa.gov/sun)\n\n## NASA Image Gallery of Sun:\n\n[NASA Image Gallery of Sun](https://science.nasa.gov/gallery/the-sun/)\n",
 				"date_published": "2024-07-22T11:27:00-05:00",
 				"url": "https://www.7robots.org/2024/07/22/astronomy-photo-the.html",
 				"tags": ["astronomy"]
@@ -505,7 +522,7 @@
 				"id": "http://7robots.micro.blog/2024/05/23/astrophotography.html",
 				"title": "Astronomy Photo: Moon",
 				"content_html": "<p>My observation:</p>\n<!-- raw HTML omitted -->\n<p>Taken: 20 May 2024 at 9:36pm EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Type: Moon</li>\n<li>Distance from Earth: 384,400 km</li>\n</ul>\n<p>The Moon, Earth&rsquo;s only natural satellite, is a rocky body with a geologically diverse surface, characterized by vast plains called maria, impact craters, and highland regions. Its geology includes basaltic plains from ancient volcanic activity and anorthosite highlands, shaped significantly by asteroid impacts. The Moon orbits Earth at an average distance of about 384,400 kilometers, completing a revolution in approximately 27.3 days, which also matches its rotational period, resulting in the same side always facing Earth (synchronous rotation). This orbital relationship profoundly affects Earth&rsquo;s tides and stabilizes its axial tilt, contributing to a stable climate over geological time scales. The interplay of tidal forces also causes a gradual increase in the Moon&rsquo;s distance from Earth by about 3.8 centimeters per year.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/moon/\">https://science.nasa.gov/moon/</a></p>\n<h2 id=\"lunar-reconnaissance-orbiter-image\">Lunar Reconnaissance Orbiter Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My observation:\n\n<img src=\"uploads/2024/equinox2-20240521-013629.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 20 May 2024 at 9:36pm EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Type: Moon\n- Distance from Earth: 384,400 km\n\nThe Moon, Earth's only natural satellite, is a rocky body with a geologically diverse surface, characterized by vast plains called maria, impact craters, and highland regions. Its geology includes basaltic plains from ancient volcanic activity and anorthosite highlands, shaped significantly by asteroid impacts. The Moon orbits Earth at an average distance of about 384,400 kilometers, completing a revolution in approximately 27.3 days, which also matches its rotational period, resulting in the same side always facing Earth (synchronous rotation). This orbital relationship profoundly affects Earth's tides and stabilizes its axial tilt, contributing to a stable climate over geological time scales. The interplay of tidal forces also causes a gradual increase in the Moon's distance from Earth by about 3.8 centimeters per year.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/moon/](https://science.nasa.gov/moon/)\n\n## Lunar Reconnaissance Orbiter Image:\n\n<img src=\"https://astropedia.astrogeology.usgs.gov/download/RPIF/Moon/Maps/Moon+LROC+WAC+Nearside.png/max.jpg\" width=\"600\" alt=\"\">\n",
+				"content_text": "My observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240521-013629.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 20 May 2024 at 9:36pm EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Type: Moon\n- Distance from Earth: 384,400 km\n\nThe Moon, Earth's only natural satellite, is a rocky body with a geologically diverse surface, characterized by vast plains called maria, impact craters, and highland regions. Its geology includes basaltic plains from ancient volcanic activity and anorthosite highlands, shaped significantly by asteroid impacts. The Moon orbits Earth at an average distance of about 384,400 kilometers, completing a revolution in approximately 27.3 days, which also matches its rotational period, resulting in the same side always facing Earth (synchronous rotation). This orbital relationship profoundly affects Earth's tides and stabilizes its axial tilt, contributing to a stable climate over geological time scales. The interplay of tidal forces also causes a gradual increase in the Moon's distance from Earth by about 3.8 centimeters per year.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/moon/](https://science.nasa.gov/moon/)\n\n## Lunar Reconnaissance Orbiter Image:\n\n<img src=\"https://astropedia.astrogeology.usgs.gov/download/RPIF/Moon/Maps/Moon+LROC+WAC+Nearside.png/max.jpg\" width=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-23T22:20:14-05:00",
 				"url": "https://www.7robots.org/2024/05/23/astrophotography.html",
 				"tags": ["astronomy"]
@@ -522,7 +539,7 @@
 				"id": "http://7robots.micro.blog/2024/05/14/hello-barred-owl.html",
 				
 				"content_html": "<p>Hello Barred Owl!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hello Barred Owl!\n\n<img src=\"uploads/2024/f931496fd53c40468fdfa84173a00c0e.jpg\" width=\"600\" height=\"561\" alt=\"\"><img src=\"uploads/2024/0b91fc958c6548919501f53ce7732761.jpg\" width=\"487\" height=\"600\" alt=\"\"><img src=\"uploads/2024/0e6883167e324ad88165b4918879fbaf.jpg\" width=\"485\" height=\"600\" alt=\"\"><img src=\"uploads/2024/f771ad5d8cdf4850a318eb21657ddc80.jpg\" width=\"600\" height=\"550\" alt=\"\">\n",
+				"content_text": "Hello Barred Owl!\n\n<img src=\"https://www.7robots.org/uploads/2024/f931496fd53c40468fdfa84173a00c0e.jpg\" width=\"600\" height=\"561\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/0b91fc958c6548919501f53ce7732761.jpg\" width=\"487\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/0e6883167e324ad88165b4918879fbaf.jpg\" width=\"485\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/f771ad5d8cdf4850a318eb21657ddc80.jpg\" width=\"600\" height=\"550\" alt=\"\">\n",
 				"date_published": "2024-05-14T19:21:15-05:00",
 				"url": "https://www.7robots.org/2024/05/14/hello-barred-owl.html"
 			},
@@ -538,7 +555,7 @@
 				"id": "http://7robots.micro.blog/2024/05/11/beautiful-night-sky.html",
 				
 				"content_html": "<p>Beautiful night sky in MA with the solar storm!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Beautiful night sky in MA with the solar storm!\n\n<img src=\"uploads/2024/40efd481ab.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/bcbac0eec3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/36bb647a2a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/0a06976eb9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/5f6e9e34e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Beautiful night sky in MA with the solar storm!\n\n<img src=\"https://www.7robots.org/uploads/2024/40efd481ab.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/bcbac0eec3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/36bb647a2a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/0a06976eb9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/5f6e9e34e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-10T23:21:25-05:00",
 				"url": "https://www.7robots.org/2024/05/11/beautiful-night-sky.html",
 				"tags": ["pix","astronomy"]
@@ -547,7 +564,7 @@
 				"id": "http://7robots.micro.blog/2024/05/06/my-observation.html",
 				"title": "Astronomy Photo: M13 Hercules Globular Cluster",
 				"content_html": "<h3 id=\"my-observation\">My observation:</h3>\n<!-- raw HTML omitted -->\n<p>Taken: 4 May 2024 at 1:51AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h3 id=\"general-information\">General Information:</h3>\n<ul>\n<li>Messier Designation: M13</li>\n<li>Type: Globular Cluster</li>\n<li>Distance from Earth: 22,000 light years</li>\n</ul>\n<p>M13 Hercules is a globular cluster that is located in the constellation Hercules, visible in the northern sky. It contains hundreds of thousands of stars that are densely packed in a spherical shape, with the cluster covering an area of about 145 light-years in diameter. Discovered by Edmond Halley in 1714, M13 Hercules is considered one of the most prominent and best known globular clusters, seen with a telescope from earth due to its proximity at about 22,200 light-years away. The stars within it are believed to be extremely old, estimated at around 11.65 billion years, with tightly gravitational interaction, leading to high rate of stellar interactions and collisions. This cluster is a popular target for both professional and amateur astronomers due to its size, brightness, and the myriad of stars present.</p>\n<h3 id=\"additional-details-from-nasa\">Additional Details from NASA:</h3>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/\">Messier 13 (The Hercules Cluster) - NASA Science</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n<h3 id=\"bonus-photo-hercules--with-a-few-photobombing-satellites\">Bonus photo: Hercules &hellip; with a few photobombing satellites!</h3>\n<!-- raw HTML omitted -->\n",
-				"content_text": "### My observation:\n\n<img src=\"uploads/2024/equinox2-20240505-015151.jpeg\" width=\"600\" height=\"536\" alt=\"\">\n\nTaken: 4 May 2024 at 1:51AM EST\n\nEquipment: Unistellar Equinox2\n\n### General Information:\n\n- Messier Designation: M13\n- Type: Globular Cluster\n- Distance from Earth: 22,000 light years\n\nM13 Hercules is a globular cluster that is located in the constellation Hercules, visible in the northern sky. It contains hundreds of thousands of stars that are densely packed in a spherical shape, with the cluster covering an area of about 145 light-years in diameter. Discovered by Edmond Halley in 1714, M13 Hercules is considered one of the most prominent and best known globular clusters, seen with a telescope from earth due to its proximity at about 22,200 light-years away. The stars within it are believed to be extremely old, estimated at around 11.65 billion years, with tightly gravitational interaction, leading to high rate of stellar interactions and collisions. This cluster is a popular target for both professional and amateur astronomers due to its size, brightness, and the myriad of stars present.\n\n### Additional Details from NASA:\n\n[Messier 13 (The Hercules Cluster) - NASA Science](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m13-xlarge_web-jpg.webp?w=600&format=webp\" alt=\"\">\n\n### Bonus photo: Hercules ... with a few photobombing satellites!\n\n<img src=\"uploads/2024/equinox2-20240505-015042.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n\n",
+				"content_text": "### My observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-015151.jpeg\" width=\"600\" height=\"536\" alt=\"\">\n\nTaken: 4 May 2024 at 1:51AM EST\n\nEquipment: Unistellar Equinox2\n\n### General Information:\n\n- Messier Designation: M13\n- Type: Globular Cluster\n- Distance from Earth: 22,000 light years\n\nM13 Hercules is a globular cluster that is located in the constellation Hercules, visible in the northern sky. It contains hundreds of thousands of stars that are densely packed in a spherical shape, with the cluster covering an area of about 145 light-years in diameter. Discovered by Edmond Halley in 1714, M13 Hercules is considered one of the most prominent and best known globular clusters, seen with a telescope from earth due to its proximity at about 22,200 light-years away. The stars within it are believed to be extremely old, estimated at around 11.65 billion years, with tightly gravitational interaction, leading to high rate of stellar interactions and collisions. This cluster is a popular target for both professional and amateur astronomers due to its size, brightness, and the myriad of stars present.\n\n### Additional Details from NASA:\n\n[Messier 13 (The Hercules Cluster) - NASA Science](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m13-xlarge_web-jpg.webp?w=600&format=webp\" alt=\"\">\n\n### Bonus photo: Hercules ... with a few photobombing satellites!\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-015042.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n\n",
 				"date_published": "2024-05-06T09:50:51-05:00",
 				"url": "https://www.7robots.org/2024/05/06/my-observation.html",
 				"tags": ["astronomy"]
@@ -556,7 +573,7 @@
 				"id": "http://7robots.micro.blog/2024/05/06/astronomy-photo-cigar.html",
 				"title": "Astronomy Photo: M82 Cigar Galaxy",
 				"content_html": "<h3 id=\"my-observation\">My Observation:</h3>\n<!-- raw HTML omitted -->\n<p>Taken: 4 May 2024 at 2:18 AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M82</li>\n<li>Type: Spiral Galaxy</li>\n<li>Distance from Earth: 12,000,000 light years</li>\n</ul>\n<p>M82, commonly known as the Cigar Galaxy, is a starburst galaxy located in the constellation Ursa Major, approximately 12 million light-years away from Earth. This galaxy is characterized by its intensely active star-forming regions, which have given it a unique, irregular cigar-like shape. The starburst activity in M82 is thought to have been triggered by interactions with its neighboring galaxy, M81, leading to a massive concentration of gas and dust in the galaxy&rsquo;s core. This abundant material fuels the rapid birth of new stars at a rate about ten times higher than in typical galaxies. Additionally, M82 is recognized for its supernova events and the strong &lsquo;superwind&rsquo; of ionized matter being expelled from its core, producing streaks known as &lsquo;filaments&rsquo;. Remarkably, M82 is the closest place to Earth where the conditions resemble those in the early universe, making it a focal point for astronomers studying galaxy formation and evolution.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "### My Observation: \n\n<img src=\"uploads/2024/equinox2-20240505-021804.jpeg\" width=\"600\" height=\"435\" alt=\"\">\n\nTaken: 4 May 2024 at 2:18 AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M82\n- Type: Spiral Galaxy\n- Distance from Earth: 12,000,000 light years\n\nM82, commonly known as the Cigar Galaxy, is a starburst galaxy located in the constellation Ursa Major, approximately 12 million light-years away from Earth. This galaxy is characterized by its intensely active star-forming regions, which have given it a unique, irregular cigar-like shape. The starburst activity in M82 is thought to have been triggered by interactions with its neighboring galaxy, M81, leading to a massive concentration of gas and dust in the galaxy's core. This abundant material fuels the rapid birth of new stars at a rate about ten times higher than in typical galaxies. Additionally, M82 is recognized for its supernova events and the strong 'superwind' of ionized matter being expelled from its core, producing streaks known as 'filaments'. Remarkably, M82 is the closest place to Earth where the conditions resemble those in the early universe, making it a focal point for astronomers studying galaxy formation and evolution.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m82-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
+				"content_text": "### My Observation: \n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-021804.jpeg\" width=\"600\" height=\"435\" alt=\"\">\n\nTaken: 4 May 2024 at 2:18 AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M82\n- Type: Spiral Galaxy\n- Distance from Earth: 12,000,000 light years\n\nM82, commonly known as the Cigar Galaxy, is a starburst galaxy located in the constellation Ursa Major, approximately 12 million light-years away from Earth. This galaxy is characterized by its intensely active star-forming regions, which have given it a unique, irregular cigar-like shape. The starburst activity in M82 is thought to have been triggered by interactions with its neighboring galaxy, M81, leading to a massive concentration of gas and dust in the galaxy's core. This abundant material fuels the rapid birth of new stars at a rate about ten times higher than in typical galaxies. Additionally, M82 is recognized for its supernova events and the strong 'superwind' of ionized matter being expelled from its core, producing streaks known as 'filaments'. Remarkably, M82 is the closest place to Earth where the conditions resemble those in the early universe, making it a focal point for astronomers studying galaxy formation and evolution.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m82-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
 				"date_published": "2024-05-06T09:42:16-05:00",
 				"url": "https://www.7robots.org/2024/05/06/astronomy-photo-cigar.html",
 				"tags": ["astronomy"]
@@ -565,7 +582,7 @@
 				"id": "http://7robots.micro.blog/2024/05/06/astronomy-photo-sombrero.html",
 				"title": "Astronomy Photo: Sombrero Galaxy",
 				"content_html": "<h3 id=\"my-observation\">My observation:</h3>\n<!-- raw HTML omitted -->\n<p>Taken: 4 May 2024 at 2:03AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M104</li>\n<li>Type: Spiral Galaxy</li>\n<li>Distance from Earth: 28,000,000 light years</li>\n</ul>\n<p>M104, often referred to as the Sombrero Galaxy, is a spiral galaxy located in the constellation Virgo, over 28 million light-years away from the Earth. This galaxy was named ‘Sombrero’ due to its visual similarity to the broad-brimmed Mexican hat, presenting a unique edge on view with a prominent dust lane circling its bright nucleus like a brim. The mass of the Sombrero galaxy, particularly the budge in the middle, is comprised of billions of stars, dust, gas, and other celestial matter. Additionally, the rim of the Sombrero Galaxy showcases an extensive halo filled with several hundred globular clusters, signifying its significantly higher than average number for a galaxy of its type and size. It is also a source of a strong radio emission and is assumed to possess a supermassive black hole at its center. The Sombrero galaxy is a popular celestial body in amateur astronomy due to its bright intensity and visibility with small telescopes.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "### My observation:\n\n<img src=\"uploads/2024/equinox2-20240505-020341.jpeg\" width=\"600\" height=\"542\" alt=\"\">\n\nTaken: 4 May 2024 at 2:03AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M104\n- Type: Spiral Galaxy\n- Distance from Earth: 28,000,000 light years\n\nM104, often referred to as the Sombrero Galaxy, is a spiral galaxy located in the constellation Virgo, over 28 million light-years away from the Earth. This galaxy was named ‘Sombrero’ due to its visual similarity to the broad-brimmed Mexican hat, presenting a unique edge on view with a prominent dust lane circling its bright nucleus like a brim. The mass of the Sombrero galaxy, particularly the budge in the middle, is comprised of billions of stars, dust, gas, and other celestial matter. Additionally, the rim of the Sombrero Galaxy showcases an extensive halo filled with several hundred globular clusters, signifying its significantly higher than average number for a galaxy of its type and size. It is also a source of a strong radio emission and is assumed to possess a supermassive black hole at its center. The Sombrero galaxy is a popular celestial body in amateur astronomy due to its bright intensity and visibility with small telescopes.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/sombrero-galaxy-hubble-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
+				"content_text": "### My observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-020341.jpeg\" width=\"600\" height=\"542\" alt=\"\">\n\nTaken: 4 May 2024 at 2:03AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M104\n- Type: Spiral Galaxy\n- Distance from Earth: 28,000,000 light years\n\nM104, often referred to as the Sombrero Galaxy, is a spiral galaxy located in the constellation Virgo, over 28 million light-years away from the Earth. This galaxy was named ‘Sombrero’ due to its visual similarity to the broad-brimmed Mexican hat, presenting a unique edge on view with a prominent dust lane circling its bright nucleus like a brim. The mass of the Sombrero galaxy, particularly the budge in the middle, is comprised of billions of stars, dust, gas, and other celestial matter. Additionally, the rim of the Sombrero Galaxy showcases an extensive halo filled with several hundred globular clusters, signifying its significantly higher than average number for a galaxy of its type and size. It is also a source of a strong radio emission and is assumed to possess a supermassive black hole at its center. The Sombrero galaxy is a popular celestial body in amateur astronomy due to its bright intensity and visibility with small telescopes.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/sombrero-galaxy-hubble-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
 				"date_published": "2024-05-06T07:17:49-05:00",
 				"url": "https://www.7robots.org/2024/05/06/astronomy-photo-sombrero.html",
 				"tags": ["astronomy"]
@@ -574,7 +591,7 @@
 				"id": "http://7robots.micro.blog/2024/05/02/photo-challenge-bonus.html",
 				
 				"content_html": "<p>Photo challenge bonus 2: unputdownable</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge bonus 2: unputdownable\n\n<img src=\"uploads/2024/45f90bb8ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge bonus 2: unputdownable\n\n<img src=\"https://www.7robots.org/uploads/2024/45f90bb8ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-02T10:59:09-05:00",
 				"url": "https://www.7robots.org/2024/05/02/photo-challenge-bonus.html"
 			},
@@ -582,7 +599,7 @@
 				"id": "http://7robots.micro.blog/2024/05/01/photo-challenge-bonus.html",
 				
 				"content_html": "<p>Photo challenge bonus 1: bubble</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge bonus 1: bubble\n\n<img src=\"uploads/2024/87bb799945234bfd821a3b1efbb88a25.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge bonus 1: bubble\n\n<img src=\"https://www.7robots.org/uploads/2024/87bb799945234bfd821a3b1efbb88a25.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-01T05:44:00-05:00",
 				"url": "https://www.7robots.org/2024/05/01/photo-challenge-bonus.html"
 			},
@@ -590,7 +607,7 @@
 				"id": "http://7robots.micro.blog/2024/04/30/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 30: hometown</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 30: hometown\n\n<img src=\"uploads/2024/img-3573.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 30: hometown\n\n<img src=\"https://www.7robots.org/uploads/2024/img-3573.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-30T10:22:59-05:00",
 				"url": "https://www.7robots.org/2024/04/30/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -607,7 +624,7 @@
 				"id": "http://7robots.micro.blog/2024/04/29/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 29: drift</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 29: drift\n\n<img src=\"uploads/2024/a4ecf5bcf9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 29: drift\n\n<img src=\"https://www.7robots.org/uploads/2024/a4ecf5bcf9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-29T13:25:33-05:00",
 				"url": "https://www.7robots.org/2024/04/29/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -616,7 +633,7 @@
 				"id": "http://7robots.micro.blog/2024/04/29/astronomy-photo-m.html",
 				"title": "Astronomy Photo: M56",
 				"content_html": "<h2 id=\"my-observation\">My Observation:</h2>\n<!-- raw HTML omitted -->\n<p>Taken: 27 April 2024 at 1:34AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M56</li>\n<li>Type: Globular Cluster</li>\n<li>Distance from Earth: 33,000 light years</li>\n</ul>\n<p>Messier 56, or M56, is a globular cluster located in the constellation Lyra, roughly 33,000 light-years away from Earth. Discovered by Charles Messier in 1779, M56 is composed of hundreds of thousands of ancient stars densely packed into a spherical shape, which is typical of globular clusters. The cluster&rsquo;s stars are gravitationally bound, sharing a common motion through space, and are characterized by their old age and low metallicity, reflecting the early stages of the Milky Way&rsquo;s formation. M56 appears relatively faint in the night sky, making it a challenging but rewarding target for amateur astronomers equipped with telescopes. This cluster provides valuable clues about the early chemical environment of the galaxy and the evolutionary history of stellar populations.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "## My Observation:\n\n<img src=\"uploads/2024/equinox2-20240427-053416.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:34AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M56\n- Type: Globular Cluster\n- Distance from Earth: 33,000 light years\n\nMessier 56, or M56, is a globular cluster located in the constellation Lyra, roughly 33,000 light-years away from Earth. Discovered by Charles Messier in 1779, M56 is composed of hundreds of thousands of ancient stars densely packed into a spherical shape, which is typical of globular clusters. The cluster's stars are gravitationally bound, sharing a common motion through space, and are characterized by their old age and low metallicity, reflecting the early stages of the Milky Way's formation. M56 appears relatively faint in the night sky, making it a challenging but rewarding target for amateur astronomers equipped with telescopes. This cluster provides valuable clues about the early chemical environment of the galaxy and the evolutionary history of stellar populations.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/potw1234a-jpg.webp?w=600&format=webp\" alt=\"\">\n",
+				"content_text": "## My Observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240427-053416.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:34AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M56\n- Type: Globular Cluster\n- Distance from Earth: 33,000 light years\n\nMessier 56, or M56, is a globular cluster located in the constellation Lyra, roughly 33,000 light-years away from Earth. Discovered by Charles Messier in 1779, M56 is composed of hundreds of thousands of ancient stars densely packed into a spherical shape, which is typical of globular clusters. The cluster's stars are gravitationally bound, sharing a common motion through space, and are characterized by their old age and low metallicity, reflecting the early stages of the Milky Way's formation. M56 appears relatively faint in the night sky, making it a challenging but rewarding target for amateur astronomers equipped with telescopes. This cluster provides valuable clues about the early chemical environment of the galaxy and the evolutionary history of stellar populations.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/potw1234a-jpg.webp?w=600&format=webp\" alt=\"\">\n",
 				"date_published": "2024-04-29T12:58:43-05:00",
 				"url": "https://www.7robots.org/2024/04/29/astronomy-photo-m.html",
 				"tags": ["astronomy"]
@@ -625,7 +642,7 @@
 				"id": "http://7robots.micro.blog/2024/04/28/astronomy-photo-ring.html",
 				"title": "Astronomy Photo: Ring Nebula",
 				"content_html": "<h2 id=\"my-observation\">My Observation:</h2>\n<!-- raw HTML omitted -->\n<p>Taken: 27 April 2024 at 1:28AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M57</li>\n<li>Type: Planetary Nebula</li>\n<li>Distance from Earth: 2000 light years</li>\n</ul>\n<p>The Ring Nebula, also known as Messier 57 (M57), is a stellar nebula located approximately 2000 light years away from Earth. It is a striking example of a planetary nebula, formed when a dying star sheds its outer layers of gas, creating a ring-like structure of glowing gas and dust. The central star, a white dwarf, is the remnant of the star that once existed in the center of the nebula. The Ring Nebula is a popular target for amateur astronomers due to its bright and distinctive appearance in the night sky.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\n## My Observation:\n\n<img src=\"uploads/2024/5a5ce3d120.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:28AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M57\n- Type: Planetary Nebula\n- Distance from Earth: 2000 light years\n\nThe Ring Nebula, also known as Messier 57 (M57), is a stellar nebula located approximately 2000 light years away from Earth. It is a striking example of a planetary nebula, formed when a dying star sheds its outer layers of gas, creating a ring-like structure of glowing gas and dust. The central star, a white dwarf, is the remnant of the star that once existed in the center of the nebula. The Ring Nebula is a popular target for amateur astronomers due to its bright and distinctive appearance in the night sky.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/ring-nebula-full_jpg-jpg.webp?w=600&format=webp\" alt=\"\">\n",
+				"content_text": "\n## My Observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/5a5ce3d120.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:28AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M57\n- Type: Planetary Nebula\n- Distance from Earth: 2000 light years\n\nThe Ring Nebula, also known as Messier 57 (M57), is a stellar nebula located approximately 2000 light years away from Earth. It is a striking example of a planetary nebula, formed when a dying star sheds its outer layers of gas, creating a ring-like structure of glowing gas and dust. The central star, a white dwarf, is the remnant of the star that once existed in the center of the nebula. The Ring Nebula is a popular target for amateur astronomers due to its bright and distinctive appearance in the night sky.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/ring-nebula-full_jpg-jpg.webp?w=600&format=webp\" alt=\"\">\n",
 				"date_published": "2024-04-28T21:49:27-05:00",
 				"url": "https://www.7robots.org/2024/04/28/astronomy-photo-ring.html",
 				"tags": ["astronomy"]
@@ -634,7 +651,7 @@
 				"id": "http://7robots.micro.blog/2024/04/28/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 28: community</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 28: community\n\n<img src=\"uploads/2024/img-2498.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 28: community\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2498.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-28T15:30:32-05:00",
 				"url": "https://www.7robots.org/2024/04/28/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -643,7 +660,7 @@
 				"id": "http://7robots.micro.blog/2024/04/27/astronomy-photo-dumbbell.html",
 				"title": "Astronomy Photo: Dumbbell Nebula",
 				"content_html": "<h2 id=\"my-observation\">My Observation:</h2>\n<!-- raw HTML omitted -->\n<p>Taken: 27 April 2024 at 1:37AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M27</li>\n<li>Type: Planetary Nebula</li>\n<li>Distance from Earth: 1360 light years</li>\n</ul>\n<p>The Dumbbell Nebula, also known as Messier 27 (M27), is a planetary nebula located in the constellation Vulpecula, approximately 1,360 light-years away from Earth. It is one of the brightest and largest planetary nebulae visible in the night sky, making it a popular target for amateur astronomers. The nebula was discovered by Charles Messier in 1764 and is named for its distinctive dumbbell shape, characterized by a bright, elongated central region surrounded by a complex structure of gas and dust. The Dumbbell Nebula is the result of a star similar to the Sun expelling its outer layers into space at the end of its life, illuminating the surrounding gas to create the nebula&rsquo;s vivid colors and intricate appearance. This celestial phenomenon offers insights into the life cycle of stars and the processes that shape the interstellar medium.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/</a></p>\n<h2 id=\"spitzer-space-telescope-image\">Spitzer Space Telescope Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "## My Observation:\n\n<img src=\"uploads/2024/equinox2-20240427-053713.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:37AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M27\n- Type: Planetary Nebula\n- Distance from Earth: 1360 light years\n\nThe Dumbbell Nebula, also known as Messier 27 (M27), is a planetary nebula located in the constellation Vulpecula, approximately 1,360 light-years away from Earth. It is one of the brightest and largest planetary nebulae visible in the night sky, making it a popular target for amateur astronomers. The nebula was discovered by Charles Messier in 1764 and is named for its distinctive dumbbell shape, characterized by a bright, elongated central region surrounded by a complex structure of gas and dust. The Dumbbell Nebula is the result of a star similar to the Sun expelling its outer layers into space at the end of its life, illuminating the surrounding gas to create the nebula's vivid colors and intricate appearance. This celestial phenomenon offers insights into the life cycle of stars and the processes that shape the interstellar medium.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/)\n\n## Spitzer Space Telescope Image:\n\n<img src=\"https://www.universetoday.com/wp-content/uploads/2009/06/Dumbbell-Nebula.jpg\" width=600 alt=\"\">\n\n\n\n\n",
+				"content_text": "## My Observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240427-053713.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:37AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M27\n- Type: Planetary Nebula\n- Distance from Earth: 1360 light years\n\nThe Dumbbell Nebula, also known as Messier 27 (M27), is a planetary nebula located in the constellation Vulpecula, approximately 1,360 light-years away from Earth. It is one of the brightest and largest planetary nebulae visible in the night sky, making it a popular target for amateur astronomers. The nebula was discovered by Charles Messier in 1764 and is named for its distinctive dumbbell shape, characterized by a bright, elongated central region surrounded by a complex structure of gas and dust. The Dumbbell Nebula is the result of a star similar to the Sun expelling its outer layers into space at the end of its life, illuminating the surrounding gas to create the nebula's vivid colors and intricate appearance. This celestial phenomenon offers insights into the life cycle of stars and the processes that shape the interstellar medium.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/)\n\n## Spitzer Space Telescope Image:\n\n<img src=\"https://www.universetoday.com/wp-content/uploads/2009/06/Dumbbell-Nebula.jpg\" width=600 alt=\"\">\n\n\n\n\n",
 				"date_published": "2024-04-27T21:55:46-05:00",
 				"url": "https://www.7robots.org/2024/04/27/astronomy-photo-dumbbell.html",
 				"tags": ["astronomy"]
@@ -652,7 +669,7 @@
 				"id": "http://7robots.micro.blog/2024/04/27/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 27: surprise</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 27: surprise \n\n\n\n<img src=\"uploads/2024/4da99a8153.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 27: surprise \n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/4da99a8153.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-27T07:48:09-05:00",
 				"url": "https://www.7robots.org/2024/04/27/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -661,7 +678,7 @@
 				"id": "http://7robots.micro.blog/2024/04/26/it-would-taste.html",
 				"title": "I would be their eucharist ",
 				"content_html": "<p>“You could have a small fire at night. Maybe find a cave. A mountain stream. I’d have a canteen for water for when the time came that I was too weak to move about. After a while the water would taste extraordinary. It would taste like music. I’d wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died. Sometimes at night the animals would come to the edge of the fire and move about and their shadows would move among the trees and I would understand that when the last fire was ashes they would come and carry me away and I would be their eucharist. And that would be my life. And I would be happy.”</p>\n<p>-from Stella Maris by Cormac McCarthy\n📚 💬</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“You could have a small fire at night. Maybe find a cave. A mountain stream. I’d have a canteen for water for when the time came that I was too weak to move about. After a while the water would taste extraordinary. It would taste like music. I’d wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died. Sometimes at night the animals would come to the edge of the fire and move about and their shadows would move among the trees and I would understand that when the last fire was ashes they would come and carry me away and I would be their eucharist. And that would be my life. And I would be happy.”\n\n-from Stella Maris by Cormac McCarthy\n📚 💬\n\n\n\n\n\n<img src=\"uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "“You could have a small fire at night. Maybe find a cave. A mountain stream. I’d have a canteen for water for when the time came that I was too weak to move about. After a while the water would taste extraordinary. It would taste like music. I’d wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died. Sometimes at night the animals would come to the edge of the fire and move about and their shadows would move among the trees and I would understand that when the last fire was ashes they would come and carry me away and I would be their eucharist. And that would be my life. And I would be happy.”\n\n-from Stella Maris by Cormac McCarthy\n📚 💬\n\n\n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-26T22:13:28-05:00",
 				"url": "https://www.7robots.org/2024/04/26/it-would-taste.html",
 				"tags": ["Commonplace"]
@@ -678,7 +695,7 @@
 				"id": "http://7robots.micro.blog/2024/04/26/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 26: critter</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 26: critter\n\n<img src=\"uploads/2024/eb28d2ea10.jpg\" width=\"534\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 26: critter\n\n<img src=\"https://www.7robots.org/uploads/2024/eb28d2ea10.jpg\" width=\"534\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-26T07:13:07-05:00",
 				"url": "https://www.7robots.org/2024/04/26/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -687,7 +704,7 @@
 				"id": "http://7robots.micro.blog/2024/04/25/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 25: spine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 25: spine\n\n<img src=\"uploads/2024/img-0379.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 25: spine\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0379.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-25T11:52:35-05:00",
 				"url": "https://www.7robots.org/2024/04/25/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -696,7 +713,7 @@
 				"id": "http://7robots.micro.blog/2024/04/24/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 24: light</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 24: light\n\n<img src=\"uploads/2024/img-3754.jpeg\" width=\"600\" height=\"500\" alt=\"\">\n",
+				"content_text": "photo challenge day 24: light\n\n<img src=\"https://www.7robots.org/uploads/2024/img-3754.jpeg\" width=\"600\" height=\"500\" alt=\"\">\n",
 				"date_published": "2024-04-24T08:34:37-05:00",
 				"url": "https://www.7robots.org/2024/04/24/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -713,7 +730,7 @@
 				"id": "http://7robots.micro.blog/2024/04/23/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 23: dreamy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 23: dreamy\n\n<img src=\"uploads/2024/img-2805.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 23: dreamy\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2805.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-23T08:02:35-05:00",
 				"url": "https://www.7robots.org/2024/04/23/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -722,7 +739,7 @@
 				"id": "http://7robots.micro.blog/2024/04/22/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 22: blue</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 22: blue\n\n<img src=\"uploads/2024/img-2338-3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 22: blue\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2338-3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-22T07:45:59-05:00",
 				"url": "https://www.7robots.org/2024/04/22/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -731,7 +748,7 @@
 				"id": "http://7robots.micro.blog/2024/04/21/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 21: mountain</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 21: mountain\n\n<img src=\"uploads/2024/img-0023.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "Photo challenge day 21: mountain\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0023.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-04-21T10:53:51-05:00",
 				"url": "https://www.7robots.org/2024/04/21/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -740,7 +757,7 @@
 				"id": "http://7robots.micro.blog/2024/04/20/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 20: ice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 20: ice \n\n<img src=\"uploads/2024/8e7980c870944803bbcd330c27b7f5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 20: ice \n\n<img src=\"https://www.7robots.org/uploads/2024/8e7980c870944803bbcd330c27b7f5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-20T10:40:30-05:00",
 				"url": "https://www.7robots.org/2024/04/20/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -758,7 +775,7 @@
 				"id": "http://7robots.micro.blog/2024/04/19/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 18: birthday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 18: birthday\n\n<img src=\"uploads/2024/img-1282.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "photo challenge day 18: birthday\n\n<img src=\"https://www.7robots.org/uploads/2024/img-1282.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2024-04-19T09:12:42-05:00",
 				"url": "https://www.7robots.org/2024/04/19/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -767,7 +784,7 @@
 				"id": "http://7robots.micro.blog/2024/04/18/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 18: mood</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 18: mood\n\n<img src=\"uploads/2024/cb468cef-8e4f-4c0a-b565-07dfdd544297.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 18: mood\n\n<img src=\"https://www.7robots.org/uploads/2024/cb468cef-8e4f-4c0a-b565-07dfdd544297.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-18T09:02:04-05:00",
 				"url": "https://www.7robots.org/2024/04/18/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -776,7 +793,7 @@
 				"id": "http://7robots.micro.blog/2024/04/17/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 17: transcendence</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 17: transcendence \n\n\n\n<img src=\"uploads/2024/img-3634.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 17: transcendence \n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/img-3634.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-17T16:37:39-05:00",
 				"url": "https://www.7robots.org/2024/04/17/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -793,7 +810,7 @@
 				"id": "http://7robots.micro.blog/2024/04/16/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 16: flâneur</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 16: flâneur\n\n<img src=\"uploads/2024/4ba0500e94.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 16: flâneur\n\n<img src=\"https://www.7robots.org/uploads/2024/4ba0500e94.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-16T12:43:57-05:00",
 				"url": "https://www.7robots.org/2024/04/16/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -802,7 +819,7 @@
 				"id": "http://7robots.micro.blog/2024/04/15/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 15: small</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 15: small\n\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 15: small\n\n\n<img src=\"https://www.7robots.org/uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-15T07:10:28-05:00",
 				"url": "https://www.7robots.org/2024/04/15/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -819,7 +836,7 @@
 				"id": "http://7robots.micro.blog/2024/04/14/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 14: cactus</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 14: cactus\n\n<img src=\"uploads/2024/64d011af4bd34cb89ee504ac80091463.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Photo challenge day 14: cactus\n\n<img src=\"https://www.7robots.org/uploads/2024/64d011af4bd34cb89ee504ac80091463.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-04-14T12:19:36-05:00",
 				"url": "https://www.7robots.org/2024/04/14/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -828,7 +845,7 @@
 				"id": "http://7robots.micro.blog/2024/04/13/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 13: page</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 13: page\n\n<img src=\"uploads/2024/img-0828.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 13: page\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0828.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-13T12:43:20-05:00",
 				"url": "https://www.7robots.org/2024/04/13/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -837,7 +854,7 @@
 				"id": "http://7robots.micro.blog/2024/04/12/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 12: magic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 12: magic\n\n<img src=\"uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 12: magic\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-12T10:53:29-05:00",
 				"url": "https://www.7robots.org/2024/04/12/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -846,7 +863,7 @@
 				"id": "http://7robots.micro.blog/2024/04/11/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 11: sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 11: sky\n\n<img src=\"uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 11: sky\n\n<img src=\"https://www.7robots.org/uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-11T10:21:28-05:00",
 				"url": "https://www.7robots.org/2024/04/11/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -855,7 +872,7 @@
 				"id": "http://7robots.micro.blog/2024/04/10/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 10: train</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 10: train\n\n<img src=\"uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "Photo challenge day 10: train\n\n<img src=\"https://www.7robots.org/uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-04-10T06:25:24-05:00",
 				"url": "https://www.7robots.org/2024/04/10/photo-challenge-day.html"
 			},
@@ -871,7 +888,7 @@
 				"id": "http://7robots.micro.blog/2024/04/07/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 7: well-being</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"https://www.7robots.org/uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-07T14:20:13-05:00",
 				"url": "https://www.7robots.org/2024/04/07/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -880,7 +897,7 @@
 				"id": "http://7robots.micro.blog/2024/04/06/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 6: windy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 6: windy\n\n<img src=\"uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 6: windy\n\n<img src=\"https://www.7robots.org/uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-06T14:05:50-05:00",
 				"url": "https://www.7robots.org/2024/04/06/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -889,7 +906,7 @@
 				"id": "http://7robots.micro.blog/2024/04/05/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 5: serene</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 5: serene\n\n<img src=\"uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 5: serene\n\n<img src=\"https://www.7robots.org/uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-05T14:31:12-05:00",
 				"url": "https://www.7robots.org/2024/04/05/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -898,7 +915,7 @@
 				"id": "http://7robots.micro.blog/2024/04/04/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 4: foliage</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"https://www.7robots.org/uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-04T12:24:25-05:00",
 				"url": "https://www.7robots.org/2024/04/04/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -915,7 +932,7 @@
 				"id": "http://7robots.micro.blog/2024/04/03/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 3: card</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 3: card\n\n<img src=\"uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 3: card\n\n<img src=\"https://www.7robots.org/uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-03T10:46:15-05:00",
 				"url": "https://www.7robots.org/2024/04/03/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -924,7 +941,7 @@
 				"id": "http://7robots.micro.blog/2024/04/02/day-flowers.html",
 				
 				"content_html": "<p>Day 2: flowers</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: flowers\n\n<img src=\"uploads/2024/589f5ae7cd974e07abb709b851747d50.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 2: flowers\n\n<img src=\"https://www.7robots.org/uploads/2024/589f5ae7cd974e07abb709b851747d50.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-02T05:50:10-05:00",
 				"url": "https://www.7robots.org/2024/04/02/day-flowers.html",
 				"tags": ["pix"]
@@ -933,7 +950,7 @@
 				"id": "http://7robots.micro.blog/2024/04/01/day-toy.html",
 				
 				"content_html": "<p>Day 1: toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 1: toy\n\n<img src=\"uploads/2024/e4c8a34ba56244b7a4c760fa5a08773b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 1: toy\n\n<img src=\"https://www.7robots.org/uploads/2024/e4c8a34ba56244b7a4c760fa5a08773b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-01T11:21:50-05:00",
 				"url": "https://www.7robots.org/2024/04/01/day-toy.html",
 				"tags": ["pix"]
@@ -942,7 +959,7 @@
 				"id": "http://7robots.micro.blog/2024/03/26/q-found-this.html",
 				
 				"content_html": "<p>Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"https://www.7robots.org/uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-03-26T19:28:38-05:00",
 				"url": "https://www.7robots.org/2024/03/26/q-found-this.html"
 			},
@@ -1537,635 +1554,6 @@
 				"content_text": "The woman when she saw him put her arms around him and held him. Oh, she said, I am so glad to see you. She would talk to him sometimes about God. He tried to talk to God but the best thing was to talk to his father and he did talk to him and he didn’t forget. The woman said that was all right. She said that the breath of God was his breath yet though it pass from man to man through all of time.\n\nexcerpt from The Road by Cormac McCarthy 📚 💬\n\n![The Road book cover on amazon](https://7robots.micro.blog/uploads/2024/8306630dfe.jpg \"The Road book cover on amazon\")\n",
 				"date_published": "2023-05-11T23:00:00-05:00",
 				"url": "https://www.7robots.org/2023/05/12/the-breath-of.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/05/11/be-with-those.html",
-				"title": "Be with those who help your being",
-				"content_html": "<p>Be with those who help your being.\nDon&rsquo;t sit with indifferent people, whose breath\ncomes cold out of their mouths.\nNot these visible forms, your work is deeper.</p>\n<ul>\n<li>Rumi 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/bb08f33f20.jpg\" alt=\"Rumi image at BBC\" title=\"Rumi image at BBC\"></p>\n",
-				"content_text": "Be with those who help your being.\nDon't sit with indifferent people, whose breath\ncomes cold out of their mouths.\nNot these visible forms, your work is deeper.\n\n- Rumi 📚 💬\n\n![Rumi image at BBC](https://7robots.micro.blog/uploads/2024/bb08f33f20.jpg \"Rumi image at BBC\")\n",
-				"date_published": "2023-05-10T23:00:00-05:00",
-				"url": "https://www.7robots.org/2023/05/11/be-with-those.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/05/01/a-house-made.html",
-				"title": "A House Made of Time",
-				"content_html": "<p>That there was such a house in the world, lit and open and empty, became a story in those days; there were other stories, people were in motion, stories were all they cared to hear, stories were all they believed in, life had got that hard. The story of the house all lit, the house of four floors, seven chimneys, three hundred and sixty five stairs, fifty-two doors, traveled far; they were all travelers then. It met another story, a story about a world elsewhere, and a family whose names many knew, whose house had been large, and populous with griefs and happinesses that had once seemed endless, but had ended, or had stopped; and to those many who still dreamed of that family as often as their own, the two stories seemed one. The house could be found. In spring the basement lights went out, and one in the music room.</p>\n<p>People in motion; stories starting in a dream, and spoken by unwise actors into wanting ears, then ceasing; the story turning back to dream, and then haunting the day, told and retold. People knew there was a house made of time, and many set out to find it.</p>\n<ul>\n<li>from Little, Big by John Crowley 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/77744759b7.jpg\" alt=\"Little, Big book cover on Barnes and Noble\" title=\"Little, Big book cover on Barnes and Noble\"></p>\n",
-				"content_text": "That there was such a house in the world, lit and open and empty, became a story in those days; there were other stories, people were in motion, stories were all they cared to hear, stories were all they believed in, life had got that hard. The story of the house all lit, the house of four floors, seven chimneys, three hundred and sixty five stairs, fifty-two doors, traveled far; they were all travelers then. It met another story, a story about a world elsewhere, and a family whose names many knew, whose house had been large, and populous with griefs and happinesses that had once seemed endless, but had ended, or had stopped; and to those many who still dreamed of that family as often as their own, the two stories seemed one. The house could be found. In spring the basement lights went out, and one in the music room.\n\nPeople in motion; stories starting in a dream, and spoken by unwise actors into wanting ears, then ceasing; the story turning back to dream, and then haunting the day, told and retold. People knew there was a house made of time, and many set out to find it.\n\n- from Little, Big by John Crowley 📚 💬\n\n![Little, Big book cover on Barnes and Noble](https://7robots.micro.blog/uploads/2024/77744759b7.jpg \"Little, Big book cover on Barnes and Noble\")\n",
-				"date_published": "2023-04-30T23:00:00-05:00",
-				"url": "https://www.7robots.org/2023/05/01/a-house-made.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/28/currently-reading-twenty.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780198818649\">Twenty Thousand Leagues Under the Seas</a> by Jules Verne 📚</p>\n",
-				"content_text": "Currently reading: [Twenty Thousand Leagues Under the Seas](https://micro.blog/books/9780198818649) by Jules Verne 📚\n",
-				"date_published": "2023-04-28T13:34:58-05:00",
-				"url": "https://www.7robots.org/2023/04/28/currently-reading-twenty.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/26/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062224682\">The Art of Communicating</a> by Thich Nhat Hanh 📚</p>\n",
-				"content_text": "Currently reading: [The Art of Communicating](https://micro.blog/books/9780062224682) by Thich Nhat Hanh 📚\n",
-				"date_published": "2023-04-26T16:58:12-05:00",
-				"url": "https://www.7robots.org/2023/04/26/currently-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/26/finished-reading-the.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780374114459\">The Blue Fox</a> by Sjón 📚</p>\n",
-				"content_text": "Finished reading: [The Blue Fox](https://micro.blog/books/9780374114459) by Sjón 📚\n",
-				"date_published": "2023-04-26T16:57:50-05:00",
-				"url": "https://www.7robots.org/2023/04/26/finished-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/25/george-brown-school.html",
-				
-				"content_html": "<p>George Brown School of Engineering at Rice University</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "George Brown School of Engineering at Rice University \n\n<img src=\"uploads/2023/965f8b90a5.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-04-25T18:28:33-05:00",
-				"url": "https://www.7robots.org/2023/04/25/george-brown-school.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/23/finished-reading-queen.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781497608894\">Queen of Angels</a> by Greg Bear 📚</p>\n",
-				"content_text": "Finished reading: [Queen of Angels](https://micro.blog/books/9781497608894) by Greg Bear 📚\n",
-				"date_published": "2023-04-23T00:29:25-05:00",
-				"url": "https://www.7robots.org/2023/04/23/finished-reading-queen.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/22/a-great-tree.html",
-				
-				"content_html": "<p>A great tree on the Rice campus today</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A great tree on the Rice campus today \n\n<img src=\"uploads/2023/d388a30a94.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-04-22T15:46:19-05:00",
-				"url": "https://www.7robots.org/2023/04/22/a-great-tree.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/20/currently-reading-antimatter.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250275066\">Antimatter Blues</a> by Edward Ashton 📚</p>\n",
-				"content_text": "Currently reading: [Antimatter Blues](https://micro.blog/books/9781250275066) by Edward Ashton 📚\n",
-				"date_published": "2023-04-19T22:26:21-05:00",
-				"url": "https://www.7robots.org/2023/04/19/currently-reading-antimatter.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/04/11/currently-reading-queen.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781497608894\">Queen of Angels</a> by Greg Bear 📚</p>\n",
-				"content_text": "Currently reading: [Queen of Angels](https://micro.blog/books/9781497608894) by Greg Bear 📚\n",
-				"date_published": "2023-04-11T18:11:26-05:00",
-				"url": "https://www.7robots.org/2023/04/11/currently-reading-queen.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/30/finished-reading-the.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765389138\">The Kaiju Preservation Society</a> by John Scalzi 📚</p>\n",
-				"content_text": "Finished reading: [The Kaiju Preservation Society](https://micro.blog/books/9780765389138) by John Scalzi 📚\n",
-				"date_published": "2023-03-29T22:10:19-05:00",
-				"url": "https://www.7robots.org/2023/03/29/finished-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/28/currently-reading-cloud.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781982168452\">Cloud Cuckoo Land</a> by Anthony Doerr 📚</p>\n",
-				"content_text": "Currently reading: [Cloud Cuckoo Land](https://micro.blog/books/9781982168452) by Anthony Doerr 📚\n",
-				"date_published": "2023-03-28T16:12:56-05:00",
-				"url": "https://www.7robots.org/2023/03/28/currently-reading-cloud.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/28/finished-reading-the.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101911815\">The Memory Police</a> by Yoko Ogawa 📚</p>\n",
-				"content_text": "Finished reading: [The Memory Police](https://micro.blog/books/9781101911815) by Yoko Ogawa 📚\n",
-				"date_published": "2023-03-28T16:12:36-05:00",
-				"url": "https://www.7robots.org/2023/03/28/finished-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/22/finished-reading-a.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781541675803\">A Thousand Brains</a> by Jeff Hawkins 📚</p>\n",
-				"content_text": "Finished reading: [A Thousand Brains](https://micro.blog/books/9781541675803) by Jeff Hawkins 📚\n",
-				"date_published": "2023-03-22T09:29:00-05:00",
-				"url": "https://www.7robots.org/2023/03/22/finished-reading-a.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/22/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781101911815\">The Memory Police</a> by Yoko Ogawa 📚</p>\n",
-				"content_text": "Currently reading: [The Memory Police](https://micro.blog/books/9781101911815) by Yoko Ogawa 📚\n",
-				"date_published": "2023-03-22T09:28:51-05:00",
-				"url": "https://www.7robots.org/2023/03/22/currently-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/21/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780765389138\">The Kaiju Preservation Society</a> by John Scalzi 📚</p>\n",
-				"content_text": "Currently reading: [The Kaiju Preservation Society](https://micro.blog/books/9780765389138) by John Scalzi 📚\n",
-				"date_published": "2023-03-21T15:51:04-05:00",
-				"url": "https://www.7robots.org/2023/03/21/currently-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/21/finished-reading-mickey.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789403126326\">Mickey7</a> by Edward Ashton 📚</p>\n",
-				"content_text": "Finished reading: [Mickey7](https://micro.blog/books/9789403126326) by Edward Ashton 📚\n",
-				"date_published": "2023-03-21T15:50:38-05:00",
-				"url": "https://www.7robots.org/2023/03/21/finished-reading-mickey.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/21/daily-alice.html",
-				"title": "Daily Alice",
-				"content_html": "<p>Come from his burial, none knew where but she, Daily Alice came among them like daybreak, her tears like day-odorous dew. They swallowed tears and wonder before her presence, and made to leave; but no one would say later that she hadn&rsquo;t smiled for them, and made them glad with her blessing, as they parted. They sighed, some yawned, they took hands; they took themselves by twos and threes away to where she sent them, to rocks, fields, streams and woods, to the four corners of the earth, their kingdom new-made.</p>\n<p>Then Alice walked alone there, by where the moist ground was marked with the dark circle of their dance, her skirts trailing damp in the sparkling grasses. She thought that if she could she might take away this summer day, this one day, for him; but he wouldn&rsquo;t have liked her to do that and she could not do it anyway. So instead she would make it, which she could do, this her anniversary day, a day of such perfect brilliance, a morning so new, an afternoon so endless, that the whole world would remember it ever after.</p>\n<ul>\n<li>excerpt from Little, Big by John Crowley 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/ab2a2bfcdb.jpg\" alt=\"Little Big book cover Barnes and Noble\" title=\"Little Big book cover Barnes and Noble\"></p>\n",
-				"content_text": "Come from his burial, none knew where but she, Daily Alice came among them like daybreak, her tears like day-odorous dew. They swallowed tears and wonder before her presence, and made to leave; but no one would say later that she hadn't smiled for them, and made them glad with her blessing, as they parted. They sighed, some yawned, they took hands; they took themselves by twos and threes away to where she sent them, to rocks, fields, streams and woods, to the four corners of the earth, their kingdom new-made.\n\nThen Alice walked alone there, by where the moist ground was marked with the dark circle of their dance, her skirts trailing damp in the sparkling grasses. She thought that if she could she might take away this summer day, this one day, for him; but he wouldn't have liked her to do that and she could not do it anyway. So instead she would make it, which she could do, this her anniversary day, a day of such perfect brilliance, a morning so new, an afternoon so endless, that the whole world would remember it ever after.\n\n- excerpt from Little, Big by John Crowley 📚 💬\n\n![Little Big book cover Barnes and Noble](https://7robots.micro.blog/uploads/2024/ab2a2bfcdb.jpg \"Little Big book cover Barnes and Noble\")\n",
-				"date_published": "2023-03-21T15:48:43-05:00",
-				"url": "https://www.7robots.org/2023/03/21/daily-alice.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/18/finished-reading-the.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780747598626\">The Graveyard Book</a> by Neil Gaiman 📚</p>\n",
-				"content_text": "Finished reading: [The Graveyard Book](https://micro.blog/books/9780747598626) by Neil Gaiman 📚\n",
-				"date_published": "2023-03-17T20:28:20-05:00",
-				"url": "https://www.7robots.org/2023/03/17/finished-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/15/currently-reading-mickey.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789403126326\">Mickey7</a> by Edward Ashton 📚</p>\n",
-				"content_text": "Currently reading: [Mickey7](https://micro.blog/books/9789403126326) by Edward Ashton 📚\n",
-				"date_published": "2023-03-15T16:02:40-05:00",
-				"url": "https://www.7robots.org/2023/03/15/currently-reading-mickey.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/15/thank-you.html",
-				"title": "Thank you",
-				"content_html": "<p>On his wedding day, he and Daily Alice had gone among the guests seated on the grass, and many of them had given gifts, and all of them had said “Thank you.” Thank you: because Smoky was willing, willing to take on this task, to take exception to none of it, to live his life for the convenience of others in whom he had never even quite believed, and spend his substance bringing about the end of a Tale in which he did not figure. And so he had; and he was still willing: but there had never been a reason to thank him. Because whether they knew it or not, he knew that Alice would have stood beside him on that day and wed him whether they had chosen him for her or not, would have defied them to have him. He was sure of it.</p>\n<ul>\n<li>excerpt from Little, Big by John Crowley 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/655fe0b176.jpg\" alt=\"Little Big book cover Barnes and Noble\" title=\"Little Big book cover Barnes and Noble\"></p>\n",
-				"content_text": "On his wedding day, he and Daily Alice had gone among the guests seated on the grass, and many of them had given gifts, and all of them had said “Thank you.” Thank you: because Smoky was willing, willing to take on this task, to take exception to none of it, to live his life for the convenience of others in whom he had never even quite believed, and spend his substance bringing about the end of a Tale in which he did not figure. And so he had; and he was still willing: but there had never been a reason to thank him. Because whether they knew it or not, he knew that Alice would have stood beside him on that day and wed him whether they had chosen him for her or not, would have defied them to have him. He was sure of it.\n\n- excerpt from Little, Big by John Crowley 📚 💬\n\n![Little Big book cover Barnes and Noble](https://7robots.micro.blog/uploads/2024/655fe0b176.jpg \"Little Big book cover Barnes and Noble\")\n",
-				"date_published": "2023-03-15T15:03:51-05:00",
-				"url": "https://www.7robots.org/2023/03/15/thank-you.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/14/currently-reading-a.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781541675803\">A Thousand Brains</a> by Jeff Hawkins 📚</p>\n",
-				"content_text": "Currently reading: [A Thousand Brains](https://micro.blog/books/9781541675803) by Jeff Hawkins 📚\n",
-				"date_published": "2023-03-14T14:46:36-05:00",
-				"url": "https://www.7robots.org/2023/03/14/currently-reading-a.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/14/one-step.html",
-				"title": "One Step",
-				"content_html": "<p>The morning was huge, and went on in all directions before her, and blew coldly past her into the house. She stood a long time in the open doorway, thinking: one step. One step, which will seem to be a step away, but which will not be; one step into the rainbow, a step she had long ago taken, and which could not be untaken, every other step was only further. She took one step. Out on the lawn, amid the rags of mist, a little dog ran toward her, leaping and barking excitedly.</p>\n<p>– excerpt from Little, Big by John Crowley 📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/4f2112ece2.jpg\" alt=\"Little Big book cover Barnes and Noble\" title=\"Little Big book cover Barnes and Noble\"></p>\n",
-				"content_text": "\nThe morning was huge, and went on in all directions before her, and blew coldly past her into the house. She stood a long time in the open doorway, thinking: one step. One step, which will seem to be a step away, but which will not be; one step into the rainbow, a step she had long ago taken, and which could not be untaken, every other step was only further. She took one step. Out on the lawn, amid the rags of mist, a little dog ran toward her, leaping and barking excitedly.\n\n– excerpt from Little, Big by John Crowley 📚 💬\n\n![Little Big book cover Barnes and Noble](https://7robots.micro.blog/uploads/2024/4f2112ece2.jpg \"Little Big book cover Barnes and Noble\")\n\n",
-				"date_published": "2023-03-14T14:19:39-05:00",
-				"url": "https://www.7robots.org/2023/03/14/one-step.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/14/finished-reading-little.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062124043\">Little, Big</a> by John Crowley 📚</p>\n",
-				"content_text": "Finished reading: [Little, Big](https://micro.blog/books/9780062124043) by John Crowley 📚\n",
-				"date_published": "2023-03-14T14:14:38-05:00",
-				"url": "https://www.7robots.org/2023/03/14/finished-reading-little.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/10/currently-reading-signs.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780061751851\">Signs and Wonders</a> by Philip Gulley 📚</p>\n",
-				"content_text": "Currently reading: [Signs and Wonders](https://micro.blog/books/9780061751851) by Philip Gulley 📚\n",
-				"date_published": "2023-03-09T23:23:19-05:00",
-				"url": "https://www.7robots.org/2023/03/10/currently-reading-signs.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/04/184300.html",
-				"title": "\u0026",
-				"content_html": "<p>There was a time when we did not form all words as now we do, in writing on a page. There was a time when the word “&amp;” was written with several distinct &amp; separate letters. It seems madness now. But there it is, &amp; there is nothing we can do about it.\nHumanity learnt to ride the rails, &amp; that motion made us what we are, a ferromaritime people. The lines of the rail sea go everywhere but from one place straight to another. It is always switchback, junction, coils, around &amp; over our own train-trails.\nWhat word better could there be to symbolize the rail sea that connects &amp; separates all lands, than “&amp;” itself? Where else does the rail sea take us but to this place &amp; that one &amp; that one &amp; that one, &amp; so on? &amp; what better embodies, in the sweep of the pen, the recurved motion of trains, than “&amp;”?\nAn efficient route from where we start to where we end would make the word the tiniest line. But it takes a veering route, up &amp; backwards, overshooting &amp; correcting, back down again south &amp; west, crossing its own earlier path, changing direction, another overlap, to stop, finally, a few hairs’ widths from where we began.\n&amp; tacks &amp; yaws, switches on its way to where it’s going, as we all must do.</p>\n<ul>\n<li>excerpt from China Mieville’s Railsea 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/e25d9dcb67.jpg\" alt=\"Railsea book cover npr\" title=\"Railsea book cover npr\"></p>\n",
-				"content_text": "\nThere was a time when we did not form all words as now we do, in writing on a page. There was a time when the word “&” was written with several distinct & separate letters. It seems madness now. But there it is, & there is nothing we can do about it.\nHumanity learnt to ride the rails, & that motion made us what we are, a ferromaritime people. The lines of the rail sea go everywhere but from one place straight to another. It is always switchback, junction, coils, around & over our own train-trails.\nWhat word better could there be to symbolize the rail sea that connects & separates all lands, than “&” itself? Where else does the rail sea take us but to this place & that one & that one & that one, & so on? & what better embodies, in the sweep of the pen, the recurved motion of trains, than “&”?\nAn efficient route from where we start to where we end would make the word the tiniest line. But it takes a veering route, up & backwards, overshooting & correcting, back down again south & west, crossing its own earlier path, changing direction, another overlap, to stop, finally, a few hairs’ widths from where we began.\n& tacks & yaws, switches on its way to where it’s going, as we all must do.\n\n- excerpt from China Mieville’s Railsea 📚 💬\n\n![Railsea book cover npr](https://7robots.micro.blog/uploads/2024/e25d9dcb67.jpg \"Railsea book cover npr\")\n",
-				"date_published": "2023-03-04T17:43:00-05:00",
-				"url": "https://www.7robots.org/2023/03/04/184300.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/03/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780747598626\">The Graveyard Book</a> by Neil Gaiman 📚</p>\n",
-				"content_text": "Currently reading: [The Graveyard Book](https://micro.blog/books/9780747598626) by Neil Gaiman 📚\n",
-				"date_published": "2023-03-03T07:14:03-05:00",
-				"url": "https://www.7robots.org/2023/03/03/currently-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/03/02/currently-reading-pebble.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593160084\">Pebble in the Sky</a> by Isaac Asimov 📚</p>\n",
-				"content_text": "Currently reading: [Pebble in the Sky](https://micro.blog/books/9780593160084) by Isaac Asimov 📚\n",
-				"date_published": "2023-03-01T23:21:12-05:00",
-				"url": "https://www.7robots.org/2023/03/02/currently-reading-pebble.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/22/dream.html",
-				"title": "Dream",
-				"content_html": "<p>“I dream everyone in the world is asleep, dreaming. I dream frost patterns on a temple bell. I dream bright water dripping from the spear of Izanagi, and the alchemy that transforms these drips into the land we call Japan. I dream the Pleiades, and flying fish, and speckled eggs in nests. I dream of skin flakes in keyboard gullies. I dream cities and the ovaries they issue from. I dream lovers who glimpse each other long before they become lovers, and I dream the songs they fall in love to, and I dream the songwriters who find the songs. I dream a mind in eight parts, and a compass rose. I dream of a girl, drowning, resigned to her fate now that she knows that there is no possibility of being saved by her brother. Her willowy body is passed from current to current, tide to tide, until it has dissolved into pure blue; and I am sorry, but she knows I am sorry, and she wants me to let her go because she does not want me to drown too, which I will, if I spend the rest of my life looking for her. I dream of a stone whale, of barnacles on the whale, watching it all. When my dream falters, all the world questions its own substance, so it is no surprise that I also dream the message bubbling from the stone whale’s blowhole.”This is the National Seismology Bureau, interrupring this program to bring you an emergency news flash … ”</p>\n<p>― Number Nine Dream by David Mitchell  📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/227366cb87.jpg\" alt=\"book cover Number 9 Dream from overdrive\" title=\"book cover Number 9 Dream from overdrive\"></p>\n",
-				"content_text": "“I dream everyone in the world is asleep, dreaming. I dream frost patterns on a temple bell. I dream bright water dripping from the spear of Izanagi, and the alchemy that transforms these drips into the land we call Japan. I dream the Pleiades, and flying fish, and speckled eggs in nests. I dream of skin flakes in keyboard gullies. I dream cities and the ovaries they issue from. I dream lovers who glimpse each other long before they become lovers, and I dream the songs they fall in love to, and I dream the songwriters who find the songs. I dream a mind in eight parts, and a compass rose. I dream of a girl, drowning, resigned to her fate now that she knows that there is no possibility of being saved by her brother. Her willowy body is passed from current to current, tide to tide, until it has dissolved into pure blue; and I am sorry, but she knows I am sorry, and she wants me to let her go because she does not want me to drown too, which I will, if I spend the rest of my life looking for her. I dream of a stone whale, of barnacles on the whale, watching it all. When my dream falters, all the world questions its own substance, so it is no surprise that I also dream the message bubbling from the stone whale’s blowhole.”This is the National Seismology Bureau, interrupring this program to bring you an emergency news flash … ”\n\n― Number Nine Dream by David Mitchell  📚 💬\n\n![book cover Number 9 Dream from overdrive](https://7robots.micro.blog/uploads/2024/227366cb87.jpg \"book cover Number 9 Dream from overdrive\")\n\n\n",
-				"date_published": "2023-02-22T08:41:56-05:00",
-				"url": "https://www.7robots.org/2023/02/22/dream.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/21/this-mornings-walk.html",
-				
-				"content_html": "<p>This morning’s walk at Holy Hill 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning’s walk at Holy Hill 📷\n\n<img src=\"uploads/2023/70d0f022b3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-21T14:10:31-05:00",
-				"url": "https://www.7robots.org/2023/02/21/this-mornings-walk.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/21/water.html",
-				"title": "water",
-				"content_html": "<p>“I keep thinking about this river somewhere, with the water moving really fast. And these two people in the water, trying to hold onto each other, holding on as hard as they can, but in the end it’s just too much. The current’s too strong. They’ve got to let go, drift apart. That’s how it is with us. It’s a shame, Kath, because we’ve loved each other all our lives. But in the end, we can’t stay together forever.”</p>\n<p>― Never Let Me Go by Kazuo Ishiguro  📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/ef509212c5.jpg\" alt=\"filmstage.com Never Let Me Go poster\" title=\"filmstage.com Never Let Me Go poster\"></p>\n",
-				"content_text": "“I keep thinking about this river somewhere, with the water moving really fast. And these two people in the water, trying to hold onto each other, holding on as hard as they can, but in the end it’s just too much. The current’s too strong. They’ve got to let go, drift apart. That’s how it is with us. It’s a shame, Kath, because we’ve loved each other all our lives. But in the end, we can’t stay together forever.”\n\n― Never Let Me Go by Kazuo Ishiguro  📚 💬\n\n![filmstage.com Never Let Me Go poster](https://7robots.micro.blog/uploads/2024/ef509212c5.jpg \"filmstage.com Never Let Me Go poster\")\n",
-				"date_published": "2023-02-21T14:07:00-05:00",
-				"url": "https://www.7robots.org/2023/02/21/water.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/18/decordova-museum.html",
-				"title": "DeCordova Museum 📷",
-				"content_html": "<p>DeCordova Museum 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DeCordova Museum 📷\n\n<img src=\"uploads/2023/6a3221fa41.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-18T12:25:19-05:00",
-				"url": "https://www.7robots.org/2023/02/18/decordova-museum.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/18/how-sad-the.html",
-				"title": "How sad the evening earth",
-				"content_html": "<p>“How sad the evening earth! How mysterious the mists over the swamps! He who has wandered in these mists, he who has suffered much before death, he who has flown over this earth bearing on himself too heavy a burden, knows it. The weary man knows it. And without regret he leaves the mists of the earth, its swamps and rivers, with a light heart he gives himself into the hands of death, knowing that she alone can bring him peace.”</p>\n<p>From Mikhail Bulgakov. “THE MASTER AND MARGARITA” 📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/ebda387039.jpg\" alt=\"Master and Margarita book cover Barnes Noble\" title=\"Master and Margarita book cover Barnes Noble\"></p>\n",
-				"content_text": "“How sad the evening earth! How mysterious the mists over the swamps! He who has wandered in these mists, he who has suffered much before death, he who has flown over this earth bearing on himself too heavy a burden, knows it. The weary man knows it. And without regret he leaves the mists of the earth, its swamps and rivers, with a light heart he gives himself into the hands of death, knowing that she alone can bring him peace.”\n\nFrom Mikhail Bulgakov. “THE MASTER AND MARGARITA” 📚 💬\n\n![Master and Margarita book cover Barnes Noble](https://7robots.micro.blog/uploads/2024/ebda387039.jpg \"Master and Margarita book cover Barnes Noble\")\n\n\n",
-				"date_published": "2023-02-18T12:20:53-05:00",
-				"url": "https://www.7robots.org/2023/02/18/how-sad-the.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/17/backyard-in-winter.html",
-				"title": "Backyard in winter 📷",
-				"content_html": "<p>Backyard in winter</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Backyard in winter\n\n<img src=\"uploads/2023/70e8b32ccb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-16T22:25:06-05:00",
-				"url": "https://www.7robots.org/2023/02/16/backyard-in-winter.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/16/cool-showers.html",
-				"title": "Cool Showers",
-				"content_html": "<p>Landsman, of course, is sorry, too. He has already apologized to her several times, alone and in the presence of others, orally and in writing, formally in measured phrases and in untrammeled spasms: Sorry I’m sorry I’m so, so sorry. He has apologized for his craziness, his erratic behavior, his glooms and jags, for the years of round-robin exaltation and despair. He has apologized for leaving her, and for begging her to take him back again, and for breaking down the door to their old apartment when she declined to do so. He has abased himself, and rent his garments, and groveled at her shoes. Most of the time Bina has, good and caring woman that she is, offered Landsman the words he wanted to hear. He has prayed to her for rain, and she has sent cool showers. But what he really requires is a flood to wash his wickedness from the face of the earth. That or the blessing of a yid who will never bless anyone again.</p>\n<ul>\n<li>excerpt from Michael Chabon. “The Yiddish Policemen’s Union”. 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/91dbc3fe5b.jpg\" alt=\"Yiddish Policemen&rsquo;s Union book cover Harper Collins\" title=\"Yiddish Policemen's Union book cover Harper Collins\"></p>\n",
-				"content_text": "Landsman, of course, is sorry, too. He has already apologized to her several times, alone and in the presence of others, orally and in writing, formally in measured phrases and in untrammeled spasms: Sorry I’m sorry I’m so, so sorry. He has apologized for his craziness, his erratic behavior, his glooms and jags, for the years of round-robin exaltation and despair. He has apologized for leaving her, and for begging her to take him back again, and for breaking down the door to their old apartment when she declined to do so. He has abased himself, and rent his garments, and groveled at her shoes. Most of the time Bina has, good and caring woman that she is, offered Landsman the words he wanted to hear. He has prayed to her for rain, and she has sent cool showers. But what he really requires is a flood to wash his wickedness from the face of the earth. That or the blessing of a yid who will never bless anyone again.\n\n\n- excerpt from Michael Chabon. “The Yiddish Policemen’s Union”. 📚 💬\n\n![Yiddish Policemen's Union book cover Harper Collins]( https://7robots.micro.blog/uploads/2024/91dbc3fe5b.jpg \"Yiddish Policemen's Union book cover Harper Collins\")\n\n\n",
-				"date_published": "2023-02-16T11:36:22-05:00",
-				"url": "https://www.7robots.org/2023/02/16/cool-showers.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/16/currently-reading-little.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062124043\">Little, Big</a> by John Crowley 📚</p>\n",
-				"content_text": "Currently reading: [Little, Big](https://micro.blog/books/9780062124043) by John Crowley 📚\n",
-				"date_published": "2023-02-15T23:55:29-05:00",
-				"url": "https://www.7robots.org/2023/02/16/currently-reading-little.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/15/this-is-a.html",
-				"title": "This is a Possible Letter",
-				"content_html": "<p>But this is a new chapter. The city is going back in time, readying itself to start again with its simple piracy in the rich shores near my home. Everything has changed, and I find myself trembling, excited, biding my time, eager to finish this letter.</p>\n<p>It does not embarrass me. I am opened up by it.</p>\n<p>This is a Possible Letter. Until the last second, when I write your name beside that word “Dear,” all those sheets and months ago, this is a Possible Letter, pregnant with potentiality. I am very powerful right now. I am all ready to mine the possibilities, make one of them fact.</p>\n<p>I have not been the best friend to you, and I need you to forgive me that. I think back to my friends in New Crobuzon, and I wonder which of them you are to be.</p>\n<p>And if I want this letter to be a remembrance, to be something with which to say goodbye instead of hello again, then you will be Carrianne. You are my dear friend, if that is so, and the fact that I did not know you when I started to write you this letter means nothing. This is a Possible Letter, after all.</p>\n<p>Whoever you are, I have not been the best friend to you, and I am sorry.</p>\n<ul>\n<li>excerpt from China Mieville. “The Scar”. 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/aa690bd690.jpg\" alt=\"The Scar book cover pinterest\" title=\"The Scar book cover pinterest\"></p>\n",
-				"content_text": "But this is a new chapter. The city is going back in time, readying itself to start again with its simple piracy in the rich shores near my home. Everything has changed, and I find myself trembling, excited, biding my time, eager to finish this letter.\n\nIt does not embarrass me. I am opened up by it.\n\nThis is a Possible Letter. Until the last second, when I write your name beside that word “Dear,” all those sheets and months ago, this is a Possible Letter, pregnant with potentiality. I am very powerful right now. I am all ready to mine the possibilities, make one of them fact.\n\nI have not been the best friend to you, and I need you to forgive me that. I think back to my friends in New Crobuzon, and I wonder which of them you are to be.\n\nAnd if I want this letter to be a remembrance, to be something with which to say goodbye instead of hello again, then you will be Carrianne. You are my dear friend, if that is so, and the fact that I did not know you when I started to write you this letter means nothing. This is a Possible Letter, after all.\n\nWhoever you are, I have not been the best friend to you, and I am sorry.\n\n\n- excerpt from China Mieville. “The Scar”. 📚 💬\n\n![The Scar book cover pinterest](https://7robots.micro.blog/uploads/2024/aa690bd690.jpg \"The Scar book cover pinterest\")\n\n",
-				"date_published": "2023-02-15T08:16:27-05:00",
-				"url": "https://www.7robots.org/2023/02/15/this-is-a.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/15/exhalation.html",
-				"title": "Exhalation",
-				"content_html": "<p>I hope that you were motivated by a desire for knowledge, a yearning to see what can arise from a universe’s exhalation. Because even if a universe’s life span is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable. Our universe might have slid into equilibrium emitting nothing more than a quiet hiss. The fact that it spawned such plenitude is a miracle, one that is matched only by your universe giving rise to you.</p>\n<p>Though I am long dead as you read this, explorer, I offer to you a valediction. Contemplate the marvel that is existence, and rejoice that you are able to do so. I feel I have the right to tell you this because, as I am inscribing these words, I am doing the same.</p>\n<p>exceprt from Ted Chiang&rsquo;s Exhalation. 📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/515589ccdb.jpg\" alt=\"Exhalation book cover overdrive\" title=\"Exhalation book cover overdrive\"></p>\n",
-				"content_text": "I hope that you were motivated by a desire for knowledge, a yearning to see what can arise from a universe’s exhalation. Because even if a universe’s life span is calculable, the variety of life that is generated within it is not. The buildings we have erected, the art and music and verse we have composed, the very lives we’ve led: none of them could have been predicted, because none of them was inevitable. Our universe might have slid into equilibrium emitting nothing more than a quiet hiss. The fact that it spawned such plenitude is a miracle, one that is matched only by your universe giving rise to you.\n\nThough I am long dead as you read this, explorer, I offer to you a valediction. Contemplate the marvel that is existence, and rejoice that you are able to do so. I feel I have the right to tell you this because, as I am inscribing these words, I am doing the same.\n\nexceprt from Ted Chiang's Exhalation. 📚 💬\n\n![Exhalation book cover overdrive](https://7robots.micro.blog/uploads/2024/515589ccdb.jpg \"Exhalation book cover overdrive\")\n\n",
-				"date_published": "2023-02-14T23:27:35-05:00",
-				"url": "https://www.7robots.org/2023/02/15/exhalation.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/13/recent-walk-in.html",
-				
-				"content_html": "<p>Recent walk in the moonlight 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Recent walk in the moonlight 📷\n\n<img src=\"uploads/2023/fbcaca1727.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-13T15:01:29-05:00",
-				"url": "https://www.7robots.org/2023/02/13/recent-walk-in.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/13/cloudberry-jam.html",
-				"title": "Cloudberry Jam",
-				"content_html": "<p>“Where did I come from?” you asked. “Where’s my father?”</p>\n<p>“You don’t have one,” I said. “I made you myself.”</p>\n<p>“Everyone has a father.”</p>\n<p>“Not everyone.”</p>\n<p>“Why did you make me?” you said.</p>\n<p>“I made you so that I could love you,” I said.</p>\n<ul>\n<li>from “Cloudberry Jam” by Karin Tidbeck (from the short story collection Jagannath)  📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/cf3d3c418b.jpg\" alt=\"Karin Tidbeck pinterest.com\" title=\"Karin Tidbeck pinterest.com\"></p>\n",
-				"content_text": "“Where did I come from?” you asked. “Where’s my father?”\n\n“You don’t have one,” I said. “I made you myself.”\n\n“Everyone has a father.”\n\n“Not everyone.”\n\n“Why did you make me?” you said.\n\n“I made you so that I could love you,” I said.\n\n\n- from “Cloudberry Jam” by Karin Tidbeck (from the short story collection Jagannath)  📚 💬\n\n![Karin Tidbeck pinterest.com](https://7robots.micro.blog/uploads/2024/cf3d3c418b.jpg \"Karin Tidbeck pinterest.com\")\n\n \n",
-				"date_published": "2023-02-13T12:52:25-05:00",
-				"url": "https://www.7robots.org/2023/02/13/cloudberry-jam.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/11/181324.html",
-				
-				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/5895d4be4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-11T17:13:24-05:00",
-				"url": "https://www.7robots.org/2023/02/11/181324.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/11/two-moons.html",
-				"title": "Two Moons",
-				"content_html": "<p>No doubt about it: there were two moons.</p>\n<p>One was the moon that had always been there, and the other was a far smaller, greenish moon, somewhat lopsided in shape, and much less bright. It looked like a poor, ugly, distantly related child that had been foisted on the family by unfortunate events and was welcomed by no one. But it was undeniably there, neither a phantom nor an optical illusion, hanging in space like other heavenly bodies, a solid mass with a clear-cut outline. Not a plane, not a blimp, not an artificial satellite, not a papier-mache moon that someone made for fun. It was without a doubt a chunk of rock, having quietly, stubbornly settled on a position in the night sky, like a punctuation mark placed only after long deliberation or a mole bestowed by destiny.</p>\n<ul>\n<li>from 1Q84 by Haruki Murakami. 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/fb54dbdcb0.jpg\" alt=\"Pinterest 1q84 book cover\" title=\"Pinterest 1q84 book cover\"></p>\n",
-				"content_text": "No doubt about it: there were two moons.\n\nOne was the moon that had always been there, and the other was a far smaller, greenish moon, somewhat lopsided in shape, and much less bright. It looked like a poor, ugly, distantly related child that had been foisted on the family by unfortunate events and was welcomed by no one. But it was undeniably there, neither a phantom nor an optical illusion, hanging in space like other heavenly bodies, a solid mass with a clear-cut outline. Not a plane, not a blimp, not an artificial satellite, not a papier-mache moon that someone made for fun. It was without a doubt a chunk of rock, having quietly, stubbornly settled on a position in the night sky, like a punctuation mark placed only after long deliberation or a mole bestowed by destiny.\n\n\n- from 1Q84 by Haruki Murakami. 📚 💬\n\n![Pinterest 1q84 book cover](https://7robots.micro.blog/uploads/2024/fb54dbdcb0.jpg \"Pinterest 1q84 book cover\")\n\n",
-				"date_published": "2023-02-11T17:05:09-05:00",
-				"url": "https://www.7robots.org/2023/02/11/two-moons.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/09/currently-reading-norse.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780393609103\">Norse Mythology</a> by Neil Gaiman 📚</p>\n",
-				"content_text": "Currently reading: [Norse Mythology](https://micro.blog/books/9780393609103) by Neil Gaiman 📚\n",
-				"date_published": "2023-02-09T15:07:18-05:00",
-				"url": "https://www.7robots.org/2023/02/09/currently-reading-norse.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/09/never-to-let.html",
-				"title": "Never to let her go",
-				"content_html": "<p>I saw a new world coming rapidly. More scientific, efficient, yes. More cures for the old sicknesses. Very good. But a harsh, cruel, world. And I saw a little girl, her eyes tightly closed, holding to her breast the old kind world, one that she knew in her heart could not remain, and she was holding it and pleading, never to let her go.</p>\n<p>― Never Let Me Go by Kazuo Ishiguro  📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/7cd02e16e5.jpg\" alt=\"filmstage.com Never Let Me Go poster\" title=\"filmstage.com Never Let Me Go poster\"></p>\n",
-				"content_text": "I saw a new world coming rapidly. More scientific, efficient, yes. More cures for the old sicknesses. Very good. But a harsh, cruel, world. And I saw a little girl, her eyes tightly closed, holding to her breast the old kind world, one that she knew in her heart could not remain, and she was holding it and pleading, never to let her go.\n\n― Never Let Me Go by Kazuo Ishiguro  📚 💬\n\n![filmstage.com Never Let Me Go poster](https://7robots.micro.blog/uploads/2024/7cd02e16e5.jpg \"filmstage.com Never Let Me Go poster\")\n\n",
-				"date_published": "2023-02-09T13:54:11-05:00",
-				"url": "https://www.7robots.org/2023/02/09/never-to-let.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/09/143241.html",
-				
-				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/e7bd81e044.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-09T13:32:41-05:00",
-				"url": "https://www.7robots.org/2023/02/09/143241.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/08/currently-reading-victory.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781039000568\">Victory City</a> by Salman Rushdie 📚</p>\n",
-				"content_text": "Currently reading: [Victory City](https://micro.blog/books/9781039000568) by Salman Rushdie 📚\n",
-				"date_published": "2023-02-08T17:03:35-05:00",
-				"url": "https://www.7robots.org/2023/02/08/currently-reading-victory.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/08/argumentum-ornithologicum.html",
-				"title": "Argumentum Ornithologicum",
-				"content_html": "<p>I close my eyes and see a flock of birds. The vision lasts a second, or perhaps less; I am not sure how many birds I saw. Was the number of birds definite or indefinite? The problem involves the existence of God. If God exists, the number is definite, because God knows how many birds I saw. If God does not exist, the number is indefinite, because no one can have counted. In this case I saw fewer than ten birds (let us say) and more than one, but did not see nine, eight, seven, six, four, three, or two birds. I saw a number between ten and one, which was not nine, eight, seven, six, five, etc. That integer — not-nine, not-eight, not-seven, not-six, not-five, etc. — is inconceivable. Ergo, God exists.</p>\n<ul>\n<li>excerpt from Jorge Luis Borges, “The Aleph and Other Stories”  📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/96fd32bf07.jpg\" alt=\"Borges thefamouspeople.com\" title=\"Borges thefamouspeople.com\"></p>\n",
-				"content_text": "I close my eyes and see a flock of birds. The vision lasts a second, or perhaps less; I am not sure how many birds I saw. Was the number of birds definite or indefinite? The problem involves the existence of God. If God exists, the number is definite, because God knows how many birds I saw. If God does not exist, the number is indefinite, because no one can have counted. In this case I saw fewer than ten birds (let us say) and more than one, but did not see nine, eight, seven, six, four, three, or two birds. I saw a number between ten and one, which was not nine, eight, seven, six, five, etc. That integer — not-nine, not-eight, not-seven, not-six, not-five, etc. — is inconceivable. Ergo, God exists.\n\n- excerpt from Jorge Luis Borges, “The Aleph and Other Stories”  📚 💬\n\n![Borges thefamouspeople.com](https://7robots.micro.blog/uploads/2024/96fd32bf07.jpg \"Borges thefamouspeople.com\")\n\n",
-				"date_published": "2023-02-08T10:48:45-05:00",
-				"url": "https://www.7robots.org/2023/02/08/argumentum-ornithologicum.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/06/slant.html",
-				"title": "Slant",
-				"content_html": "<p>Tell all the truth, but tell it slant.</p>\n<p>Emily Dickinson  📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/b163a967b2.jpg\" alt=\"Emily Dickinson wikipedia\" title=\"Emily Dickinson wikipedia\"></p>\n",
-				"content_text": "Tell all the truth, but tell it slant.\n\nEmily Dickinson  📚 💬\n\n![Emily Dickinson wikipedia](https://7robots.micro.blog/uploads/2024/b163a967b2.jpg \"Emily Dickinson wikipedia\")\n",
-				"date_published": "2023-02-06T10:54:10-05:00",
-				"url": "https://www.7robots.org/2023/02/06/slant.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/06/bear-hill-pond.html",
-				
-				"content_html": "<p>Bear Hill Pond a day after the polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bear Hill Pond a day after the polar vortex 📷\n\n<img src=\"uploads/2023/0a543cbc10.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-05T22:22:11-05:00",
-				"url": "https://www.7robots.org/2023/02/05/bear-hill-pond.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/06/yggdrasil.html",
-				"title": "Yggdrasil",
-				"content_html": "<p>“I know an ash, it is called Yggdrasil\nA hairy tree, moistened by a brilliant cloud.</p>\n<p>In the beginning was the tree. The stone ball rushed through emptiness. Under the crust was fire. Rocks boiled, gases seethed. Blebs burst through the crust. Dense salt water clung to the rolling ball. Slime slid on it and in the slime shapes shifted. Any point on a ball is the centre and the tree was at the centre. It held the world together, in the air, in the earth, in the light, in the dark, in the mind.”</p>\n<p>Excerpt From Ragnarok by A.S. Byatt  📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/7325e79ddc.jpg\" alt=\"Barnes and Noble image Ragnarok AS Byatt\" title=\"Barnes and Noble image Ragnarok AS Byatt\"></p>\n",
-				"content_text": "“I know an ash, it is called Yggdrasil\nA hairy tree, moistened by a brilliant cloud.\n\nIn the beginning was the tree. The stone ball rushed through emptiness. Under the crust was fire. Rocks boiled, gases seethed. Blebs burst through the crust. Dense salt water clung to the rolling ball. Slime slid on it and in the slime shapes shifted. Any point on a ball is the centre and the tree was at the centre. It held the world together, in the air, in the earth, in the light, in the dark, in the mind.”\n\nExcerpt From Ragnarok by A.S. Byatt  📚 💬\n\n![Barnes and Noble image Ragnarok AS Byatt](https://7robots.micro.blog/uploads/2024/7325e79ddc.jpg \"Barnes and Noble image Ragnarok AS Byatt\")\n",
-				"date_published": "2023-02-05T22:15:03-05:00",
-				"url": "https://www.7robots.org/2023/02/05/yggdrasil.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/05/currently-reading-icelandic.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781970125214\">Icelandic Folk Legends</a> by Alda Sigmundsdóttir 📚</p>\n",
-				"content_text": "Currently reading: [Icelandic Folk Legends](https://micro.blog/books/9781970125214) by Alda Sigmundsdóttir 📚\n",
-				"date_published": "2023-02-05T00:09:32-05:00",
-				"url": "https://www.7robots.org/2023/02/05/currently-reading-icelandic.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/04/where-were-you.html",
-				
-				"content_html": "<p>“Where were you when I laid the foundations of the earth? … When the morning stars sang together, and all the sons of God shouted for joy?”</p>\n<ul>\n<li>Job 38:4,7 📚 💬</li>\n<li>Also beautifully quoted in Terence Malick’s “The Tree of Life”</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/e2b177f6e0.jpg\" alt=\"screenshot Tree of Life filmstage.com\" title=\"screenshot Tree of Life filmstage.com\"></p>\n",
-				"content_text": "“Where were you when I laid the foundations of the earth? … When the morning stars sang together, and all the sons of God shouted for joy?”\n\n- Job 38:4,7 📚 💬\n- Also beautifully quoted in Terence Malick’s “The Tree of Life”\n  \n\n\n![screenshot Tree of Life filmstage.com](https://7robots.micro.blog/uploads/2024/e2b177f6e0.jpg \"screenshot Tree of Life filmstage.com\")\n\n",
-				"date_published": "2023-02-04T09:58:32-05:00",
-				"url": "https://www.7robots.org/2023/02/04/where-were-you.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/04/this-is-how.html",
-				
-				"content_html": "<p>This is how we roll during a polar vortex 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is how we roll during a polar vortex 📷\n\n<img src=\"uploads/2023/89aa2b6c20.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-04T09:52:55-05:00",
-				"url": "https://www.7robots.org/2023/02/04/this-is-how.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/03/currently-reading-surrender.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781328528520\">Surrender</a> by Ray Loriga 📚</p>\n",
-				"content_text": "Currently reading: [Surrender](https://micro.blog/books/9781328528520) by Ray Loriga 📚\n",
-				"date_published": "2023-02-03T10:14:47-05:00",
-				"url": "https://www.7robots.org/2023/02/03/currently-reading-surrender.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/03/boston.html",
-				
-				"content_html": "<p>Boston 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Boston 📷\n\n<img src=\"uploads/2023/5a741c063f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-02-03T10:10:36-05:00",
-				"url": "https://www.7robots.org/2023/02/03/boston.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/03/the-story-of.html",
-				"title": "The Story of Your Life",
-				"content_html": "<p>I would have liked to experience more of the heptapods’ worldview, to feel the way they feel. Then, perhaps I could immerse myself fully in the necessity of events, as they must, instead of merely wading in its surf for the rest of my life.</p>\n<p>from “Story of Your Life” by Ted Chiang 📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/3b0e5283ef.jpg\" alt=\"Pinterest image movie Arrival\" title=\"Pinterest image movie Arrival\"></p>\n",
-				"content_text": "I would have liked to experience more of the heptapods’ worldview, to feel the way they feel. Then, perhaps I could immerse myself fully in the necessity of events, as they must, instead of merely wading in its surf for the rest of my life.\n\nfrom “Story of Your Life” by Ted Chiang 📚 💬\n\n![Pinterest image movie Arrival](https://7robots.micro.blog/uploads/2024/3b0e5283ef.jpg \"Pinterest image movie Arrival\")\n\n",
-				"date_published": "2023-02-03T10:06:03-05:00",
-				"url": "https://www.7robots.org/2023/02/03/the-story-of.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/02/currently-reading-journey.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781329671317\">Journey to the Centre of the Earth</a> by Jules Verne 📚</p>\n",
-				"content_text": "Currently reading: [Journey to the Centre of the Earth](https://micro.blog/books/9781329671317) by Jules Verne 📚\n",
-				"date_published": "2023-02-02T18:06:55-05:00",
-				"url": "https://www.7robots.org/2023/02/02/currently-reading-journey.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/02/light-and-shadow.html",
-				
-				"content_html": "<p>Light and shadow 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Light and shadow 📷\n\n<img src=\"uploads/2023/cccc803615.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-02T11:38:26-05:00",
-				"url": "https://www.7robots.org/2023/02/02/light-and-shadow.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/02/let-us-dare.html",
-				"title": "Let us dare …",
-				"content_html": "<p>The source of our suffering has been our timidity. We have been afraid to think….Let us dare to read, think, speak, write.” - John Adams</p>\n<p>from John Adams by David McCullough  📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/5cb4df8d9b.jpg\" alt=\"Scribd image of McCullough book cover\" title=\"Scribd image of McCullough book cover\"></p>\n",
-				"content_text": "The source of our suffering has been our timidity. We have been afraid to think….Let us dare to read, think, speak, write.” - John Adams\n\nfrom John Adams by David McCullough  📚 💬\n\n![Scribd image of McCullough book cover](https://7robots.micro.blog/uploads/2024/5cb4df8d9b.jpg \"Scribd image of McCullough book cover\")\n",
-				"date_published": "2023-02-02T10:47:34-05:00",
-				"url": "https://www.7robots.org/2023/02/02/let-us-dare.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/01/091132.html",
-				
-				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/f377ef8665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-01T08:11:32-05:00",
-				"url": "https://www.7robots.org/2023/02/01/091132.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/02/01/how-do-you.html",
-				"title": "How do you aim a volcano?",
-				"content_html": "<p>“The population of Iceland is 1,000 times smaller than that of the United States. We do not hide behind our apparent lack of superpower status. What we lack in manpower, we make up in volcanoes. But we are still figuring out how to aim them.&quot;</p>\n<p>—Prime Minister Sigurdur Ingi Johannsson, speaking at a White House dinner for Nordic leaders in May 2016.</p>\n<p>From How Iceland Changed the World by Egill Bjarnason 📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/5f1ab66954.jpg\" alt=\"Getty image Iceland Volcano\" title=\"Getty image Iceland volcano\"></p>\n",
-				"content_text": "“The population of Iceland is 1,000 times smaller than that of the United States. We do not hide behind our apparent lack of superpower status. What we lack in manpower, we make up in volcanoes. But we are still figuring out how to aim them.\" \n\n—Prime Minister Sigurdur Ingi Johannsson, speaking at a White House dinner for Nordic leaders in May 2016.\n\nFrom How Iceland Changed the World by Egill Bjarnason 📚 💬\n\n![Getty image Iceland Volcano](https://7robots.micro.blog/uploads/2024/5f1ab66954.jpg \"Getty image Iceland volcano\")\n",
-				"date_published": "2023-02-01T08:05:53-05:00",
-				"url": "https://www.7robots.org/2023/02/01/how-do-you.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/31/wachusett-reservoir.html",
-				
-				"content_html": "<p>Wachusett Reservoir 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wachusett Reservoir 📷\n\n<img src=\"uploads/2023/cde261d5b8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-01-31T16:52:45-05:00",
-				"url": "https://www.7robots.org/2023/01/31/wachusett-reservoir.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/31/this-is-how.html",
-				"title": "This is how it was",
-				"content_html": "<p>There are things that happen and leave no discernible trace, are not spoken or written of, though it would be very wrong to say that subsequent events go on indifferently, all the same, as though such things had never been.</p>\n<p>Two people met, on a hot May Day, and never later mentioned their meeting. This is how it was.</p>\n<ul>\n<li>from A.S. Byatt, Possession  📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/7624723a27.jpg\" alt=\"Possession book cover from blog spot\" title=\"Possession book cover from blogspot\"></p>\n",
-				"content_text": "There are things that happen and leave no discernible trace, are not spoken or written of, though it would be very wrong to say that subsequent events go on indifferently, all the same, as though such things had never been.\n\nTwo people met, on a hot May Day, and never later mentioned their meeting. This is how it was.\n\n- from A.S. Byatt, Possession  📚 💬\n\n![Possession book cover from blog spot]( https://7robots.micro.blog/uploads/2024/7624723a27.jpg \"Possession book cover from blogspot\")\n\n",
-				"date_published": "2023-01-31T08:17:25-05:00",
-				"url": "https://www.7robots.org/2023/01/31/this-is-how.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/31/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781970125047\">The Little Book of the Hidden People</a> by Alda Sigmundsdottir 📚</p>\n",
-				"content_text": "Currently reading: [The Little Book of the Hidden People](https://micro.blog/books/9781970125047) by Alda Sigmundsdottir 📚\n",
-				"date_published": "2023-01-30T22:40:17-05:00",
-				"url": "https://www.7robots.org/2023/01/30/currently-reading-the.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/30/first-time-on.html",
-				
-				"content_html": "<p>First time on commuter rail since COVID 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First time on commuter rail since COVID 📷\n\n<img src=\"uploads/2023/2381511406.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-01-30T17:52:18-05:00",
-				"url": "https://www.7robots.org/2023/01/30/first-time-on.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/30/all-the-trees.html",
-				"title": "All the trees of the field shall clap their hands",
-				"content_html": "<p>&ldquo;For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.&rdquo;</p>\n<ul>\n<li>Isaiah 55:12  📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/99a61ee8db.jpg\" alt=\"pinterest photo\" title=\"All the trees of the field\"></p>\n",
-				"content_text": "\"For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.\"\n\n- Isaiah 55:12  📚 💬\n\n![pinterest photo](https://7robots.micro.blog/uploads/2024/99a61ee8db.jpg \"All the trees of the field\")\n",
-				"date_published": "2023-01-30T11:20:53-05:00",
-				"url": "https://www.7robots.org/2023/01/30/all-the-trees.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/29/currently-reading-q.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780385669443\">1Q84</a> by Haruki Murakami 📚</p>\n",
-				"content_text": "Currently reading: [1Q84](https://micro.blog/books/9780385669443) by Haruki Murakami 📚\n",
-				"date_published": "2023-01-29T09:11:50-05:00",
-				"url": "https://www.7robots.org/2023/01/29/currently-reading-q.html"
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/29/100225.html",
-				
-				"content_html": "<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷\n\n<img src=\"uploads/2023/771baf553c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-01-29T09:02:25-05:00",
-				"url": "https://www.7robots.org/2023/01/29/100225.html",
-				"tags": ["pix"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/29/the-waves.html",
-				"title": "The Waves",
-				"content_html": "<p>Yes, but suddenly one hears a clock tick, We who had been immersed in this world became aware of another. It is pain- ful. It was Neville who changed our time. He who had been thinking with the unlimited time of the mind, which stretches in a flash from Shakespeare to ourselves, poked the fire and began to live by that other clock which marks the approach of a particular person. The wide and dignified sweep of his mind contracted. He became on the alert… . I noted how he touched a cushion. From the myriads of mankind and all time past, he had chosen one person one moment in particular.</p>\n<ul>\n<li>from The Waves by Virginia Woolf 📚💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/3a85a2e6ca.jpg\" alt=\"The Waves - goodreads\"></p>\n",
-				"content_text": "Yes, but suddenly one hears a clock tick, We who had been immersed in this world became aware of another. It is pain- ful. It was Neville who changed our time. He who had been thinking with the unlimited time of the mind, which stretches in a flash from Shakespeare to ourselves, poked the fire and began to live by that other clock which marks the approach of a particular person. The wide and dignified sweep of his mind contracted. He became on the alert… . I noted how he touched a cushion. From the myriads of mankind and all time past, he had chosen one person one moment in particular.\n\n- from The Waves by Virginia Woolf 📚💬\n\n![The Waves - goodreads](https://7robots.micro.blog/uploads/2024/3a85a2e6ca.jpg)\n",
-				"date_published": "2023-01-29T00:43:26-05:00",
-				"url": "https://www.7robots.org/2023/01/29/the-waves.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/29/these-things-are.html",
-				"title": "These things are there",
-				"content_html": "<p>These things are there. The garden and the tree</p>\n<p>The serpent at its root, the fruit of gold</p>\n<p>The woman in the shadow of the boughs</p>\n<p>The running water and the grassy space.</p>\n<p>They are and were there.</p>\n<ul>\n<li>from A.S. Byatt, Possession 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/ecb352edc4.jpg\" alt=\"Possession book cover from blog spot\" title=\"Possession book cover from blogspot\"></p>\n",
-				"content_text": "These things are there. The garden and the tree\n\nThe serpent at its root, the fruit of gold\n\nThe woman in the shadow of the boughs\n\nThe running water and the grassy space.\n\nThey are and were there.\n\n- from A.S. Byatt, Possession 📚 💬\n\n![Possession book cover from blog spot]( https://7robots.micro.blog/uploads/2024/ecb352edc4.jpg \"Possession book cover from blogspot\")\n",
-				"date_published": "2023-01-28T19:38:04-05:00",
-				"url": "https://www.7robots.org/2023/01/28/these-things-are.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/28/the-smell-of.html",
-				"title": "The smell of the aftermath",
-				"content_html": "<p>In the morning, the whole world had a strange new smell. It was the smell of the aftermath, a green smell, a smell of shredded leaves and oozing resin, of crushed wood and splashed sap, a tart smell, which bore some relation to the smell of bitten apples. It was the smell of death and destruction and it smelled fresh and lively and hopeful.</p>\n<ul>\n<li>from A.S. Byatt, Possession 📚 💬</li>\n</ul>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/3abe521a8d.jpg\" alt=\"Possession book cover from blog spot\" title=\"Possession book cover from blogspot\"></p>\n",
-				"content_text": "In the morning, the whole world had a strange new smell. It was the smell of the aftermath, a green smell, a smell of shredded leaves and oozing resin, of crushed wood and splashed sap, a tart smell, which bore some relation to the smell of bitten apples. It was the smell of death and destruction and it smelled fresh and lively and hopeful.\n\n- from A.S. Byatt, Possession 📚 💬\n\n ![Possession book cover from blog spot]( https://7robots.micro.blog/uploads/2024/3abe521a8d.jpg \"Possession book cover from blogspot\")\n",
-				"date_published": "2023-01-27T23:42:00-05:00",
-				"url": "https://www.7robots.org/2023/01/28/the-smell-of.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2023/01/26/q.html",
-				"title": "1Q84",
-				"content_html": "<p>He was suddenly aware of someone sitting beside him, holding his right hand. LIke a small creature seeking warmth, a hand slipped inside the pocket of his leather jacket and clasped his large hand. By the time he became fully aware, it had already happened. Without any preface, the situation had jumped to the next stage. How strange, Tengo thought, his eyes still closed. How did this happen? At one point time was flowing along so slowly that he could barely stand it. Then suddenly it had leapt ahead, skipping whatever lay between.</p>\n<p>This person help his big hand even tighter, as if to make sure he was really there. Long smooth fingers, with an underlying strength.</p>\n<p>Aomame. But he didn’t say it aloud. He didn’t open his eyes. He just squeezed her hand in return. He remembered this hand. Never once in twenty years had he forgotten the feeling. Of course, it was no longer the tiny hand of a ten-year-old girl. Over the past twenty years her hand touched many things. It had clasped untold numbers of objects in every possible shape. And the strength within it had grown. Yet Tengo knew right away: this was the very same hand. The way it squeezed his own hand and the feeling it was trying to convey were exactly the same.</p>\n<p>an excerpt from 1Q84 by Haruki Murakami 📚 💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/8fd9705b10.jpg\" alt=\"1Q84\" title=\"1Q84\"></p>\n",
-				"content_text": "He was suddenly aware of someone sitting beside him, holding his right hand. LIke a small creature seeking warmth, a hand slipped inside the pocket of his leather jacket and clasped his large hand. By the time he became fully aware, it had already happened. Without any preface, the situation had jumped to the next stage. How strange, Tengo thought, his eyes still closed. How did this happen? At one point time was flowing along so slowly that he could barely stand it. Then suddenly it had leapt ahead, skipping whatever lay between.\n\nThis person help his big hand even tighter, as if to make sure he was really there. Long smooth fingers, with an underlying strength.\n\nAomame. But he didn’t say it aloud. He didn’t open his eyes. He just squeezed her hand in return. He remembered this hand. Never once in twenty years had he forgotten the feeling. Of course, it was no longer the tiny hand of a ten-year-old girl. Over the past twenty years her hand touched many things. It had clasped untold numbers of objects in every possible shape. And the strength within it had grown. Yet Tengo knew right away: this was the very same hand. The way it squeezed his own hand and the feeling it was trying to convey were exactly the same.\n\nan excerpt from 1Q84 by Haruki Murakami 📚 💬\n\n\n\n![1Q84](https://7robots.micro.blog/uploads/2024/8fd9705b10.jpg \"1Q84\")\n",
-				"date_published": "2023-01-26T13:43:10-05:00",
-				"url": "https://www.7robots.org/2023/01/26/q.html",
-				"tags": ["Commonplace"]
-			},
-			{
-				"id": "http://7robots.micro.blog/2022/11/09/ive-made-my.html",
-				"title": "I've made my mind a sunless space",
-				"content_html": "<p>Lonni:</p>\n<p>And what do you sacrifice?</p>\n<p>Luthen:</p>\n<p>Calm. Kindness, kinship. Love. I’ve given up all chance at inner peace, I’ve made my mind a sunless space. I share my dreams with ghosts. I wake up every day to an equation I wrote 15 years ago from which there’s only one conclusion: I’m damned for what I do. My anger, my ego, my unwillingness to yield, my eagerness to fight, they’ve set me on a path from which there is no escape. I yearned to be a savior against injustice without contemplating the cost, and by the time I looked down, there was no longer any ground beneath my feet.</p>\n<p>What is&hellip; what is my sacrifice? I’m condemned to use the tools of my enemy to defeat them. I burn my decency for someone else’s future. I burn my life, to make a sunrise that I know I’ll never see. No, the ego that started this fight will never have a mirror, or an audience, or the light of gratitude. So what do I sacrifice?</p>\n<p>Everything!  💬</p>\n<p><img src=\"https://7robots.micro.blog/uploads/2024/7c5b2f7a95.jpg\" alt=\"Luthen Rael\" title=\"Luthen Rael\"></p>\n",
-				"content_text": "Lonni: \n\nAnd what do you sacrifice?\n\nLuthen:\n\nCalm. Kindness, kinship. Love. I’ve given up all chance at inner peace, I’ve made my mind a sunless space. I share my dreams with ghosts. I wake up every day to an equation I wrote 15 years ago from which there’s only one conclusion: I’m damned for what I do. My anger, my ego, my unwillingness to yield, my eagerness to fight, they’ve set me on a path from which there is no escape. I yearned to be a savior against injustice without contemplating the cost, and by the time I looked down, there was no longer any ground beneath my feet.\n\nWhat is... what is my sacrifice? I’m condemned to use the tools of my enemy to defeat them. I burn my decency for someone else’s future. I burn my life, to make a sunrise that I know I’ll never see. No, the ego that started this fight will never have a mirror, or an audience, or the light of gratitude. So what do I sacrifice?\n\nEverything!  💬\n\n![Luthen Rael](https://7robots.micro.blog/uploads/2024/7c5b2f7a95.jpg \"Luthen Rael\")\n",
-				"date_published": "2022-11-09T00:30:00-05:00",
-				"url": "https://www.7robots.org/2022/11/09/ive-made-my.html",
 				"tags": ["Commonplace"]
 			}
 	]
