@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2025/04/12/in-new-england-theres-always.html",
+				
+				"content_html": "<p>In New England, there’s always “one last snowfall” in April.</p>\n<p><img src=\"https://www.7robots.org/uploads/2025/image-20250412-083924-4ade56fe.jpg\" alt=\"\"></p>\n<p><img src=\"https://www.7robots.org/uploads/2025/image-20250412-083941-8fb67029.jpg\" alt=\"\"></p>\n",
+				"content_text": "In New England, there’s always “one last snowfall” in April.\n\n\n![](https://www.7robots.org/uploads/2025/image-20250412-083924-4ade56fe.jpg)\n\n![](https://www.7robots.org/uploads/2025/image-20250412-083941-8fb67029.jpg)\n",
+				"date_published": "2025-04-12T08:39:56-04:00",
+				"url": "https://www.7robots.org/2025/04/12/in-new-england-theres-always.html",
+				"tags": ["pix","Where I live"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/04/08/finished-reading-the-mastery-of.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781934408032\">The Mastery of Love</a> by Don Miguel Ruiz, Janet Mills 📚\n3 stars</p>\n",
+				"content_text": "Finished reading: [The Mastery of Love](https://micro.blog/books/9781934408032) by Don Miguel Ruiz, Janet Mills 📚\n3 stars\n",
+				"date_published": "2025-04-08T19:42:30-04:00",
+				"url": "https://www.7robots.org/2025/04/08/finished-reading-the-mastery-of.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2025/04/04/finished-reading-all-fours-by.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593190289\">All Fours</a> by Miranda July 📚\n3 stars</p>\n",
