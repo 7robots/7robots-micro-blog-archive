@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2025/05/12/finished-reading-the-listeners-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781585868049\">The Listeners</a> by James Gunn 📚\n3.5 stars</p>\n",
+				"content_text": "Finished reading: [The Listeners](https://micro.blog/books/9781585868049) by James Gunn 📚\n3.5 stars\n",
+				"date_published": "2025-05-12T20:10:39-04:00",
+				"url": "https://www.7robots.org/2025/05/12/finished-reading-the-listeners-by.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/05/08/finished-reading-all-my-sins.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781497692411\">All My Sins Remembered</a> by Joe Haldeman 📚\n3 stars</p>\n",
+				"content_text": "Finished reading: [All My Sins Remembered](https://micro.blog/books/9781497692411) by Joe Haldeman 📚\n3 stars\n",
+				"date_published": "2025-05-08T20:39:51-04:00",
+				"url": "https://www.7robots.org/2025/05/08/finished-reading-all-my-sins.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/05/08/finished-reading-chasing-eden-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780872333505\">Chasing Eden</a> by Howard Mansfield 📚\n3 stars</p>\n",
+				"content_text": "Finished reading: [Chasing Eden](https://micro.blog/books/9780872333505) by Howard Mansfield 📚\n3 stars\n",
+				"date_published": "2025-05-08T20:38:23-04:00",
+				"url": "https://www.7robots.org/2025/05/08/finished-reading-chasing-eden-by.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/05/05/finished-reading-the-fermata-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307807496\">The Fermata</a> by Nicholson Baker 📚\n2 stars</p>\n",
+				"content_text": "Finished reading: [The Fermata](https://micro.blog/books/9780307807496) by Nicholson Baker 📚\n2 stars\n",
+				"date_published": "2025-05-05T18:57:10-04:00",
+				"url": "https://www.7robots.org/2025/05/05/finished-reading-the-fermata-by.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2025/05/03/finished-reading-how-to-be.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780544938328\">How to be a Good Creature</a> by Sy Montgomery 📚\n3 stars</p>\n",
