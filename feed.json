@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2025/06/02/day-microblog-photo-challenge.html",
+				"title": "Day 1 micro.blog photo challenge",
+				"content_html": "<p>📷 tree</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 tree\n\n<img src=\"uploads/2025/img-3567.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-02T11:54:33-04:00",
+				"url": "https://www.7robots.org/2025/06/02/day-microblog-photo-challenge.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/05/31/finished-reading-stone-by-stone.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780802776877\">Stone by Stone</a> by Robert Thorson 📚</p>\n<p>3.5 stars I rather liked this book with its mix of deep time, geology, and New England history.</p>\n<p>Then again, I am pretty much the target audience for this particular book: living amongst those precise stone walls that the author describes and also having a life-long interest in history and natural history. I don’t know much broad appeal the book might have. 🤷‍♂️</p>\n",
+				"content_text": "Finished reading: [Stone by Stone](https://micro.blog/books/9780802776877) by Robert Thorson 📚\n\n3.5 stars I rather liked this book with its mix of deep time, geology, and New England history. \n\nThen again, I am pretty much the target audience for this particular book: living amongst those precise stone walls that the author describes and also having a life-long interest in history and natural history. I don’t know much broad appeal the book might have. 🤷‍♂️\n",
+				"date_published": "2025-05-31T11:34:20-04:00",
+				"url": "https://www.7robots.org/2025/05/31/finished-reading-stone-by-stone.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/05/29/finished-reading-imperial-earth-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780743459020\">Imperial Earth</a> by Arthur Charles Clarke 📚\n3.5 stars. One of Clarke’s better novels.</p>\n",
+				"content_text": "Finished reading: [Imperial Earth](https://micro.blog/books/9780743459020) by Arthur Charles Clarke 📚\n3.5 stars. One of Clarke’s better novels.\n",
+				"date_published": "2025-05-29T22:34:46-04:00",
+				"url": "https://www.7robots.org/2025/05/29/finished-reading-imperial-earth-by.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/05/27/finished-reading-perdido-street-station.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780345464521\">Perdido Street Station</a> by China Miéville 📚\n5 stars. A re-read. The very best in weird fiction.</p>\n",
+				"content_text": "Finished reading: [Perdido Street Station](https://micro.blog/books/9780345464521) by China Miéville 📚\n5 stars. A re-read. The very best in weird fiction.\n",
+				"date_published": "2025-05-27T20:16:50-04:00",
+				"url": "https://www.7robots.org/2025/05/27/finished-reading-perdido-street-station.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2025/05/15/finished-reading-the-pisces-by.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781524761561\">The Pisces</a> by Melissa Broder 📚\n3 stars</p>\n",
