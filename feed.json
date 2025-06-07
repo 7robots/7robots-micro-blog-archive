@@ -7,6 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2025/06/07/microblog-photo-challenge-day-switch.html",
+				
+				"content_html": "<p>📷 micro.blog photo challenge day 7: switch</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 micro.blog photo challenge day 7: switch\n\n<img src=\"uploads/2025/0d6bbfc399.jpg\" width=\"600\" height=\"550\" alt=\"\">\n",
+				"date_published": "2025-06-07T12:36:35-04:00",
+				"url": "https://www.7robots.org/2025/06/07/microblog-photo-challenge-day-switch.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/06/micro-blog-photo-challenge-day.html",
+				"title": "Micro Blog Photo Challenge Day 6",
+				"content_html": "<p>📷 Micro Blog Photo Challenge Day 6: Contrast</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Micro Blog Photo Challenge Day 6: Contrast\r\n\r\n<img src=\"uploads/2025/img-1985-1.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2025-06-06T15:47:58-04:00",
+				"url": "https://www.7robots.org/2025/06/06/micro-blog-photo-challenge-day.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/05/finished-reading-milk-fed-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781408897119\">Milk Fed</a> by Melissa Broder 📚\n3 stars</p>\n",
+				"content_text": "Finished reading: [Milk Fed](https://micro.blog/books/9781408897119) by Melissa Broder 📚\n3 stars\n",
+				"date_published": "2025-06-05T15:52:51-04:00",
+				"url": "https://www.7robots.org/2025/06/05/finished-reading-milk-fed-by.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/05/micro-blog-photo-challenge-day.html",
+				"title": "Micro Blog Photo Challenge Day 5: reflection",
+				"content_html": "<p>📷 Micro Blog Photo Challenge Day 5: reflection</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Micro Blog Photo Challenge Day 5: reflection\n\n<img src=\"uploads/2025/img-2454.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-05T10:09:26-04:00",
+				"url": "https://www.7robots.org/2025/06/05/micro-blog-photo-challenge-day.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/04/finished-reading-harrow-the-ninth.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250313201\">Harrow the Ninth (The Locked Tomb Trilogy Book 2)</a> by Tamsyn Muir 📚</p>\n<p>2 stars. I really enjoyed the first book. This one … not so much.</p>\n",
+				"content_text": "Finished reading: [Harrow the Ninth (The Locked Tomb Trilogy Book 2)](https://micro.blog/books/9781250313201) by Tamsyn Muir 📚\n\n2 stars. I really enjoyed the first book. This one … not so much.\n",
+				"date_published": "2025-06-04T17:01:45-04:00",
+				"url": "https://www.7robots.org/2025/06/04/finished-reading-harrow-the-ninth.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/04/micro-blog-photo-challenge-day.html",
+				
+				"content_html": "<p>📷 Micro Blog Photo Challenge Day 4: Nostalgia</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Micro Blog Photo Challenge Day 4: Nostalgia\r\n\r\n\n\n<img src=\"uploads/2025/img-2234.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-04T11:42:20-04:00",
+				"url": "https://www.7robots.org/2025/06/04/micro-blog-photo-challenge-day.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/03/day-microblog-photo-challenge.html",
+				"title": "Day 3 micro.blog photo challenge",
+				"content_html": "<p>📷 shadow</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 shadow\n\n<img src=\"uploads/2025/img-3031.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-03T09:28:05-04:00",
+				"url": "https://www.7robots.org/2025/06/03/day-microblog-photo-challenge.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/02/133243.html",
+				"title": "Day 2 micro.blog photo challenge",
+				"content_html": "<p>📷 curve</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 curve\r\n\r\n\r\n\n\n<img src=\"uploads/2025/img-1054.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-02T13:32:43-04:00",
+				"url": "https://www.7robots.org/2025/06/02/133243.html",
+				"tags": ["pix"]
+			},
+			{
 				"id": "http://7robots.micro.blog/2025/06/02/day-microblog-photo-challenge.html",
 				"title": "Day 1 micro.blog photo challenge",
 				"content_html": "<p>📷 tree</p>\n<!-- raw HTML omitted -->\n",
@@ -278,7 +346,7 @@
 				"id": "http://7robots.micro.blog/2025/01/19/if-you-hike-to-the.html",
 				"title": "Holy Hill: The Lord’s Stone",
 				"content_html": "<p>If you hike to the “top” of Holy Hill, you will find a carved granite slot that clearly used to hold an upright stone marker in it.</p>\n<p>It’s still there today, even after all these years. It last served its purpose in 1853.</p>\n<p><a href=\"https://living-in-harvard.7robots.org/Places/Lords%20Stone.html\">living-in-harvard.7robots.org/Places/Lo&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you hike to the “top” of Holy Hill, you will find a carved granite slot that clearly used to hold an upright stone marker in it.\n\nIt’s still there today, even after all these years. It last served its purpose in 1853.\n\n[living-in-harvard.7robots.org/Places/Lo...](https://living-in-harvard.7robots.org/Places/Lords%20Stone.html)\n\n\n\n<img src=\"https://www.7robots.org/uploads/2025/img-6011.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "If you hike to the “top” of Holy Hill, you will find a carved granite slot that clearly used to hold an upright stone marker in it.\n\nIt’s still there today, even after all these years. It last served its purpose in 1853.\n\n[living-in-harvard.7robots.org/Places/Lo...](https://living-in-harvard.7robots.org/Places/Lords%20Stone.html)\n\n\n\n<img src=\"uploads/2025/img-6011.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-19T22:09:25-04:00",
 				"url": "https://www.7robots.org/2025/01/19/if-you-hike-to-the.html",
 				"tags": ["Where I live"]
@@ -287,7 +355,7 @@
 				"id": "http://7robots.micro.blog/2025/01/17/harvards-holy-hill-was-cleared.html",
 				"title": "Holy Hill construction journals",
 				"content_html": "<p>Harvard&rsquo;s Holy Hill was cleared and built by the Shakers over the course of 1842 and 1843. Preserved journals capture some of the steps they took for the construction.</p>\n<p><a href=\"https://living-in-harvard.7robots.org/Places/Holy%20Hill%20Construction%20Journals.html\">living-in-harvard.7robots.org/Places/Ho&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Harvard's Holy Hill was cleared and built by the Shakers over the course of 1842 and 1843. Preserved journals capture some of the steps they took for the construction.\n\n[living-in-harvard.7robots.org/Places/Ho...](https://living-in-harvard.7robots.org/Places/Holy%20Hill%20Construction%20Journals.html)\n\n\n\n<img src=\"https://www.7robots.org/uploads/2025/hh02.jpg\" width=\"600\" height=\"401\" alt=\"\">\n",
+				"content_text": "Harvard's Holy Hill was cleared and built by the Shakers over the course of 1842 and 1843. Preserved journals capture some of the steps they took for the construction.\n\n[living-in-harvard.7robots.org/Places/Ho...](https://living-in-harvard.7robots.org/Places/Holy%20Hill%20Construction%20Journals.html)\n\n\n\n<img src=\"uploads/2025/hh02.jpg\" width=\"600\" height=\"401\" alt=\"\">\n",
 				"date_published": "2025-01-17T15:58:24-04:00",
 				"url": "https://www.7robots.org/2025/01/17/harvards-holy-hill-was-cleared.html",
 				"tags": ["Where I live"]
@@ -296,7 +364,7 @@
 				"id": "http://7robots.micro.blog/2025/01/15/holy-hill.html",
 				"title": "Holy Hill",
 				"content_html": "<p>Every day, I start out the day hiking the trails near my house. I started the habit at the beginning of COVID - a way to continue to get exercise and to both ground and refresh myself in nature. I rarely skip that walk &ndash; usually just when I&rsquo;m sick.</p>\n<p>The primary trail I typically walk on is called &ldquo;Holy Hill&rdquo; - a key location on the path being an old Shaker outdoor worship area in the 1840&rsquo;s.</p>\n<p>It is fitting, then, that my first entry in my &ldquo;Where I live&rdquo; series is about the Holy Hill trail.</p>\n<p><a href=\"https://living-in-harvard.7robots.org/Places/Holy%20Hill.html\">living-in-harvard.7robots.org/Places/Ho&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every day, I start out the day hiking the trails near my house. I started the habit at the beginning of COVID - a way to continue to get exercise and to both ground and refresh myself in nature. I rarely skip that walk -- usually just when I'm sick.\r\n\r\nThe primary trail I typically walk on is called \"Holy Hill\" - a key location on the path being an old Shaker outdoor worship area in the 1840's.\r\n\r\n\r\nIt is fitting, then, that my first entry in my \"Where I live\" series is about the Holy Hill trail.\r\n\r\n[living-in-harvard.7robots.org/Places/Ho...](https://living-in-harvard.7robots.org/Places/Holy%20Hill.html)\n\n<img src=\"https://www.7robots.org/uploads/2025/img-3365.png\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Every day, I start out the day hiking the trails near my house. I started the habit at the beginning of COVID - a way to continue to get exercise and to both ground and refresh myself in nature. I rarely skip that walk -- usually just when I'm sick.\r\n\r\nThe primary trail I typically walk on is called \"Holy Hill\" - a key location on the path being an old Shaker outdoor worship area in the 1840's.\r\n\r\n\r\nIt is fitting, then, that my first entry in my \"Where I live\" series is about the Holy Hill trail.\r\n\r\n[living-in-harvard.7robots.org/Places/Ho...](https://living-in-harvard.7robots.org/Places/Holy%20Hill.html)\n\n<img src=\"uploads/2025/img-3365.png\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-01-15T20:59:32-04:00",
 				"url": "https://www.7robots.org/2025/01/15/holy-hill.html",
 				"tags": ["Where I live"]
@@ -354,7 +422,7 @@
 				"id": "http://7robots.micro.blog/2024/11/28/first-fire-of.html",
 				
 				"content_html": "<p>First fire of the season in the wood stove!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First fire of the season in the wood stove!\n\n\n<img src=\"https://www.7robots.org/uploads/2024/1d58b433c9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "First fire of the season in the wood stove!\n\n\n<img src=\"uploads/2024/1d58b433c9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-28T12:10:22-04:00",
 				"url": "https://www.7robots.org/2024/11/28/first-fire-of.html"
 			},
@@ -487,7 +555,7 @@
 				"id": "http://7robots.micro.blog/2024/10/20/autumn-scenes-in.html",
 				"title": "Autumn scenes in Harvard, MA",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://www.7robots.org/uploads/2024/b9d4505e-2de5-45c0-84e7-b39e9a7a35d3.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Bright autumn foliage in a forest under a clear blue sky.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/a6a159a4-bba4-4794-8aa9-9efb986ccb2c.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A red apple covered with water droplets hangs from a tree surrounded by green leaves.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/2a14d9d8-b7df-4071-9dd0-175fc9cc8d77.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A lush apple orchard with trees bearing ripe red apples stands under a clear sky, surrounded by vibrant autumn foliage.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/264a6f02-f4cd-4006-9ce1-6f5a6f61ceaa.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A rural scene featuring a couple of houses surrounded by trees with autumn foliage, a grassy field, and a wooden fence under a clear blue sky.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/cf4548f7-e68b-4105-8ede-7ed7a3321b5e.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A forest path is surrounded by trees with vibrant yellow leaves under a clear blue sky.\">\r\n\r\n<img src=\"https://www.7robots.org/uploads/2024/9691c69e-77f0-4cb3-af62-013d65cec1bf.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A serene forest pathway is surrounded by trees with vibrant yellow and orange autumn leaves under a clear blue sky.\">\n",
+				"content_text": "<img src=\"uploads/2024/b9d4505e-2de5-45c0-84e7-b39e9a7a35d3.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: Bright autumn foliage in a forest under a clear blue sky.\">\r\n\r\n<img src=\"uploads/2024/a6a159a4-bba4-4794-8aa9-9efb986ccb2c.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A red apple covered with water droplets hangs from a tree surrounded by green leaves.\">\r\n\r\n<img src=\"uploads/2024/2a14d9d8-b7df-4071-9dd0-175fc9cc8d77.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A lush apple orchard with trees bearing ripe red apples stands under a clear sky, surrounded by vibrant autumn foliage.\">\r\n\r\n<img src=\"uploads/2024/264a6f02-f4cd-4006-9ce1-6f5a6f61ceaa.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A rural scene featuring a couple of houses surrounded by trees with autumn foliage, a grassy field, and a wooden fence under a clear blue sky.\">\r\n\r\n<img src=\"uploads/2024/cf4548f7-e68b-4105-8ede-7ed7a3321b5e.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A forest path is surrounded by trees with vibrant yellow leaves under a clear blue sky.\">\r\n\r\n<img src=\"uploads/2024/9691c69e-77f0-4cb3-af62-013d65cec1bf.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A serene forest pathway is surrounded by trees with vibrant yellow and orange autumn leaves under a clear blue sky.\">\n",
 				"date_published": "2024-10-20T14:59:24-04:00",
 				"url": "https://www.7robots.org/2024/10/20/autumn-scenes-in.html",
 				"tags": ["pix"]
@@ -529,7 +597,7 @@
 				"id": "http://7robots.micro.blog/2024/10/10/tonights-aurora-as.html",
 				
 				"content_html": "<p>Tonight’s aurora as seen from central MA</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Tonight’s aurora as seen from central MA\n\n<img src=\"https://www.7robots.org/uploads/2024/2537a6245a9c446cbdfae8ec560647d3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/5bd999cd8de7488eb66c47a2eb7b0996.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/21a5271f09624393abd77e1562aaaa35.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/ea5dc15d371f42989b7077ce87557078.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/70be47ac7a3d45b4852fc19d34e62f5c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Tonight’s aurora as seen from central MA\n\n<img src=\"uploads/2024/2537a6245a9c446cbdfae8ec560647d3.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/5bd999cd8de7488eb66c47a2eb7b0996.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/21a5271f09624393abd77e1562aaaa35.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/ea5dc15d371f42989b7077ce87557078.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/70be47ac7a3d45b4852fc19d34e62f5c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-10T21:44:14-04:00",
 				"url": "https://www.7robots.org/2024/10/10/tonights-aurora-as.html"
 			},
@@ -631,7 +699,7 @@
 				"id": "http://7robots.micro.blog/2024/08/17/lots-of-mushrooms.html",
 				
 				"content_html": "<p>Lots of mushrooms on the trails this morning</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lots of mushrooms on the trails this morning \n\n<img src=\"https://www.7robots.org/uploads/2024/28f877fe08714702a78aed9a93e686d5.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/b631e704013942f383582499fd00a455.jpg\" width=\"600\" height=\"531\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/da52ff3753844646ae034d18e0a97233.jpg\" width=\"600\" height=\"438\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/46b46571599b446db62cd6a765b6e347.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/f7699a26ad2f45ca9acb1034ef36ec4d.jpg\" width=\"600\" height=\"483\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/fd51f9401a3d465c92edc375e7884949.jpg\" width=\"600\" height=\"590\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/ec3acc7aa31b4f8b9958129ecf05f0c0.jpg\" width=\"600\" height=\"564\" alt=\"\">\n",
+				"content_text": "Lots of mushrooms on the trails this morning \n\n<img src=\"uploads/2024/28f877fe08714702a78aed9a93e686d5.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/b631e704013942f383582499fd00a455.jpg\" width=\"600\" height=\"531\" alt=\"\"><img src=\"uploads/2024/da52ff3753844646ae034d18e0a97233.jpg\" width=\"600\" height=\"438\" alt=\"\"><img src=\"uploads/2024/46b46571599b446db62cd6a765b6e347.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/f7699a26ad2f45ca9acb1034ef36ec4d.jpg\" width=\"600\" height=\"483\" alt=\"\"><img src=\"uploads/2024/fd51f9401a3d465c92edc375e7884949.jpg\" width=\"600\" height=\"590\" alt=\"\"><img src=\"uploads/2024/ec3acc7aa31b4f8b9958129ecf05f0c0.jpg\" width=\"600\" height=\"564\" alt=\"\">\n",
 				"date_published": "2024-08-17T16:46:13-04:00",
 				"url": "https://www.7robots.org/2024/08/17/lots-of-mushrooms.html",
 				"tags": ["pix"]
@@ -699,7 +767,7 @@
 				"id": "http://7robots.micro.blog/2024/07/27/our-time-is.html",
 				"title": "Our time is up",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<h1>Our time is up</h1>\n\n<p>I think our time is up.</p>\n\n<p>I know. Hold my hand.</p>\n\n<p>Hold your hand?</p>\n\n<p>Yes. I want you to.</p>\n\n<p>All right. Why?</p>\n\n<p>Because that’s what people do when they’re waiting for the end of something.</p>\n\n<p>Excerpt from Stella Maris by Cormac McCarthy</p>\n📚 💬\n\n\n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "<h1>Our time is up</h1>\n\n<p>I think our time is up.</p>\n\n<p>I know. Hold my hand.</p>\n\n<p>Hold your hand?</p>\n\n<p>Yes. I want you to.</p>\n\n<p>All right. Why?</p>\n\n<p>Because that’s what people do when they’re waiting for the end of something.</p>\n\n<p>Excerpt from Stella Maris by Cormac McCarthy</p>\n📚 💬\n\n\n\n\n\n<img src=\"uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-27T07:00:00-04:00",
 				"url": "https://www.7robots.org/2024/07/27/our-time-is.html",
 				"tags": ["Commonplace"]
@@ -726,7 +794,7 @@
 				"id": "http://7robots.micro.blog/2024/07/22/astronomy-photo-the.html",
 				"title": "Astronomy Photo: The Sun",
 				"content_html": "<h1 id=\"sun\">Sun</h1>\n<h2 id=\"my-observations\">My Observations:</h2>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Taken: 21 July 2024 at 6:07 PM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<p>From our perspective on Earth, the Sun may seem like a constant, unchanging source of light and warmth in the sky. However, the Sun is actually a dynamic and ever-evolving star, continually emitting energy into space. The scientific study of the Sun and its impact on the solar system is known as heliophysics.</p>\n<p>As the largest object in our solar system, the Sun boasts a diameter of approximately 865,000 miles (1.4 million kilometers). Its immense gravity is what binds the solar system together, maintaining the orbits of everything from the largest planets to the tiniest pieces of debris.</p>\n<p>Despite being the focal point of our solar system and crucial for our existence, the Sun is merely an average star in terms of size. There are stars that are up to 100 times larger, and many other solar systems host multiple stars. By examining our Sun, scientists gain valuable insights into the functioning of distant stars.</p>\n<p>The Sun’s core is its hottest region, with temperatures soaring above 27 million °F (15 million °C). The surface, known as the photosphere, is cooler in comparison, with temperatures around 10,000 °F (5,500 °C). Interestingly, one of the Sun’s great mysteries is its outer atmosphere, the corona, which becomes hotter with distance from the surface. The corona can reach temperatures up to 3.5 million °F (2 million °C), significantly hotter than the photosphere.[^ChatGPT summary of NASA Facts page]</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/sun\">The Sun - NASA Science</a></p>\n<h2 id=\"nasa-image-gallery-of-sun\">NASA Image Gallery of Sun:</h2>\n<p><a href=\"https://science.nasa.gov/gallery/the-sun/\">NASA Image Gallery of Sun</a></p>\n",
-				"content_text": "# Sun\n\n## My Observations:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240721-220721.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240721-220801.jpeg\" width=\"600\" height=\"322\" alt=\"\">\n\nTaken: 21 July 2024 at 6:07 PM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\nFrom our perspective on Earth, the Sun may seem like a constant, unchanging source of light and warmth in the sky. However, the Sun is actually a dynamic and ever-evolving star, continually emitting energy into space. The scientific study of the Sun and its impact on the solar system is known as heliophysics.\n\nAs the largest object in our solar system, the Sun boasts a diameter of approximately 865,000 miles (1.4 million kilometers). Its immense gravity is what binds the solar system together, maintaining the orbits of everything from the largest planets to the tiniest pieces of debris.\n\nDespite being the focal point of our solar system and crucial for our existence, the Sun is merely an average star in terms of size. There are stars that are up to 100 times larger, and many other solar systems host multiple stars. By examining our Sun, scientists gain valuable insights into the functioning of distant stars.\n\nThe Sun’s core is its hottest region, with temperatures soaring above 27 million °F (15 million °C). The surface, known as the photosphere, is cooler in comparison, with temperatures around 10,000 °F (5,500 °C). Interestingly, one of the Sun’s great mysteries is its outer atmosphere, the corona, which becomes hotter with distance from the surface. The corona can reach temperatures up to 3.5 million °F (2 million °C), significantly hotter than the photosphere.[^ChatGPT summary of NASA Facts page]\n\n\n## Additional Details from NASA:\n\n[The Sun - NASA Science](https://science.nasa.gov/sun)\n\n## NASA Image Gallery of Sun:\n\n[NASA Image Gallery of Sun](https://science.nasa.gov/gallery/the-sun/)\n",
+				"content_text": "# Sun\n\n## My Observations:\n\n<img src=\"uploads/2024/equinox2-20240721-220721.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"uploads/2024/equinox2-20240721-220801.jpeg\" width=\"600\" height=\"322\" alt=\"\">\n\nTaken: 21 July 2024 at 6:07 PM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\nFrom our perspective on Earth, the Sun may seem like a constant, unchanging source of light and warmth in the sky. However, the Sun is actually a dynamic and ever-evolving star, continually emitting energy into space. The scientific study of the Sun and its impact on the solar system is known as heliophysics.\n\nAs the largest object in our solar system, the Sun boasts a diameter of approximately 865,000 miles (1.4 million kilometers). Its immense gravity is what binds the solar system together, maintaining the orbits of everything from the largest planets to the tiniest pieces of debris.\n\nDespite being the focal point of our solar system and crucial for our existence, the Sun is merely an average star in terms of size. There are stars that are up to 100 times larger, and many other solar systems host multiple stars. By examining our Sun, scientists gain valuable insights into the functioning of distant stars.\n\nThe Sun’s core is its hottest region, with temperatures soaring above 27 million °F (15 million °C). The surface, known as the photosphere, is cooler in comparison, with temperatures around 10,000 °F (5,500 °C). Interestingly, one of the Sun’s great mysteries is its outer atmosphere, the corona, which becomes hotter with distance from the surface. The corona can reach temperatures up to 3.5 million °F (2 million °C), significantly hotter than the photosphere.[^ChatGPT summary of NASA Facts page]\n\n\n## Additional Details from NASA:\n\n[The Sun - NASA Science](https://science.nasa.gov/sun)\n\n## NASA Image Gallery of Sun:\n\n[NASA Image Gallery of Sun](https://science.nasa.gov/gallery/the-sun/)\n",
 				"date_published": "2024-07-22T12:27:00-04:00",
 				"url": "https://www.7robots.org/2024/07/22/astronomy-photo-the.html",
 				"tags": ["astronomy"]
@@ -883,7 +951,7 @@
 				"id": "http://7robots.micro.blog/2024/05/23/astrophotography.html",
 				"title": "Astronomy Photo: Moon",
 				"content_html": "<p>My observation:</p>\n<!-- raw HTML omitted -->\n<p>Taken: 20 May 2024 at 9:36pm EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Type: Moon</li>\n<li>Distance from Earth: 384,400 km</li>\n</ul>\n<p>The Moon, Earth&rsquo;s only natural satellite, is a rocky body with a geologically diverse surface, characterized by vast plains called maria, impact craters, and highland regions. Its geology includes basaltic plains from ancient volcanic activity and anorthosite highlands, shaped significantly by asteroid impacts. The Moon orbits Earth at an average distance of about 384,400 kilometers, completing a revolution in approximately 27.3 days, which also matches its rotational period, resulting in the same side always facing Earth (synchronous rotation). This orbital relationship profoundly affects Earth&rsquo;s tides and stabilizes its axial tilt, contributing to a stable climate over geological time scales. The interplay of tidal forces also causes a gradual increase in the Moon&rsquo;s distance from Earth by about 3.8 centimeters per year.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/moon/\">https://science.nasa.gov/moon/</a></p>\n<h2 id=\"lunar-reconnaissance-orbiter-image\">Lunar Reconnaissance Orbiter Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240521-013629.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 20 May 2024 at 9:36pm EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Type: Moon\n- Distance from Earth: 384,400 km\n\nThe Moon, Earth's only natural satellite, is a rocky body with a geologically diverse surface, characterized by vast plains called maria, impact craters, and highland regions. Its geology includes basaltic plains from ancient volcanic activity and anorthosite highlands, shaped significantly by asteroid impacts. The Moon orbits Earth at an average distance of about 384,400 kilometers, completing a revolution in approximately 27.3 days, which also matches its rotational period, resulting in the same side always facing Earth (synchronous rotation). This orbital relationship profoundly affects Earth's tides and stabilizes its axial tilt, contributing to a stable climate over geological time scales. The interplay of tidal forces also causes a gradual increase in the Moon's distance from Earth by about 3.8 centimeters per year.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/moon/](https://science.nasa.gov/moon/)\n\n## Lunar Reconnaissance Orbiter Image:\n\n<img src=\"https://astropedia.astrogeology.usgs.gov/download/RPIF/Moon/Maps/Moon+LROC+WAC+Nearside.png/max.jpg\" width=\"600\" alt=\"\">\n",
+				"content_text": "My observation:\n\n<img src=\"uploads/2024/equinox2-20240521-013629.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 20 May 2024 at 9:36pm EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Type: Moon\n- Distance from Earth: 384,400 km\n\nThe Moon, Earth's only natural satellite, is a rocky body with a geologically diverse surface, characterized by vast plains called maria, impact craters, and highland regions. Its geology includes basaltic plains from ancient volcanic activity and anorthosite highlands, shaped significantly by asteroid impacts. The Moon orbits Earth at an average distance of about 384,400 kilometers, completing a revolution in approximately 27.3 days, which also matches its rotational period, resulting in the same side always facing Earth (synchronous rotation). This orbital relationship profoundly affects Earth's tides and stabilizes its axial tilt, contributing to a stable climate over geological time scales. The interplay of tidal forces also causes a gradual increase in the Moon's distance from Earth by about 3.8 centimeters per year.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/moon/](https://science.nasa.gov/moon/)\n\n## Lunar Reconnaissance Orbiter Image:\n\n<img src=\"https://astropedia.astrogeology.usgs.gov/download/RPIF/Moon/Maps/Moon+LROC+WAC+Nearside.png/max.jpg\" width=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-23T23:20:14-04:00",
 				"url": "https://www.7robots.org/2024/05/23/astrophotography.html",
 				"tags": ["astronomy"]
@@ -900,7 +968,7 @@
 				"id": "http://7robots.micro.blog/2024/05/14/hello-barred-owl.html",
 				
 				"content_html": "<p>Hello Barred Owl!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hello Barred Owl!\n\n<img src=\"https://www.7robots.org/uploads/2024/f931496fd53c40468fdfa84173a00c0e.jpg\" width=\"600\" height=\"561\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/0b91fc958c6548919501f53ce7732761.jpg\" width=\"487\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/0e6883167e324ad88165b4918879fbaf.jpg\" width=\"485\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/f771ad5d8cdf4850a318eb21657ddc80.jpg\" width=\"600\" height=\"550\" alt=\"\">\n",
+				"content_text": "Hello Barred Owl!\n\n<img src=\"uploads/2024/f931496fd53c40468fdfa84173a00c0e.jpg\" width=\"600\" height=\"561\" alt=\"\"><img src=\"uploads/2024/0b91fc958c6548919501f53ce7732761.jpg\" width=\"487\" height=\"600\" alt=\"\"><img src=\"uploads/2024/0e6883167e324ad88165b4918879fbaf.jpg\" width=\"485\" height=\"600\" alt=\"\"><img src=\"uploads/2024/f771ad5d8cdf4850a318eb21657ddc80.jpg\" width=\"600\" height=\"550\" alt=\"\">\n",
 				"date_published": "2024-05-14T20:21:15-04:00",
 				"url": "https://www.7robots.org/2024/05/14/hello-barred-owl.html"
 			},
@@ -916,7 +984,7 @@
 				"id": "http://7robots.micro.blog/2024/05/11/beautiful-night-sky.html",
 				
 				"content_html": "<p>Beautiful night sky in MA with the solar storm!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Beautiful night sky in MA with the solar storm!\n\n<img src=\"https://www.7robots.org/uploads/2024/40efd481ab.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/bcbac0eec3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/36bb647a2a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/0a06976eb9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://www.7robots.org/uploads/2024/5f6e9e34e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Beautiful night sky in MA with the solar storm!\n\n<img src=\"uploads/2024/40efd481ab.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/bcbac0eec3.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/36bb647a2a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/0a06976eb9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/5f6e9e34e6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-11T00:21:25-04:00",
 				"url": "https://www.7robots.org/2024/05/11/beautiful-night-sky.html",
 				"tags": ["pix","astronomy"]
@@ -925,7 +993,7 @@
 				"id": "http://7robots.micro.blog/2024/05/06/my-observation.html",
 				"title": "Astronomy Photo: M13 Hercules Globular Cluster",
 				"content_html": "<h3 id=\"my-observation\">My observation:</h3>\n<!-- raw HTML omitted -->\n<p>Taken: 4 May 2024 at 1:51AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h3 id=\"general-information\">General Information:</h3>\n<ul>\n<li>Messier Designation: M13</li>\n<li>Type: Globular Cluster</li>\n<li>Distance from Earth: 22,000 light years</li>\n</ul>\n<p>M13 Hercules is a globular cluster that is located in the constellation Hercules, visible in the northern sky. It contains hundreds of thousands of stars that are densely packed in a spherical shape, with the cluster covering an area of about 145 light-years in diameter. Discovered by Edmond Halley in 1714, M13 Hercules is considered one of the most prominent and best known globular clusters, seen with a telescope from earth due to its proximity at about 22,200 light-years away. The stars within it are believed to be extremely old, estimated at around 11.65 billion years, with tightly gravitational interaction, leading to high rate of stellar interactions and collisions. This cluster is a popular target for both professional and amateur astronomers due to its size, brightness, and the myriad of stars present.</p>\n<h3 id=\"additional-details-from-nasa\">Additional Details from NASA:</h3>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/\">Messier 13 (The Hercules Cluster) - NASA Science</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n<h3 id=\"bonus-photo-hercules--with-a-few-photobombing-satellites\">Bonus photo: Hercules &hellip; with a few photobombing satellites!</h3>\n<!-- raw HTML omitted -->\n",
-				"content_text": "### My observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-015151.jpeg\" width=\"600\" height=\"536\" alt=\"\">\n\nTaken: 4 May 2024 at 1:51AM EST\n\nEquipment: Unistellar Equinox2\n\n### General Information:\n\n- Messier Designation: M13\n- Type: Globular Cluster\n- Distance from Earth: 22,000 light years\n\nM13 Hercules is a globular cluster that is located in the constellation Hercules, visible in the northern sky. It contains hundreds of thousands of stars that are densely packed in a spherical shape, with the cluster covering an area of about 145 light-years in diameter. Discovered by Edmond Halley in 1714, M13 Hercules is considered one of the most prominent and best known globular clusters, seen with a telescope from earth due to its proximity at about 22,200 light-years away. The stars within it are believed to be extremely old, estimated at around 11.65 billion years, with tightly gravitational interaction, leading to high rate of stellar interactions and collisions. This cluster is a popular target for both professional and amateur astronomers due to its size, brightness, and the myriad of stars present.\n\n### Additional Details from NASA:\n\n[Messier 13 (The Hercules Cluster) - NASA Science](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m13-xlarge_web-jpg.webp?w=600&format=webp\" alt=\"\">\n\n### Bonus photo: Hercules ... with a few photobombing satellites!\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-015042.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n\n",
+				"content_text": "### My observation:\n\n<img src=\"uploads/2024/equinox2-20240505-015151.jpeg\" width=\"600\" height=\"536\" alt=\"\">\n\nTaken: 4 May 2024 at 1:51AM EST\n\nEquipment: Unistellar Equinox2\n\n### General Information:\n\n- Messier Designation: M13\n- Type: Globular Cluster\n- Distance from Earth: 22,000 light years\n\nM13 Hercules is a globular cluster that is located in the constellation Hercules, visible in the northern sky. It contains hundreds of thousands of stars that are densely packed in a spherical shape, with the cluster covering an area of about 145 light-years in diameter. Discovered by Edmond Halley in 1714, M13 Hercules is considered one of the most prominent and best known globular clusters, seen with a telescope from earth due to its proximity at about 22,200 light-years away. The stars within it are believed to be extremely old, estimated at around 11.65 billion years, with tightly gravitational interaction, leading to high rate of stellar interactions and collisions. This cluster is a popular target for both professional and amateur astronomers due to its size, brightness, and the myriad of stars present.\n\n### Additional Details from NASA:\n\n[Messier 13 (The Hercules Cluster) - NASA Science](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-13/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m13-xlarge_web-jpg.webp?w=600&format=webp\" alt=\"\">\n\n### Bonus photo: Hercules ... with a few photobombing satellites!\n\n<img src=\"uploads/2024/equinox2-20240505-015042.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\n\n",
 				"date_published": "2024-05-06T10:50:51-04:00",
 				"url": "https://www.7robots.org/2024/05/06/my-observation.html",
 				"tags": ["astronomy"]
@@ -934,7 +1002,7 @@
 				"id": "http://7robots.micro.blog/2024/05/06/astronomy-photo-cigar.html",
 				"title": "Astronomy Photo: M82 Cigar Galaxy",
 				"content_html": "<h3 id=\"my-observation\">My Observation:</h3>\n<!-- raw HTML omitted -->\n<p>Taken: 4 May 2024 at 2:18 AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M82</li>\n<li>Type: Spiral Galaxy</li>\n<li>Distance from Earth: 12,000,000 light years</li>\n</ul>\n<p>M82, commonly known as the Cigar Galaxy, is a starburst galaxy located in the constellation Ursa Major, approximately 12 million light-years away from Earth. This galaxy is characterized by its intensely active star-forming regions, which have given it a unique, irregular cigar-like shape. The starburst activity in M82 is thought to have been triggered by interactions with its neighboring galaxy, M81, leading to a massive concentration of gas and dust in the galaxy&rsquo;s core. This abundant material fuels the rapid birth of new stars at a rate about ten times higher than in typical galaxies. Additionally, M82 is recognized for its supernova events and the strong &lsquo;superwind&rsquo; of ionized matter being expelled from its core, producing streaks known as &lsquo;filaments&rsquo;. Remarkably, M82 is the closest place to Earth where the conditions resemble those in the early universe, making it a focal point for astronomers studying galaxy formation and evolution.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "### My Observation: \n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-021804.jpeg\" width=\"600\" height=\"435\" alt=\"\">\n\nTaken: 4 May 2024 at 2:18 AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M82\n- Type: Spiral Galaxy\n- Distance from Earth: 12,000,000 light years\n\nM82, commonly known as the Cigar Galaxy, is a starburst galaxy located in the constellation Ursa Major, approximately 12 million light-years away from Earth. This galaxy is characterized by its intensely active star-forming regions, which have given it a unique, irregular cigar-like shape. The starburst activity in M82 is thought to have been triggered by interactions with its neighboring galaxy, M81, leading to a massive concentration of gas and dust in the galaxy's core. This abundant material fuels the rapid birth of new stars at a rate about ten times higher than in typical galaxies. Additionally, M82 is recognized for its supernova events and the strong 'superwind' of ionized matter being expelled from its core, producing streaks known as 'filaments'. Remarkably, M82 is the closest place to Earth where the conditions resemble those in the early universe, making it a focal point for astronomers studying galaxy formation and evolution.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m82-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
+				"content_text": "### My Observation: \n\n<img src=\"uploads/2024/equinox2-20240505-021804.jpeg\" width=\"600\" height=\"435\" alt=\"\">\n\nTaken: 4 May 2024 at 2:18 AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M82\n- Type: Spiral Galaxy\n- Distance from Earth: 12,000,000 light years\n\nM82, commonly known as the Cigar Galaxy, is a starburst galaxy located in the constellation Ursa Major, approximately 12 million light-years away from Earth. This galaxy is characterized by its intensely active star-forming regions, which have given it a unique, irregular cigar-like shape. The starburst activity in M82 is thought to have been triggered by interactions with its neighboring galaxy, M81, leading to a massive concentration of gas and dust in the galaxy's core. This abundant material fuels the rapid birth of new stars at a rate about ten times higher than in typical galaxies. Additionally, M82 is recognized for its supernova events and the strong 'superwind' of ionized matter being expelled from its core, producing streaks known as 'filaments'. Remarkably, M82 is the closest place to Earth where the conditions resemble those in the early universe, making it a focal point for astronomers studying galaxy formation and evolution.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-82/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/m82-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
 				"date_published": "2024-05-06T10:42:16-04:00",
 				"url": "https://www.7robots.org/2024/05/06/astronomy-photo-cigar.html",
 				"tags": ["astronomy"]
@@ -943,7 +1011,7 @@
 				"id": "http://7robots.micro.blog/2024/05/06/astronomy-photo-sombrero.html",
 				"title": "Astronomy Photo: Sombrero Galaxy",
 				"content_html": "<h3 id=\"my-observation\">My observation:</h3>\n<!-- raw HTML omitted -->\n<p>Taken: 4 May 2024 at 2:03AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M104</li>\n<li>Type: Spiral Galaxy</li>\n<li>Distance from Earth: 28,000,000 light years</li>\n</ul>\n<p>M104, often referred to as the Sombrero Galaxy, is a spiral galaxy located in the constellation Virgo, over 28 million light-years away from the Earth. This galaxy was named ‘Sombrero’ due to its visual similarity to the broad-brimmed Mexican hat, presenting a unique edge on view with a prominent dust lane circling its bright nucleus like a brim. The mass of the Sombrero galaxy, particularly the budge in the middle, is comprised of billions of stars, dust, gas, and other celestial matter. Additionally, the rim of the Sombrero Galaxy showcases an extensive halo filled with several hundred globular clusters, signifying its significantly higher than average number for a galaxy of its type and size. It is also a source of a strong radio emission and is assumed to possess a supermassive black hole at its center. The Sombrero galaxy is a popular celestial body in amateur astronomy due to its bright intensity and visibility with small telescopes.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "### My observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240505-020341.jpeg\" width=\"600\" height=\"542\" alt=\"\">\n\nTaken: 4 May 2024 at 2:03AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M104\n- Type: Spiral Galaxy\n- Distance from Earth: 28,000,000 light years\n\nM104, often referred to as the Sombrero Galaxy, is a spiral galaxy located in the constellation Virgo, over 28 million light-years away from the Earth. This galaxy was named ‘Sombrero’ due to its visual similarity to the broad-brimmed Mexican hat, presenting a unique edge on view with a prominent dust lane circling its bright nucleus like a brim. The mass of the Sombrero galaxy, particularly the budge in the middle, is comprised of billions of stars, dust, gas, and other celestial matter. Additionally, the rim of the Sombrero Galaxy showcases an extensive halo filled with several hundred globular clusters, signifying its significantly higher than average number for a galaxy of its type and size. It is also a source of a strong radio emission and is assumed to possess a supermassive black hole at its center. The Sombrero galaxy is a popular celestial body in amateur astronomy due to its bright intensity and visibility with small telescopes.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/sombrero-galaxy-hubble-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
+				"content_text": "### My observation:\n\n<img src=\"uploads/2024/equinox2-20240505-020341.jpeg\" width=\"600\" height=\"542\" alt=\"\">\n\nTaken: 4 May 2024 at 2:03AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M104\n- Type: Spiral Galaxy\n- Distance from Earth: 28,000,000 light years\n\nM104, often referred to as the Sombrero Galaxy, is a spiral galaxy located in the constellation Virgo, over 28 million light-years away from the Earth. This galaxy was named ‘Sombrero’ due to its visual similarity to the broad-brimmed Mexican hat, presenting a unique edge on view with a prominent dust lane circling its bright nucleus like a brim. The mass of the Sombrero galaxy, particularly the budge in the middle, is comprised of billions of stars, dust, gas, and other celestial matter. Additionally, the rim of the Sombrero Galaxy showcases an extensive halo filled with several hundred globular clusters, signifying its significantly higher than average number for a galaxy of its type and size. It is also a source of a strong radio emission and is assumed to possess a supermassive black hole at its center. The Sombrero galaxy is a popular celestial body in amateur astronomy due to its bright intensity and visibility with small telescopes.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-104/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/sombrero-galaxy-hubble-jpg.webp?w=600&format=webp\" alt=\"\">\n\n",
 				"date_published": "2024-05-06T08:17:49-04:00",
 				"url": "https://www.7robots.org/2024/05/06/astronomy-photo-sombrero.html",
 				"tags": ["astronomy"]
@@ -952,7 +1020,7 @@
 				"id": "http://7robots.micro.blog/2024/05/02/photo-challenge-bonus.html",
 				
 				"content_html": "<p>Photo challenge bonus 2: unputdownable</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge bonus 2: unputdownable\n\n<img src=\"https://www.7robots.org/uploads/2024/45f90bb8ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge bonus 2: unputdownable\n\n<img src=\"uploads/2024/45f90bb8ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-02T11:59:09-04:00",
 				"url": "https://www.7robots.org/2024/05/02/photo-challenge-bonus.html"
 			},
@@ -960,7 +1028,7 @@
 				"id": "http://7robots.micro.blog/2024/05/01/photo-challenge-bonus.html",
 				
 				"content_html": "<p>Photo challenge bonus 1: bubble</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge bonus 1: bubble\n\n<img src=\"https://www.7robots.org/uploads/2024/87bb799945234bfd821a3b1efbb88a25.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge bonus 1: bubble\n\n<img src=\"uploads/2024/87bb799945234bfd821a3b1efbb88a25.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-01T06:44:00-04:00",
 				"url": "https://www.7robots.org/2024/05/01/photo-challenge-bonus.html"
 			},
@@ -968,7 +1036,7 @@
 				"id": "http://7robots.micro.blog/2024/04/30/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 30: hometown</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 30: hometown\n\n<img src=\"https://www.7robots.org/uploads/2024/img-3573.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 30: hometown\n\n<img src=\"uploads/2024/img-3573.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-30T11:22:59-04:00",
 				"url": "https://www.7robots.org/2024/04/30/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -985,7 +1053,7 @@
 				"id": "http://7robots.micro.blog/2024/04/29/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 29: drift</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 29: drift\n\n<img src=\"https://www.7robots.org/uploads/2024/a4ecf5bcf9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 29: drift\n\n<img src=\"uploads/2024/a4ecf5bcf9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-29T14:25:33-04:00",
 				"url": "https://www.7robots.org/2024/04/29/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -994,7 +1062,7 @@
 				"id": "http://7robots.micro.blog/2024/04/29/astronomy-photo-m.html",
 				"title": "Astronomy Photo: M56",
 				"content_html": "<h2 id=\"my-observation\">My Observation:</h2>\n<!-- raw HTML omitted -->\n<p>Taken: 27 April 2024 at 1:34AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M56</li>\n<li>Type: Globular Cluster</li>\n<li>Distance from Earth: 33,000 light years</li>\n</ul>\n<p>Messier 56, or M56, is a globular cluster located in the constellation Lyra, roughly 33,000 light-years away from Earth. Discovered by Charles Messier in 1779, M56 is composed of hundreds of thousands of ancient stars densely packed into a spherical shape, which is typical of globular clusters. The cluster&rsquo;s stars are gravitationally bound, sharing a common motion through space, and are characterized by their old age and low metallicity, reflecting the early stages of the Milky Way&rsquo;s formation. M56 appears relatively faint in the night sky, making it a challenging but rewarding target for amateur astronomers equipped with telescopes. This cluster provides valuable clues about the early chemical environment of the galaxy and the evolutionary history of stellar populations.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "## My Observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240427-053416.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:34AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M56\n- Type: Globular Cluster\n- Distance from Earth: 33,000 light years\n\nMessier 56, or M56, is a globular cluster located in the constellation Lyra, roughly 33,000 light-years away from Earth. Discovered by Charles Messier in 1779, M56 is composed of hundreds of thousands of ancient stars densely packed into a spherical shape, which is typical of globular clusters. The cluster's stars are gravitationally bound, sharing a common motion through space, and are characterized by their old age and low metallicity, reflecting the early stages of the Milky Way's formation. M56 appears relatively faint in the night sky, making it a challenging but rewarding target for amateur astronomers equipped with telescopes. This cluster provides valuable clues about the early chemical environment of the galaxy and the evolutionary history of stellar populations.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/potw1234a-jpg.webp?w=600&format=webp\" alt=\"\">\n",
+				"content_text": "## My Observation:\n\n<img src=\"uploads/2024/equinox2-20240427-053416.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:34AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M56\n- Type: Globular Cluster\n- Distance from Earth: 33,000 light years\n\nMessier 56, or M56, is a globular cluster located in the constellation Lyra, roughly 33,000 light-years away from Earth. Discovered by Charles Messier in 1779, M56 is composed of hundreds of thousands of ancient stars densely packed into a spherical shape, which is typical of globular clusters. The cluster's stars are gravitationally bound, sharing a common motion through space, and are characterized by their old age and low metallicity, reflecting the early stages of the Milky Way's formation. M56 appears relatively faint in the night sky, making it a challenging but rewarding target for amateur astronomers equipped with telescopes. This cluster provides valuable clues about the early chemical environment of the galaxy and the evolutionary history of stellar populations.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-56/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/potw1234a-jpg.webp?w=600&format=webp\" alt=\"\">\n",
 				"date_published": "2024-04-29T13:58:43-04:00",
 				"url": "https://www.7robots.org/2024/04/29/astronomy-photo-m.html",
 				"tags": ["astronomy"]
@@ -1003,7 +1071,7 @@
 				"id": "http://7robots.micro.blog/2024/04/28/astronomy-photo-ring.html",
 				"title": "Astronomy Photo: Ring Nebula",
 				"content_html": "<h2 id=\"my-observation\">My Observation:</h2>\n<!-- raw HTML omitted -->\n<p>Taken: 27 April 2024 at 1:28AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M57</li>\n<li>Type: Planetary Nebula</li>\n<li>Distance from Earth: 2000 light years</li>\n</ul>\n<p>The Ring Nebula, also known as Messier 57 (M57), is a stellar nebula located approximately 2000 light years away from Earth. It is a striking example of a planetary nebula, formed when a dying star sheds its outer layers of gas, creating a ring-like structure of glowing gas and dust. The central star, a white dwarf, is the remnant of the star that once existed in the center of the nebula. The Ring Nebula is a popular target for amateur astronomers due to its bright and distinctive appearance in the night sky.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/</a></p>\n<h2 id=\"hubble-image\">Hubble Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\n## My Observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/5a5ce3d120.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:28AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M57\n- Type: Planetary Nebula\n- Distance from Earth: 2000 light years\n\nThe Ring Nebula, also known as Messier 57 (M57), is a stellar nebula located approximately 2000 light years away from Earth. It is a striking example of a planetary nebula, formed when a dying star sheds its outer layers of gas, creating a ring-like structure of glowing gas and dust. The central star, a white dwarf, is the remnant of the star that once existed in the center of the nebula. The Ring Nebula is a popular target for amateur astronomers due to its bright and distinctive appearance in the night sky.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/ring-nebula-full_jpg-jpg.webp?w=600&format=webp\" alt=\"\">\n",
+				"content_text": "\n## My Observation:\n\n<img src=\"uploads/2024/5a5ce3d120.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:28AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M57\n- Type: Planetary Nebula\n- Distance from Earth: 2000 light years\n\nThe Ring Nebula, also known as Messier 57 (M57), is a stellar nebula located approximately 2000 light years away from Earth. It is a striking example of a planetary nebula, formed when a dying star sheds its outer layers of gas, creating a ring-like structure of glowing gas and dust. The central star, a white dwarf, is the remnant of the star that once existed in the center of the nebula. The Ring Nebula is a popular target for amateur astronomers due to its bright and distinctive appearance in the night sky.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/)\n\n## Hubble Image:\n\n<img src=\"https://science.nasa.gov/wp-content/uploads/2023/04/ring-nebula-full_jpg-jpg.webp?w=600&format=webp\" alt=\"\">\n",
 				"date_published": "2024-04-28T22:49:27-04:00",
 				"url": "https://www.7robots.org/2024/04/28/astronomy-photo-ring.html",
 				"tags": ["astronomy"]
@@ -1012,7 +1080,7 @@
 				"id": "http://7robots.micro.blog/2024/04/28/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 28: community</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 28: community\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2498.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 28: community\n\n<img src=\"uploads/2024/img-2498.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-28T16:30:32-04:00",
 				"url": "https://www.7robots.org/2024/04/28/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1021,7 +1089,7 @@
 				"id": "http://7robots.micro.blog/2024/04/27/astronomy-photo-dumbbell.html",
 				"title": "Astronomy Photo: Dumbbell Nebula",
 				"content_html": "<h2 id=\"my-observation\">My Observation:</h2>\n<!-- raw HTML omitted -->\n<p>Taken: 27 April 2024 at 1:37AM EST</p>\n<p>Equipment: Unistellar Equinox2</p>\n<h2 id=\"general-information\">General Information:</h2>\n<ul>\n<li>Messier Designation: M27</li>\n<li>Type: Planetary Nebula</li>\n<li>Distance from Earth: 1360 light years</li>\n</ul>\n<p>The Dumbbell Nebula, also known as Messier 27 (M27), is a planetary nebula located in the constellation Vulpecula, approximately 1,360 light-years away from Earth. It is one of the brightest and largest planetary nebulae visible in the night sky, making it a popular target for amateur astronomers. The nebula was discovered by Charles Messier in 1764 and is named for its distinctive dumbbell shape, characterized by a bright, elongated central region surrounded by a complex structure of gas and dust. The Dumbbell Nebula is the result of a star similar to the Sun expelling its outer layers into space at the end of its life, illuminating the surrounding gas to create the nebula&rsquo;s vivid colors and intricate appearance. This celestial phenomenon offers insights into the life cycle of stars and the processes that shape the interstellar medium.</p>\n<h2 id=\"additional-details-from-nasa\">Additional Details from NASA:</h2>\n<p><a href=\"https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/\">https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/</a></p>\n<h2 id=\"spitzer-space-telescope-image\">Spitzer Space Telescope Image:</h2>\n<!-- raw HTML omitted -->\n",
-				"content_text": "## My Observation:\n\n<img src=\"https://www.7robots.org/uploads/2024/equinox2-20240427-053713.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:37AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M27\n- Type: Planetary Nebula\n- Distance from Earth: 1360 light years\n\nThe Dumbbell Nebula, also known as Messier 27 (M27), is a planetary nebula located in the constellation Vulpecula, approximately 1,360 light-years away from Earth. It is one of the brightest and largest planetary nebulae visible in the night sky, making it a popular target for amateur astronomers. The nebula was discovered by Charles Messier in 1764 and is named for its distinctive dumbbell shape, characterized by a bright, elongated central region surrounded by a complex structure of gas and dust. The Dumbbell Nebula is the result of a star similar to the Sun expelling its outer layers into space at the end of its life, illuminating the surrounding gas to create the nebula's vivid colors and intricate appearance. This celestial phenomenon offers insights into the life cycle of stars and the processes that shape the interstellar medium.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/)\n\n## Spitzer Space Telescope Image:\n\n<img src=\"https://www.universetoday.com/wp-content/uploads/2009/06/Dumbbell-Nebula.jpg\" width=600 alt=\"\">\n\n\n\n\n",
+				"content_text": "## My Observation:\n\n<img src=\"uploads/2024/equinox2-20240427-053713.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n\nTaken: 27 April 2024 at 1:37AM EST\n\nEquipment: Unistellar Equinox2\n\n## General Information:\n\n- Messier Designation: M27\n- Type: Planetary Nebula\n- Distance from Earth: 1360 light years\n\nThe Dumbbell Nebula, also known as Messier 27 (M27), is a planetary nebula located in the constellation Vulpecula, approximately 1,360 light-years away from Earth. It is one of the brightest and largest planetary nebulae visible in the night sky, making it a popular target for amateur astronomers. The nebula was discovered by Charles Messier in 1764 and is named for its distinctive dumbbell shape, characterized by a bright, elongated central region surrounded by a complex structure of gas and dust. The Dumbbell Nebula is the result of a star similar to the Sun expelling its outer layers into space at the end of its life, illuminating the surrounding gas to create the nebula's vivid colors and intricate appearance. This celestial phenomenon offers insights into the life cycle of stars and the processes that shape the interstellar medium.\n\n## Additional Details from NASA:\n\n\n[https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/](https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-27/)\n\n## Spitzer Space Telescope Image:\n\n<img src=\"https://www.universetoday.com/wp-content/uploads/2009/06/Dumbbell-Nebula.jpg\" width=600 alt=\"\">\n\n\n\n\n",
 				"date_published": "2024-04-27T22:55:46-04:00",
 				"url": "https://www.7robots.org/2024/04/27/astronomy-photo-dumbbell.html",
 				"tags": ["astronomy"]
@@ -1030,7 +1098,7 @@
 				"id": "http://7robots.micro.blog/2024/04/27/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 27: surprise</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 27: surprise \n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/4da99a8153.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 27: surprise \n\n\n\n<img src=\"uploads/2024/4da99a8153.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-27T08:48:09-04:00",
 				"url": "https://www.7robots.org/2024/04/27/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1039,7 +1107,7 @@
 				"id": "http://7robots.micro.blog/2024/04/26/it-would-taste.html",
 				"title": "I would be their eucharist ",
 				"content_html": "<p>“You could have a small fire at night. Maybe find a cave. A mountain stream. I’d have a canteen for water for when the time came that I was too weak to move about. After a while the water would taste extraordinary. It would taste like music. I’d wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died. Sometimes at night the animals would come to the edge of the fire and move about and their shadows would move among the trees and I would understand that when the last fire was ashes they would come and carry me away and I would be their eucharist. And that would be my life. And I would be happy.”</p>\n<p>-from Stella Maris by Cormac McCarthy\n📚 💬</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“You could have a small fire at night. Maybe find a cave. A mountain stream. I’d have a canteen for water for when the time came that I was too weak to move about. After a while the water would taste extraordinary. It would taste like music. I’d wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died. Sometimes at night the animals would come to the edge of the fire and move about and their shadows would move among the trees and I would understand that when the last fire was ashes they would come and carry me away and I would be their eucharist. And that would be my life. And I would be happy.”\n\n-from Stella Maris by Cormac McCarthy\n📚 💬\n\n\n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "“You could have a small fire at night. Maybe find a cave. A mountain stream. I’d have a canteen for water for when the time came that I was too weak to move about. After a while the water would taste extraordinary. It would taste like music. I’d wrap myself in the blanket at night against the cold and watch the bones take shape beneath my skin and I would pray that I might see the truth of the world before I died. Sometimes at night the animals would come to the edge of the fire and move about and their shadows would move among the trees and I would understand that when the last fire was ashes they would come and carry me away and I would be their eucharist. And that would be my life. And I would be happy.”\n\n-from Stella Maris by Cormac McCarthy\n📚 💬\n\n\n\n\n\n<img src=\"uploads/2024/938ff6af0d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-26T23:13:28-04:00",
 				"url": "https://www.7robots.org/2024/04/26/it-would-taste.html",
 				"tags": ["Commonplace"]
@@ -1056,7 +1124,7 @@
 				"id": "http://7robots.micro.blog/2024/04/26/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 26: critter</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 26: critter\n\n<img src=\"https://www.7robots.org/uploads/2024/eb28d2ea10.jpg\" width=\"534\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 26: critter\n\n<img src=\"uploads/2024/eb28d2ea10.jpg\" width=\"534\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-26T08:13:07-04:00",
 				"url": "https://www.7robots.org/2024/04/26/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1065,7 +1133,7 @@
 				"id": "http://7robots.micro.blog/2024/04/25/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 25: spine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 25: spine\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0379.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 25: spine\n\n<img src=\"uploads/2024/img-0379.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-25T12:52:35-04:00",
 				"url": "https://www.7robots.org/2024/04/25/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1074,7 +1142,7 @@
 				"id": "http://7robots.micro.blog/2024/04/24/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 24: light</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 24: light\n\n<img src=\"https://www.7robots.org/uploads/2024/img-3754.jpeg\" width=\"600\" height=\"500\" alt=\"\">\n",
+				"content_text": "photo challenge day 24: light\n\n<img src=\"uploads/2024/img-3754.jpeg\" width=\"600\" height=\"500\" alt=\"\">\n",
 				"date_published": "2024-04-24T09:34:37-04:00",
 				"url": "https://www.7robots.org/2024/04/24/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1091,7 +1159,7 @@
 				"id": "http://7robots.micro.blog/2024/04/23/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 23: dreamy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 23: dreamy\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2805.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 23: dreamy\n\n<img src=\"uploads/2024/img-2805.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-23T09:02:35-04:00",
 				"url": "https://www.7robots.org/2024/04/23/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1100,7 +1168,7 @@
 				"id": "http://7robots.micro.blog/2024/04/22/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 22: blue</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 22: blue\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2338-3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 22: blue\n\n<img src=\"uploads/2024/img-2338-3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-22T08:45:59-04:00",
 				"url": "https://www.7robots.org/2024/04/22/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1109,7 +1177,7 @@
 				"id": "http://7robots.micro.blog/2024/04/21/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 21: mountain</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 21: mountain\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0023.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "Photo challenge day 21: mountain\n\n<img src=\"uploads/2024/img-0023.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-04-21T11:53:51-04:00",
 				"url": "https://www.7robots.org/2024/04/21/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1118,7 +1186,7 @@
 				"id": "http://7robots.micro.blog/2024/04/20/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 20: ice</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 20: ice \n\n<img src=\"https://www.7robots.org/uploads/2024/8e7980c870944803bbcd330c27b7f5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 20: ice \n\n<img src=\"uploads/2024/8e7980c870944803bbcd330c27b7f5db.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-20T11:40:30-04:00",
 				"url": "https://www.7robots.org/2024/04/20/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1136,7 +1204,7 @@
 				"id": "http://7robots.micro.blog/2024/04/19/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 18: birthday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 18: birthday\n\n<img src=\"https://www.7robots.org/uploads/2024/img-1282.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
+				"content_text": "photo challenge day 18: birthday\n\n<img src=\"uploads/2024/img-1282.jpg\" width=\"600\" height=\"451\" alt=\"\">\n",
 				"date_published": "2024-04-19T10:12:42-04:00",
 				"url": "https://www.7robots.org/2024/04/19/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1145,7 +1213,7 @@
 				"id": "http://7robots.micro.blog/2024/04/18/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 18: mood</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 18: mood\n\n<img src=\"https://www.7robots.org/uploads/2024/cb468cef-8e4f-4c0a-b565-07dfdd544297.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 18: mood\n\n<img src=\"uploads/2024/cb468cef-8e4f-4c0a-b565-07dfdd544297.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-18T10:02:04-04:00",
 				"url": "https://www.7robots.org/2024/04/18/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1154,7 +1222,7 @@
 				"id": "http://7robots.micro.blog/2024/04/17/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 17: transcendence</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 17: transcendence \n\n\n\n<img src=\"https://www.7robots.org/uploads/2024/img-3634.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 17: transcendence \n\n\n\n<img src=\"uploads/2024/img-3634.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-17T17:37:39-04:00",
 				"url": "https://www.7robots.org/2024/04/17/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1171,7 +1239,7 @@
 				"id": "http://7robots.micro.blog/2024/04/16/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 16: flâneur</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 16: flâneur\n\n<img src=\"https://www.7robots.org/uploads/2024/4ba0500e94.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 16: flâneur\n\n<img src=\"uploads/2024/4ba0500e94.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-16T13:43:57-04:00",
 				"url": "https://www.7robots.org/2024/04/16/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1180,7 +1248,7 @@
 				"id": "http://7robots.micro.blog/2024/04/15/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 15: small</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 15: small\n\n\n<img src=\"https://www.7robots.org/uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 15: small\n\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-15T08:10:28-04:00",
 				"url": "https://www.7robots.org/2024/04/15/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1197,7 +1265,7 @@
 				"id": "http://7robots.micro.blog/2024/04/14/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 14: cactus</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 14: cactus\n\n<img src=\"https://www.7robots.org/uploads/2024/64d011af4bd34cb89ee504ac80091463.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Photo challenge day 14: cactus\n\n<img src=\"uploads/2024/64d011af4bd34cb89ee504ac80091463.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-04-14T13:19:36-04:00",
 				"url": "https://www.7robots.org/2024/04/14/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1206,7 +1274,7 @@
 				"id": "http://7robots.micro.blog/2024/04/13/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 13: page</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 13: page\n\n<img src=\"https://www.7robots.org/uploads/2024/img-0828.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 13: page\n\n<img src=\"uploads/2024/img-0828.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-13T13:43:20-04:00",
 				"url": "https://www.7robots.org/2024/04/13/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1215,7 +1283,7 @@
 				"id": "http://7robots.micro.blog/2024/04/12/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 12: magic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 12: magic\n\n<img src=\"https://www.7robots.org/uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "photo challenge day 12: magic\n\n<img src=\"uploads/2024/img-2549.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-12T11:53:29-04:00",
 				"url": "https://www.7robots.org/2024/04/12/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1224,7 +1292,7 @@
 				"id": "http://7robots.micro.blog/2024/04/11/photo-challenge-day.html",
 				
 				"content_html": "<p>photo challenge day 11: sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "photo challenge day 11: sky\n\n<img src=\"https://www.7robots.org/uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "photo challenge day 11: sky\n\n<img src=\"uploads/2024/img-1273.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-11T11:21:28-04:00",
 				"url": "https://www.7robots.org/2024/04/11/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1233,7 +1301,7 @@
 				"id": "http://7robots.micro.blog/2024/04/10/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 10: train</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 10: train\n\n<img src=\"https://www.7robots.org/uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
+				"content_text": "Photo challenge day 10: train\n\n<img src=\"uploads/2024/6d0580920eec46919d393c0b0c48de80.jpg\" width=\"600\" height=\"399\" alt=\"\">\n",
 				"date_published": "2024-04-10T07:25:24-04:00",
 				"url": "https://www.7robots.org/2024/04/10/photo-challenge-day.html"
 			},
@@ -1249,7 +1317,7 @@
 				"id": "http://7robots.micro.blog/2024/04/07/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 7: well-being</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"https://www.7robots.org/uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 7: well-being\n\n<img src=\"uploads/2024/6e89481248df47489c758e5ccf082313.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-07T15:20:13-04:00",
 				"url": "https://www.7robots.org/2024/04/07/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1258,7 +1326,7 @@
 				"id": "http://7robots.micro.blog/2024/04/06/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 6: windy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 6: windy\n\n<img src=\"https://www.7robots.org/uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 6: windy\n\n<img src=\"uploads/2024/812c19c4e7754ae1b3a01ff3565c7c14.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-06T15:05:50-04:00",
 				"url": "https://www.7robots.org/2024/04/06/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1267,7 +1335,7 @@
 				"id": "http://7robots.micro.blog/2024/04/05/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 5: serene</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 5: serene\n\n<img src=\"https://www.7robots.org/uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 5: serene\n\n<img src=\"uploads/2024/563c742cb96841f9be994c1a64203c31.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-05T15:31:12-04:00",
 				"url": "https://www.7robots.org/2024/04/05/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1276,7 +1344,7 @@
 				"id": "http://7robots.micro.blog/2024/04/04/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 4: foliage</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"https://www.7robots.org/uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Photo challenge day 4: foliage\n\n<img src=\"uploads/2024/8f3a78734c284fbcbb1a5126b104caa9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-04T13:24:25-04:00",
 				"url": "https://www.7robots.org/2024/04/04/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1293,7 +1361,7 @@
 				"id": "http://7robots.micro.blog/2024/04/03/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo challenge day 3: card</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo challenge day 3: card\n\n<img src=\"https://www.7robots.org/uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
+				"content_text": "Photo challenge day 3: card\n\n<img src=\"uploads/2024/be17ad0056054e48b62ef15557cb2421.jpg\" width=\"429\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-03T11:46:15-04:00",
 				"url": "https://www.7robots.org/2024/04/03/photo-challenge-day.html",
 				"tags": ["pix"]
@@ -1302,7 +1370,7 @@
 				"id": "http://7robots.micro.blog/2024/04/02/day-flowers.html",
 				
 				"content_html": "<p>Day 2: flowers</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 2: flowers\n\n<img src=\"https://www.7robots.org/uploads/2024/589f5ae7cd974e07abb709b851747d50.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
+				"content_text": "Day 2: flowers\n\n<img src=\"uploads/2024/589f5ae7cd974e07abb709b851747d50.jpg\" width=\"540\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-02T06:50:10-04:00",
 				"url": "https://www.7robots.org/2024/04/02/day-flowers.html",
 				"tags": ["pix"]
@@ -1311,7 +1379,7 @@
 				"id": "http://7robots.micro.blog/2024/04/01/day-toy.html",
 				
 				"content_html": "<p>Day 1: toy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Day 1: toy\n\n<img src=\"https://www.7robots.org/uploads/2024/e4c8a34ba56244b7a4c760fa5a08773b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Day 1: toy\n\n<img src=\"uploads/2024/e4c8a34ba56244b7a4c760fa5a08773b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-04-01T12:21:50-04:00",
 				"url": "https://www.7robots.org/2024/04/01/day-toy.html",
 				"tags": ["pix"]
@@ -1320,7 +1388,7 @@
 				"id": "http://7robots.micro.blog/2024/03/26/q-found-this.html",
 				
 				"content_html": "<p>Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"https://www.7robots.org/uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Q found this in one of my Calvin and Hobbes books. I would have cut it out from the Dallas Morning News in 1992!\n\n<img src=\"uploads/2024/4e352240488145dea80a009b1936e5d6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-03-26T20:28:38-04:00",
 				"url": "https://www.7robots.org/2024/03/26/q-found-this.html"
 			},
