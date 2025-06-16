@@ -7,6 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://7robots.micro.blog/2025/06/16/finished-reading-the-virgin-in.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307819536\">The Virgin in the Garden</a> by A. S. Byatt 📚\n2.5 stars</p>\n",
+				"content_text": "Finished reading: [The Virgin in the Garden](https://micro.blog/books/9780307819536) by A. S. Byatt 📚\n2.5 stars\n",
+				"date_published": "2025-06-16T19:54:28-04:00",
+				"url": "https://www.7robots.org/2025/06/16/finished-reading-the-virgin-in.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/16/finished-reading-abundance-by-ezra.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781668023488\">Abundance</a> by Ezra Klein 📚\n4 stars</p>\n",
+				"content_text": "Finished reading: [Abundance](https://micro.blog/books/9781668023488) by Ezra Klein 📚\n4 stars\n",
+				"date_published": "2025-06-16T19:54:00-04:00",
+				"url": "https://www.7robots.org/2025/06/16/finished-reading-abundance-by-ezra.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/10/micro-blog-photo-challenge-day.html",
+				
+				"content_html": "<p>📷 Micro Blog Photo Challenge Day 10: Rail</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Micro Blog Photo Challenge Day 10: Rail\n\n<img src=\"uploads/2025/bbdcbdb5ee.jpeg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-10T14:51:45-04:00",
+				"url": "https://www.7robots.org/2025/06/10/micro-blog-photo-challenge-day.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/09/i-finished-reading-exhibit-by.html",
+				
+				"content_html": "<p>I finished reading: <a href=\"https://micro.blog/books/9780593190036\">Exhibit</a> by R. O. Kwon 📚\n3 stars</p>\n",
+				"content_text": "I finished reading: [Exhibit](https://micro.blog/books/9780593190036) by R. O. Kwon 📚\n3 stars\n",
+				"date_published": "2025-06-09T23:01:13-04:00",
+				"url": "https://www.7robots.org/2025/06/09/i-finished-reading-exhibit-by.html"
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/09/micro-blog-photo-challenge-day.html",
+				"title": "Micro Blog Photo Challenge Day 9: Wood",
+				"content_html": "<p>📷 Micro Blog Photo Challenge Day 9: Wood</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Micro Blog Photo Challenge Day 9: Wood\n\n\n<img src=\"uploads/2025/img-0195.jpeg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-09T11:18:59-04:00",
+				"url": "https://www.7robots.org/2025/06/09/micro-blog-photo-challenge-day.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/08/microblog-photo-challenge-day-travel.html",
+				
+				"content_html": "<p>📷 micro.blog photo challenge day 8: travel</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 micro.blog photo challenge day 8: travel\n\n<img src=\"uploads/2025/55dc17c966.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-06-08T20:27:59-04:00",
+				"url": "https://www.7robots.org/2025/06/08/microblog-photo-challenge-day-travel.html",
+				"tags": ["pix"]
+			},
+			{
+				"id": "http://7robots.micro.blog/2025/06/07/finished-reading-the-black-cauldron.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780805061314\">The Black Cauldron</a> by Lloyd Alexander 📚\n4 stars</p>\n",
+				"content_text": "Finished reading: [The Black Cauldron](https://micro.blog/books/9780805061314) by Lloyd Alexander 📚\n4 stars \n",
+				"date_published": "2025-06-07T22:05:12-04:00",
+				"url": "https://www.7robots.org/2025/06/07/finished-reading-the-black-cauldron.html"
+			},
+			{
 				"id": "http://7robots.micro.blog/2025/06/07/microblog-photo-challenge-day-switch.html",
 				
 				"content_html": "<p>📷 micro.blog photo challenge day 7: switch</p>\n<!-- raw HTML omitted -->\n",
