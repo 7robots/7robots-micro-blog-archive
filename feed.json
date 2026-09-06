@@ -518,8 +518,8 @@
 			{
 				"id": "http://7robots.micro.blog/2025/03/28/finished-reading-doorways-in-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/\">Doorways in the Sand</a> by Roger Zelazny 📚\n3 stars</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Doorways in the Sand](https://micro.blog/books/) by Roger Zelazny 📚\n3 stars\n",
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/\">Doorways in the Sand</a> by Roger Zelazny 📚\n3 stars</p>\n",
+				"content_text": "Finished reading: [Doorways in the Sand](https://micro.blog/books/) by Roger Zelazny 📚\n3 stars\n",
 				"date_published": "2025-03-28T22:44:07-04:00",
 				"url": "https://www.7robots.org/2025/03/28/finished-reading-doorways-in-the.html"
 			},
